@@ -1,5 +1,13 @@
 # Week 1: Jan 24 - Jan 30
 
+<br>
+
+**The miniquestions on this page are due on Sunday January 24 at 9pm PT.**
+
+<br>
+
+Normally, there is a 10% per day penalty for late submissions after the Sunday 9pm PT deadline, with late submissions accepted until Wednesday at 9pm PT. But because this is the first week, there is no late penalty and all submissions received by Wednesday January 27 at 9pm PT will receive full credit.
+
 ## Topics
 
 1. [Representing position as a vector](#1-representing-position-as-a-vector)
