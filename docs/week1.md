@@ -6,7 +6,7 @@
 
 <br>
 
-Normally, there is a 10% per day penalty for late submissions after the Sunday 9pm PT deadline, with late submissions accepted until Wednesday at 9pm PT. But because this is the first week, there is no late penalty and all submissions received by Wednesday January 27 at 9pm PT will receive full credit.
+Normally, there is a 10% per day penalty for late submissions after the Sunday 9pm PT deadline, with late submissions accepted until Wednesdays at 9pm PT. But because this is the first week, there is no late penalty and all submissions received by Wednesday January 27 at 9pm PT will receive full credit.
 
 ## Topics
 
@@ -26,9 +26,7 @@ Full textbook readings and extra problems available at the [bottom of the page](
 ### 1. Representing Position as a Vector
 
 
-[click to open video in new tab](https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/view?usp=sharing){:target="_blank"}
-
-<iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480">
+<iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br> <br>
@@ -47,9 +45,8 @@ Full textbook readings and extra problems available at the [bottom of the page](
 
 ### 2. Relative Position
 
-[click to open video in new tab](https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/view?usp=sharing){:target="_blank"}
 
-<iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480">
+<iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br> <br>
