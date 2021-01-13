@@ -1,11 +1,7 @@
-# Motion 1
-
-Motion 1 covers the first-half of Physics 24 (weeks 1-7).
-
-## Weekly Content 
+# Weekly Content 
 ### (due Sunday at the start of each week)
 
-Each week, follow the links below to the content and miniquestions that are assigned. All in-class activities each week will assume that you have already watched all of the assigned content and completed the corresponding miniquestions before class on Monday. 
+Motion 1 covers the first-half of Physics 24 (weeks 1-7). Each week, follow the links below to the content and miniquestions that are assigned. All in-class activities each week will assume that you have already watched all of the assigned content and completed the corresponding miniquestions before class on Monday. 
 
 Dates | Topics
 ----- | -------
