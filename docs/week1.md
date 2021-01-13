@@ -2,34 +2,59 @@
 
 ## Topics
 
-- representing vectors
-- kinematics 
-    - motion in a straight line
-    - relative motion
-    - circular motion
-    - constant acceleration
+1. [Representing position as a vector](#representing-position-as-a-vector)
+2. [Relative position](#relative-position)
+3. [Position, velocity, and acceleration](#position-velocity-and-acceleration)
+4. [Constant acceleration](#constant-acceleration)
+    - solving a 1st order, separable, ordinary differential equations
+5. [Circular motion](#circular-motion)
+    - representing vectors in a polar basis set
 
-## Videos
+Full textbook readings and extra problems available at the [bottom of the page](#readings-and-extra-problems).
 
-### Test
+
+### Representing Position as a Vector
+
 
 [click to open video in new tab](https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/view?usp=sharing){:target="_blank"}
 
 <iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480">
 </iframe>
 
-### Representing Position as a Vector
+<br> <br>
 
-### Position, Velocity, and Acceleration 
-
-
---------------------------------------------------------
-
-#### Miniquestion 4: Propagating Error from Terminal Speed to Viscosity
+#### Miniquestion 1: Representing position as a vector
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
+
+<br>
+
+------------------------------------------------
+
+### Relative Position
+
+[click to open video in new tab](https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/view?usp=sharing){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480">
+</iframe>
+
+<br> <br>
+
+#### Miniquestion 2: Relative Position
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br>
+
+--------------------------------------------------
+
+
+### Position, Velocity, and Acceleration 
+
 
 
 ## Readings & Extra Problems
@@ -39,9 +64,9 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Day 1](https://drive.google.com/file/d/1f-K8tt_ZtxRbL62liCbMyhVCCIoZCBkb/view?usp=sharing){:target="_blank"} <br> [Day 1 Extra Problems](https://drive.google.com/file/d/1s6usNjR6rw6oGdewIukkgQ2OwTOVkjFe/view?usp=sharing){:target="_blank"} |One dimensional motion and vectors
-[Day 2](https://drive.google.com/file/d/1mjf2urQ5W2OLHNOnknhwWeysj9siwuc_/view?usp=sharing){:target="_blank"} <br> [Day 2 Extra Problems](https://drive.google.com/file/d/1yO7aKHAe12k3A9eHuvVpyjOcoZCbhkI2/view?usp=sharing){:target="_blank"} |   Inertial frames and relative motion
-[Day 5.3-5.5](https://drive.google.com/file/d/13C67KmLYZkeiC1wp_NKbUfWFYkwOrQiu/view?usp=sharing){:target="_blank"} <br> [Day 5.3-5.5 Extra Problems](https://drive.google.com/file/d/1XP3hQ3zskzCqiFOBykEK4PC4ZvPBlHXP/view?usp=sharing){:target="_blank"} | Constant acceleration, circular motion, angular speed
+[Day 1 Reading](https://drive.google.com/file/d/1f-K8tt_ZtxRbL62liCbMyhVCCIoZCBkb/view?usp=sharing){:target="_blank"} <br> [Day 1 Extra Problems](https://drive.google.com/file/d/1s6usNjR6rw6oGdewIukkgQ2OwTOVkjFe/view?usp=sharing){:target="_blank"} |One dimensional motion and vectors
+[Day 2 Reading](https://drive.google.com/file/d/1mjf2urQ5W2OLHNOnknhwWeysj9siwuc_/view?usp=sharing){:target="_blank"} <br> [Day 2 Extra Problems](https://drive.google.com/file/d/1yO7aKHAe12k3A9eHuvVpyjOcoZCbhkI2/view?usp=sharing){:target="_blank"} |   Inertial frames and relative motion
+[Day 5.3-5.5 Reading](https://drive.google.com/file/d/13C67KmLYZkeiC1wp_NKbUfWFYkwOrQiu/view?usp=sharing){:target="_blank"} <br> [Day 5.3-5.5 Extra Problems](https://drive.google.com/file/d/1XP3hQ3zskzCqiFOBykEK4PC4ZvPBlHXP/view?usp=sharing){:target="_blank"} | Constant acceleration, circular motion, angular speed
 
 
 
