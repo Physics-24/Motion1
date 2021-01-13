@@ -4,14 +4,16 @@
 
 1. [Representing position as a vector](#1-representing-position-as-a-vector)
 2. [Relative position](#2-relative-position)
-3. [Position, velocity, and acceleration](#position-velocity-and-acceleration)
-4. [Constant acceleration](#constant-acceleration)
+3. [Position, velocity, and acceleration](#3-position-velocity-and-acceleration)
+4. [Constant acceleration](#4-constant-acceleration)
     - solving a 1st order, separable, ordinary differential equations
-5. [Circular motion](#circular-motion)
+5. [Circular motion](#5-circular-motion)
     - representing vectors in a polar basis set
 
 Full textbook readings and extra problems available at the [bottom of the page](#readings-and-extra-problems).
 
+
+------------------------------------------
 
 ### 1. Representing Position as a Vector
 
@@ -33,6 +35,8 @@ Full textbook readings and extra problems available at the [bottom of the page](
 
 ------------------------------------------------
 
+<br>
+
 ### 2. Relative Position
 
 [click to open video in new tab](https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/view?usp=sharing){:target="_blank"}
@@ -52,10 +56,16 @@ Full textbook readings and extra problems available at the [bottom of the page](
 
 --------------------------------------------------
 
+<br>
 
-### Position, Velocity, and Acceleration 
+### 3. Position, Velocity, and Acceleration 
 
 
+<br> 
+
+----------------------------
+
+<br>
 
 ## Readings & Extra Problems
 
