@@ -2,8 +2,8 @@
 
 ## Topics
 
-1. [Representing position as a vector](#representing-position-as-a-vector)
-2. [Relative position](#relative-position)
+1. [Representing position as a vector](#1-representing-position-as-a-vector)
+2. [Relative position](#2-relative-position)
 3. [Position, velocity, and acceleration](#position-velocity-and-acceleration)
 4. [Constant acceleration](#constant-acceleration)
     - solving a 1st order, separable, ordinary differential equations
@@ -13,7 +13,7 @@
 Full textbook readings and extra problems available at the [bottom of the page](#readings-and-extra-problems).
 
 
-### Representing Position as a Vector
+### 1. Representing Position as a Vector
 
 
 [click to open video in new tab](https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/view?usp=sharing){:target="_blank"}
@@ -33,7 +33,7 @@ Full textbook readings and extra problems available at the [bottom of the page](
 
 ------------------------------------------------
 
-### Relative Position
+### 2. Relative Position
 
 [click to open video in new tab](https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/view?usp=sharing){:target="_blank"}
 
