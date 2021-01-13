@@ -29,7 +29,9 @@ Full textbook readings and extra problems available at the [bottom of the page](
 <iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
-[Download notes: representing-position-as-a-vector.pdf](https://drive.google.com/file/d/14e6B0y4vWgc3a-FTCRRUuqAhEHIj5TLh/view){:target="_blank"}
+<br>
+
+Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com/file/d/14e6B0y4vWgc3a-FTCRRUuqAhEHIj5TLh/view){:target="_blank"}
 
 <br> <br>
 
