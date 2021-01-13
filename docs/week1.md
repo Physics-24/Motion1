@@ -39,11 +39,9 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Day 1](https://drive.google.com/file/d/1f-K8tt_ZtxRbL62liCbMyhVCCIoZCBkb/view?usp=sharing){:target="_blank"} <br> [Day 1 Extra Problems](https://drive.google.com/file/d/1s6usNjR6rw6oGdewIukkgQ2OwTOVkjFe/view?usp=sharing){:target="_blank"} |   One dimensional motion and vectors
+[Day 1](https://drive.google.com/file/d/1f-K8tt_ZtxRbL62liCbMyhVCCIoZCBkb/view?usp=sharing){:target="_blank"} <br> [Day 1 Extra Problems](https://drive.google.com/file/d/1s6usNjR6rw6oGdewIukkgQ2OwTOVkjFe/view?usp=sharing){:target="_blank"} |One dimensional motion and vectors
 [Day 2](https://drive.google.com/file/d/1mjf2urQ5W2OLHNOnknhwWeysj9siwuc_/view?usp=sharing){:target="_blank"} <br> [Day 2 Extra Problems](https://drive.google.com/file/d/1yO7aKHAe12k3A9eHuvVpyjOcoZCbhkI2/view?usp=sharing){:target="_blank"} |   Inertial frames and relative motion
-[Day 5.3-5.5](https://drive.google.com/file/d/13C67KmLYZkeiC1wp_NKbUfWFYkwOrQiu/view?usp=sharing){:target="_blank"} <br> 
-[Day 5.3-5.5 Extra Problems](https://drive.google.com/file/d/1XP3hQ3zskzCqiFOBykEK4PC4ZvPBlHXP/view?usp=sharing){:target="_blank"}
-| Constant acceleration, circular motion, angular speed
+[Day 5.3-5.5](https://drive.google.com/file/d/13C67KmLYZkeiC1wp_NKbUfWFYkwOrQiu/view?usp=sharing){:target="_blank"} <br> [Day 5.3-5.5 Extra Problems](https://drive.google.com/file/d/1XP3hQ3zskzCqiFOBykEK4PC4ZvPBlHXP/view?usp=sharing){:target="_blank"} | Constant acceleration, circular motion, angular speed
 
 
 
