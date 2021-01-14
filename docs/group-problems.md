@@ -8,16 +8,15 @@ Solutions for the group problems are made available on Thursday afternoon. We st
  ### Week 1
  Tuesday | [Problem 1](){:target="_blank"} | [Problem 2](){:target="_blank"} | [Solutions](){:target="_blank"} 
  --|-- | --|-- 
- [**Thursday**]](){:target="_blank"} | [**Problem 1**]](){:target="_blank"} | [**Problem 2**]](){:target="_blank"}| [**Solutions**](){:target="_blank"} 
+ [**Thursday**](){:target="_blank"} | [**Problem 1**](){:target="_blank"} | [**Problem 2**](){:target="_blank"}| [**Solutions**](){:target="_blank"} 
 
 
  ### Week 2
  Tuesday | [Problem 1](){:target="_blank"} | [Problem 2](){:target="_blank"} | [Solutions](){:target="_blank"} 
  --|-- | --|-- 
- [**Thursday**]](){:target="_blank"} | [**Problem 1**]](){:target="_blank"} | [**Problem 2**]](){:target="_blank"}| [**Solutions**](){:target="_blank"} 
-
+ [**Thursday**](){:target="_blank"} | [**Problem 1**](){:target="_blank"} | [**Problem 2**](){:target="_blank"}
 
  ### Week 3
  Tuesday | [Problem 1](){:target="_blank"} | [Problem 2](){:target="_blank"} | [Solutions](){:target="_blank"} 
  --|-- | --|-- 
- [**Thursday**]](){:target="_blank"} | [**Problem 1**]](){:target="_blank"} | [**Problem 2**]](){:target="_blank"}| [**Solutions**](){:target="_blank"} 
+ [**Thursday**](){:target="_blank"} | [**Problem 1**](){:target="_blank"} | [**Problem 2**](){:target="_blank"}
