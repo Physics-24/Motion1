@@ -6,23 +6,22 @@ The solo problems are timed and closed book, closed notes. You have one hour to 
 Solo problems are worth 20% of your total grade. 
 
 
+### Week 1
 
- ### Week 1
+due Saturday, January 30 9pm PT
+ 
++ [Problem 1](){:target="_blank"} 
++ [Problem 2](){:target="_blank"} 
+ 
+<!---  [Solutions](){:target="_blank"} --->
+ 
+ 
+### Week 2
 
- due Saturday, January 30 9pm PT
- 
- + [Problem 1](){:target="_blank"} 
- + [Problem 2](){:target="_blank"} 
- 
- <!---  [Solutions](){:target="_blank"} --->
- 
- 
- ### Week 2
- 
- due Saturday, February 6 9pm PT
- 
- + [Problem 1](){:target="_blank"} 
- + [Problem 2](){:target="_blank"} 
- 
- <!---  [Solutions](){:target="_blank"} --->
+due Saturday, February 6 9pm PT
+
++ [Problem 1](){:target="_blank"} 
++ [Problem 2](){:target="_blank"} 
+
+<!---  [Solutions](){:target="_blank"} --->
  
