@@ -7,14 +7,17 @@ Recitation participation is synchronous and mandatory. Recitation participation 
 
 *Note: Some of the links may not be active yet or might have restricted permissions. Please let Prof. Ilton know if there is an inactive/restricted link that you think you should have access to.*
 
-## Week 1
+<br>
 
-Monday Jan 25       | [Recitation Set 1](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"}
--------------|----------------------------------| --------------------------------| -------------------------|
-**Wednesday Jan 27** | [**Recitation Set 2**](){:target="_blank"} | [**Answers**](){:target="_blank"} | [**Solutions**](){:target="_blank"}
+Week 1 |  |  | |
+---| --- | -- | -- |
+Monday Jan 25 | [Recitation Set 1](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"} 
+Wednesday Jan 27 | [Recitation Set 2](){:target="_blank"} | [Answers](){:target="_blank"}| [Solutions](){:target="_blank"} 
 
-## Week 2
+<br>
 
-Monday Feb 1      | [Recitation Set 3](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"}
--------------|----------------------------------| --------------------------------| -------------------------|
-**Wednesday Feb 3** | [**Recitation Set 4**](){:target="_blank"} | [**Answers**](){:target="_blank"} | [**Solutions**](){:target="_blank"}
+Week 2 |  |  | |
+---| --- | -- | -- |
+Monday Feb 1 | [Recitation Set 3](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"} 
+Wednesday Feb 3 | [Recitation Set 4](){:target="_blank"} | [Answers](){:target="_blank"}| [Solutions](){:target="_blank"} 
+
