@@ -4,7 +4,6 @@ description: Harvey Mudd College
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-   include_sidebar: false
 relative_links:
   enabled:     true
   collections: false
