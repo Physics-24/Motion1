@@ -11,3 +11,5 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   parse_block_html: true
+ extra_css:
+    - css/extra.css 
