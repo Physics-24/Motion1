@@ -33,12 +33,12 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com/file/d/14e6B0y4vWgc3a-FTCRRUuqAhEHIj5TLh/view){:target="_blank"}
 
-<br> <br>
+<br> 
 
 #### Miniquestion 1: Representing position as a vector
 **Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/AGzc2xnbV3xRkt4Q6){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7iqoPVLfpSuHG92gdejEkHFZTvHZx9OqplQOTAb0Cj9Mm3w/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7iqoPVLfpSuHG92gdejEkHFZTvHZx9OqplQOTAb0Cj9Mm3w/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 <br>
 
