@@ -5,19 +5,20 @@ Recitation participation is synchronous and mandatory. Recitation participation 
 
 <br>
 
-*Note: Some of the links may not be active yet or might have restricted permissions. Please let Prof. Ilton know if there is an inactive/restricted link that you think you should have access to.*
+*Note: Some of the links may not be active yet or might have restricted permissions. Please let Prof. Ilton know by email if there is an inactive/restricted link that you think you should have access to.*
 
 <br>
 
 Week 1 |  |  | |
 ---| --- | -- | -- |
-Monday Jan 25 | [Recitation Set 1](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"} 
-Wednesday Jan 27 | [Recitation Set 2](){:target="_blank"} | [Answers](){:target="_blank"}| [Solutions](){:target="_blank"} 
+Monday Jan 25 | [Recitation Set 1](https://drive.google.com/file/d/17-BO5-COXz8k1OUC6kSYbPX-vUTu93-4/view?usp=sharing){:target="_blank"} | Answers | Solutions 
+Wednesday Jan 27 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view?usp=sharing){:target="_blank"} | Answers | Solutions
 
 <br>
 
 Week 2 |  |  | |
 ---| --- | -- | -- |
-Monday Feb 1 | [Recitation Set 3](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"} 
-Wednesday Feb 3 | [Recitation Set 4](){:target="_blank"} | [Answers](){:target="_blank"}| [Solutions](){:target="_blank"} 
+Monday Feb 1 | Recitation Set 3 | Answers | Solutions
+Wednesday Feb 3 | Recitation Set 4 | Answers | Solutions
+
 

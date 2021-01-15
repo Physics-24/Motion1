@@ -2,11 +2,11 @@
 
 <br>
 
-**The miniquestions for all of the topics on this page are due on Sunday January 24 at 9pm PT.**
+Normally, the miniquestions are due Sundays at 9pm PT. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 27 at 9pm PT.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
+
 
 <br>
 
-Normally, there is a 10% per day penalty for late submissions after the Sunday 9pm PT deadline, with late submissions accepted until Wednesdays at 9pm PT. But because this is the first week, there is no late penalty and all submissions received by Wednesday January 27 at 9pm PT will receive full credit.
 
 ## Topics
 
@@ -18,7 +18,7 @@ Normally, there is a 10% per day penalty for late submissions after the Sunday 9
 5. [Circular motion](#5-circular-motion)
     - representing vectors in a polar basis set
 
-Full textbook readings and extra problems available at the [bottom of the page](#readings-and-extra-problems).
+Full textbook readings and optional extra problems available at the [bottom of the page](#readings-and-extra-problems).
 
 
 ------------------------------------------
@@ -36,11 +36,10 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 <br> <br>
 
 #### Miniquestion 1: Representing position as a vector
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform){:target="_blank"}
+**Recommended:** [*Click here to open in a new tab*](https://forms.gle/AGzc2xnbV3xRkt4Q6){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7iqoPVLfpSuHG92gdejEkHFZTvHZx9OqplQOTAb0Cj9Mm3w/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
-
 <br>
 
 ------------------------------------------------
@@ -76,7 +75,7 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 
 <br>
 
-## Readings & Extra Problems
+## Optional Readings & Extra Problems
 
 In case you would like a textbook reference for the material presented above, here are links to pdfs of the corresponding sections of the textbook "Motion" by Prof. Tom Helliwell. Note the sections of the book are labeled as "Day 1", "Day 2", etc. in the pdf files. Also provided is a link to extra problems from each section of the book if you would like additional practice. You can check your answers to odd-numbered problems in the back of the book: [answers to odd numbered problems](https://drive.google.com/file/d/1fy-ZFPoq-9iIml1Ly844rHdsNjBmd4xi/view?usp=sharing){:target="_blank"}
 
