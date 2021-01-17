@@ -11,7 +11,7 @@ Normally, the miniquestions are due Sundays at 9pm PT. But because this is the f
 ## Topics
 
 1. [Representing position as a vector](#1-representing-position-as-a-vector)
-2. [Relative position](#2-relative-position)
+2. [Relative position and velocity](#2-relative-position-and-velocity)
 3. [Position, velocity, and acceleration](#3-position-velocity-and-acceleration)
 4. [Constant acceleration](#4-constant-acceleration)
     - solving a 1st order, separable, ordinary differential equations
@@ -46,13 +46,17 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 
 <br>
 
-### 2. Relative Position
+### 2. Relative Position and Velocity
 
 
 <iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
-<br> <br>
+<br> 
+
+Download notes: [relative-position-and-velocity.pdf](https://drive.google.com/file/d/1RKMFaR5TJYvBWWr_IpFLzuy4G0KRN2pH/view){:target="_blank"}
+
+<br>
 
 #### Miniquestion 2: Relative Position and Velocity
 **Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/KZw8HQojU4FV9UJ9A){:target="_blank"}
