@@ -71,7 +71,9 @@ Download notes: [relative-position-and-velocity.pdf](https://drive.google.com/fi
 
 ### 3. Position, Velocity, and Acceleration 
 
+<br>
 
+Download notes: [position-velocity-and-acceleration.pdf](https://drive.google.com/file/d/1gZSSfUaizrDt0e2Vp9Ha-Kj-4Ihvi609/view){:target="_blank"}
 
 #### Miniquestion 3: Position, Velocity, and Acceleration
 **Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/tDmsso4vBuqvHzBJ9){:target="_blank"}
