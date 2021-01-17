@@ -48,10 +48,11 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 
 ### 2. Relative Position and Velocity
 
-
+<!-- 
 <iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
+-->
 <br> 
 
 Download notes: [relative-position-and-velocity.pdf](https://drive.google.com/file/d/1RKMFaR5TJYvBWWr_IpFLzuy4G0KRN2pH/view){:target="_blank"}
