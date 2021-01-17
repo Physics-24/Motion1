@@ -18,7 +18,7 @@ Normally, the miniquestions are due Sundays at 9pm PT. But because this is the f
 5. [Circular motion](#5-circular-motion)
     - representing vectors in a polar basis set
 
-Full textbook readings and optional extra problems available at the [bottom of the page](#readings-and-extra-problems).
+Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
 
 
 ------------------------------------------
@@ -68,13 +68,21 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 ### 3. Position, Velocity, and Acceleration 
 
 
-<br> 
 
-----------------------------
+#### Miniquestion 3: Position, Velocity, and Acceleration
+**Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/tDmsso4vBuqvHzBJ9){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-cZJzN1AYLEcuRa2oGWWX-R_4mpa6ZJV6ruucgazviRBjsQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+<br>
+
+------------------------------------------------
+
+
 
 <br>
 
-## Optional Readings & Extra Problems
+## Optional Readings and Extra Problems
 
 In case you would like a textbook reference for the material presented above, here are links to pdfs of the corresponding sections of the textbook "Motion" by Prof. Tom Helliwell. Note the sections of the book are labeled as "Day 1", "Day 2", etc. in the pdf files. Also provided is a link to extra problems from each section of the book if you would like additional practice. You can check your answers to odd-numbered problems in the back of the book: [answers to odd numbered problems](https://drive.google.com/file/d/1fy-ZFPoq-9iIml1Ly844rHdsNjBmd4xi/view?usp=sharing){:target="_blank"}
 
