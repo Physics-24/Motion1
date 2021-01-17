@@ -36,7 +36,7 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 <br> 
 
 #### Miniquestion 1: Representing position as a vector
-**Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/AGzc2xnbV3xRkt4Q6){:target="_blank"}
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/AGzc2xnbV3xRkt4Q6){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7iqoPVLfpSuHG92gdejEkHFZTvHZx9OqplQOTAb0Cj9Mm3w/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
@@ -60,7 +60,7 @@ Download notes: [relative-position-and-velocity.pdf](https://drive.google.com/fi
 <br>
 
 #### Miniquestion 2: Relative Position and Velocity
-**Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/KZw8HQojU4FV9UJ9A){:target="_blank"}
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/KZw8HQojU4FV9UJ9A){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL6LO11zaY5LmD_j177ux_6VuDRdjPY6GO-4QiCtwzzOS1Tw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
@@ -77,7 +77,7 @@ Download notes: [relative-position-and-velocity.pdf](https://drive.google.com/fi
 Download notes: [position-velocity-and-acceleration.pdf](https://drive.google.com/file/d/1gZSSfUaizrDt0e2Vp9Ha-Kj-4Ihvi609/view){:target="_blank"}
 
 #### Miniquestion 3: Position, Velocity, and Acceleration
-**Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/tDmsso4vBuqvHzBJ9){:target="_blank"}
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/tDmsso4vBuqvHzBJ9){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-cZJzN1AYLEcuRa2oGWWX-R_4mpa6ZJV6ruucgazviRBjsQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
