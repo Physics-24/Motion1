@@ -54,15 +54,14 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 
 <br> <br>
 
-#### Miniquestion 2: Relative Position
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform){:target="_blank"}
+#### Miniquestion 2: Relative Position and Velocity
+**Recommended:** [*Click here to open the miniquestion in a new tab*](https://forms.gle/KZw8HQojU4FV9UJ9A){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN_9bu9VkA7aEr6lyVUvddwqyQ9i76D7L3HRkSNcxkbsTRkQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL6LO11zaY5LmD_j177ux_6VuDRdjPY6GO-4QiCtwzzOS1Tw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
-
 <br>
 
---------------------------------------------------
+------------------------------------------------
 
 <br>
 
