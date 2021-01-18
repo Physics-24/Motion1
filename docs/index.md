@@ -2,12 +2,12 @@
 
 
 ### Weekly routine:
-Day  | Link 
---- | ----
-Sundays |  [Weekly Content](weekly-content){:target="_blank"} - due Sundays 9pm PT
-Mondays, Wednesdays | [Recitations](recitations){:target="_blank"} - in class
-Tuesdays, Thursdays | [Group Problems](group-problems){:target="_blank"} -  in class
-Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Saturdays 9pm PT
+Day  | Link |
+--- | ---- |
+Sundays |  [Weekly Content](weekly-content){:target="_blank"} - due Sundays 9pm PT |
+Mondays, Wednesdays | [Recitations](recitations){:target="_blank"} - in class |
+Tuesdays, Thursdays | [Group Problems](group-problems){:target="_blank"} -  in class |
+Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Saturdays 9pm PT |
 
 ### Resources:
 + [Office Hours](office-hours){:target="_blank"}
