@@ -15,7 +15,7 @@ Normally, the miniquestions are due Sundays at 9pm PT. But because this is the f
 3. [Position, velocity, and acceleration](#3-position-velocity-and-acceleration)
 4. [Constant acceleration](#4-constant-acceleration-motion)
     - solving a 1st order, separable, ordinary differential equations
-5. [Circular motion](#5-circular-motion)
+5. [Uniform circular motion](#5-uniform-circular-motion)
     - representing vectors in a polar basis set
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
