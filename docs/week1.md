@@ -105,7 +105,14 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 ------------------------------------
 <br> 
 
-### 5. Circular Motion
+### 5. Uniform Circular Motion
+
+Download notes: [uniform-circular-motion.pdf](https://drive.google.com/file/d/1UbWWAEew6XmYmTJIk8_w_5c8RBg1C_Jc/view){:target="_blank"}
+
+<br> 
+
+#### Miniquestion 5: Uniform Circular Motion
+
 
 ## Optional Readings and Extra Problems
 
