@@ -2,13 +2,13 @@
 
 Welcome to Physics 24!
 
-Weekly schedule:
+### Weekly routine:
 + [Weekly Content - due Sundays 9pm PT](weekly-content){:target="_blank"}
 + [Recitations - Mondays/Wednesdays in class](recitations){:target="_blank"}
 + [Group Problems - Tuesdays/Thursdays in class](group-problems){:target="_blank"}
 + [Solo Problems - due Saturdays 9pm PT](solo-problems){:target="_blank"}
 
-Resources:
+### Resources:
 + [Office Hours](office-hours){:target="_blank"}
 + [Piazza](https://piazza.com/hmc/spring2021/phys24){:target="_blank"}
 
