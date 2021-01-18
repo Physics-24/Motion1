@@ -7,6 +7,7 @@ Normally, the miniquestions are due Sundays at 9pm PT. But because this is the f
 
 <br>
 
+This week is all about "describing motion", which is also called kinematics. Even if this topic is familiar to you from a previous course, we are treating this topic with your MATH 19 preparation in mind. Be on the lookout for sophisticated mathematical machinery being introduced this week, including Cartesian and Polar basis vectors, as well as solving a separable 1st order ordinary differential equation.
 
 ## Topics
 
