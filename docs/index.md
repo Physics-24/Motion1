@@ -3,10 +3,12 @@
 Welcome to Physics 24!
 
 ### Weekly routine:
-+ [Weekly Content - due Sundays 9pm PT](weekly-content){:target="_blank"}
-+ [Recitations - Mondays/Wednesdays in class](recitations){:target="_blank"}
-+ [Group Problems - Tuesdays/Thursdays in class](group-problems){:target="_blank"}
-+ [Solo Problems - due Saturdays 9pm PT](solo-problems){:target="_blank"}
+Day  | Link 
+--- | ----
+Sundays |  [Weekly Content](weekly-content){:target="_blank"} - due Sundays 9pm PT
+Mondays, Wednesdays | [Recitations](recitations){:target="_blank"} - in class
+Tuesdays, Thursdays | [Group Problems](group-problems){:target="_blank"} -  in class
+Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Saturdays 9pm PT
 
 ### Resources:
 + [Office Hours](office-hours){:target="_blank"}
