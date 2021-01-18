@@ -1,6 +1,5 @@
 # Physics 24 Spring 2021
 
-Welcome to Physics 24!
 
 ### Weekly routine:
 Day  | Link 
@@ -15,6 +14,8 @@ Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Saturdays 9pm
 + [Piazza](https://piazza.com/hmc/spring2021/phys24){:target="_blank"}
 
 ## About this course
+
+Welcome to Physics 24!
 
 To make the most out of our synchronous time together, our weekly class meetings (M/W recitation; Tu/Th whole class) are focused on collaborative problem solving activities. This means that you are responsible for reading/watching the weekly course content before the start of each week. To make digesting this content easier, each week is broken up into smaller sections, and you will complete guided "miniquestions" after each section. 
 
