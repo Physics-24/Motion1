@@ -13,7 +13,7 @@ Normally, the miniquestions are due Sundays at 9pm PT. But because this is the f
 1. [Representing position as a vector](#1-representing-position-as-a-vector)
 2. [Relative position and velocity](#2-relative-position-and-velocity)
 3. [Position, velocity, and acceleration](#3-position-velocity-and-acceleration)
-4. [Constant acceleration](#4-constant-acceleration)
+4. [Constant acceleration](#4-constant-acceleration-motion)
     - solving a 1st order, separable, ordinary differential equations
 5. [Circular motion](#5-circular-motion)
     - representing vectors in a polar basis set
@@ -84,10 +84,26 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ------------------------------------------------
+<br>
 
-
+### 4. Constant Acceleration Motion
 
 <br>
+
+Download notes: [constant-acceleration-motion.pdf](https://drive.google.com/file/d/1ut8fGNQlvFnVHqqEoD-YBau6EFH33p78/view){:target="_blank"}
+
+#### Miniquestion 4: Constant Acceleration Motion?
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/a8Ljo6zJx2KcG2ut8){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfciZPuGgaZ6CZe7Ff8F7JkVeOFPSYngnyfxOXG9OaPBoYtgg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br>
+
+------------------------------------
+<br> 
+
+### 5. Circular Motion
 
 ## Optional Readings and Extra Problems
 
