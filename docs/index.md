@@ -1,17 +1,26 @@
-# Weekly Content 
-### (miniquestions due Sundays 9pm PT at the start of each week)
+# Physics 24 Spring 2021
 
-Motion 1 covers the first-half of Physics 24 (weeks 1-7). Each week, follow the links below to the content and miniquestions that are assigned. All in-class activities each week will assume that you have already watched all of the assigned content and completed the corresponding miniquestions.
+Welcome to Physics 24!
 
-Dates | Topics
------ | -------
-[Week 1 <br> Jan 24 - Jan 30](week1) |Vectors, kinematics, circular motion
-Week 2 <br> Jan 31 - Feb 6 |  Newton's laws, center-of-mass, conservation of momentum
-Week 3 <br> Feb 7 - Feb 13 |  Isolation diagrams, contact forces, gravity; springs, rods and ropes; internal forces
-Week 4 <br>  Feb 14 - Feb 20 |  Friction and drag
-Week 5 <br> Feb 21 - Feb 27 | Conservation of energy, gravitational potential energy, spring potential energy, kinetic energy, work
-Week 6 <br>  Feb 28 - Mar 6 |  Work-energy theorem, elastic & inelastic collisions
-Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
-Week 7 <br>  Mar 14 - Mar 20 |  Review of Motion 1; Midterm Exam
+Weekly schedule:
++ [Weekly Content - due Sundays 9pm PT](weekly-content){:target="_blank"}
++ [Recitations - Mondays/Wednesdays in class](recitations){:target="_blank"}
++ [Group Problems - Tuesdays/Thursdays in class](group-problems){:target="_blank"}
++ [Solo Problems - due Saturdays 9pm PT](solo-problems){:target="_blank"}
 
+Resources:
++ [Office Hours](office-hours){:target="_blank"}
++ [Piazza](https://piazza.com/hmc/spring2021/phys24){:target="_blank"}
 
+## About this course
+
+To make the most out of our synchronous time together, our weekly class meetings (M/W recitation; Tu/Th whole class) are focused on collaborative problem solving activities. This means that you are responsible for reading/watching the weekly course content before the start of each week. To make digesting this content easier, each week is broken up into smaller sections, and you will complete guided "miniquestions" after each section. 
+
+At the end of each week, you are responsible for completing two closed-book, closed-note, time-constrained problems ("Solo Problems") related to that week's material. Our primary method to assess performance in this course is with a closed-book final exam. We view the ability to apply physical principles to independently solve problems as one of the primary goals of this course. The weekly solo problems provide you with the chance to more frequently practice this skill, and check your understanding as you complete each week.
+
+ 
+To get started, first read over the course syllabus which contains important information about course policies. Then, start by diving in to the first week's content using the "Weekly Content (Sun)" tab in the side menu.
+
+If you have any logistical questions, please post them up on our class Piazza page: https://piazza.com/hmc/spring2021/phys24
+
+If you are having difficulties accessing Piazza at the above link, please email Prof. Ilton.
