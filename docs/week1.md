@@ -51,9 +51,9 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <!-- 
 <iframe src="https://drive.google.com/file/d/1r0U5jU8VXzeWA7FN7oT9Q0AdwrRuBfkT/preview" width="640" height="480" allowfullscreen>
 </iframe>
+<br> 
 
 -->
-<br> 
 
 Download notes: [relative-position-and-velocity.pdf](https://drive.google.com/file/d/1RKMFaR5TJYvBWWr_IpFLzuy4G0KRN2pH/view){:target="_blank"}
 
@@ -72,9 +72,10 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Position, Velocity, and Acceleration 
 
-<br>
 
 Download notes: [position-velocity-and-acceleration.pdf](https://drive.google.com/file/d/1gZSSfUaizrDt0e2Vp9Ha-Kj-4Ihvi609/view){:target="_blank"}
+
+<br>
 
 #### Miniquestion 3: Position, Velocity, and Acceleration
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/tDmsso4vBuqvHzBJ9){:target="_blank"}
@@ -88,9 +89,10 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Constant Acceleration Motion
 
-<br>
 
 Download notes: [constant-acceleration-motion.pdf](https://drive.google.com/file/d/1ut8fGNQlvFnVHqqEoD-YBau6EFH33p78/view){:target="_blank"}
+
+<br>
 
 #### Miniquestion 4: Constant Acceleration Motion?
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/a8Ljo6zJx2KcG2ut8){:target="_blank"}
