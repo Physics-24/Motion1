@@ -10,9 +10,13 @@ Mondays, Wednesdays | [Recitations](recitations){:target="_blank"} - in class |
 Tuesdays, Thursdays | [Group Problems](group-problems){:target="_blank"} -  in class |
 Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Saturdays 9pm PT |
 
+<br>
+
 ### Resources:
 + [Office Hours](office-hours){:target="_blank"}
 + [Piazza](https://piazza.com/hmc/spring2021/phys24){:target="_blank"}
+
+<br>
 
 ## About this course
 
