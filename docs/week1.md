@@ -73,6 +73,11 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 ### 3. Position, Velocity, and Acceleration 
 
 
+<iframe src="https://drive.google.com/file/d/1_U3ekLf3m8BhGZwtpZClzS6gIYjsTTDV/preview" width="640" height="480" allowfullscreen>
+</iframe>
+
+<br>
+
 Download notes: [position-velocity-and-acceleration.pdf](https://drive.google.com/file/d/1gZSSfUaizrDt0e2Vp9Ha-Kj-4Ihvi609/view){:target="_blank"}
 
 <br>
