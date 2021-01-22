@@ -120,6 +120,11 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Uniform Circular Motion
 
+<iframe src="https://drive.google.com/file/d/1l95wYplIZ4uO4JoUrukjKc8MsOqZr1_n/preview" width="640" height="480" allowfullscreen>
+</iframe>
+
+<br>
+
 Download notes: [uniform-circular-motion.pdf](https://drive.google.com/file/d/1UbWWAEew6XmYmTJIk8_w_5c8RBg1C_Jc/view){:target="_blank"}
 
 <br> 
