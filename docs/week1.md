@@ -94,6 +94,10 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Constant Acceleration Motion
 
+<iframe src="https://drive.google.com/file/d/1hyJEDiWCRIZdxgHRKExTUtwEsfNU02cG/preview" width="640" height="480" allowfullscreen>
+</iframe>
+
+<br>
 
 Download notes: [constant-acceleration-motion.pdf](https://drive.google.com/file/d/1ut8fGNQlvFnVHqqEoD-YBau6EFH33p78/view){:target="_blank"}
 
