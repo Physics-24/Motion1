@@ -1,7 +1,9 @@
 # Group Problems
 ### (Tuesdays/Thursdays in class)
 
-During scheduled class time, 9:35 am - 10:50 am PT on Tuesdays and Thursdays, you will be randomly assigned into a group of three students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 11am PT. Group problems are worth 10% of your total grade. 
+During scheduled class time, 9:35 am - 10:50 am PT on Tuesdays and Thursdays, you will be randomly assigned into a group of three students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 11am PT. You will receive a score for completing the problems and feedback from a grader (the score is based only on a good-faith effort by your group, not on getting the correct answer).  Group problems are worth 10% of your total grade. 
+
+When you get started with your group, the first step is to introduce yourselves and decide on how you will collaborate. We have made a few suggestions about [ways to effectively collaborate on Group Problems](ways-to-collaborate-on-group-problems){:target="_blank"}. For each problem, decide who will write-up a good copy for submission on Gradescope. 
 
 Solutions for the group problems are made available on Thursday afternoon. We strongly recommend that you check your answers and understanding of these group problems (and any grader feedback) before attempting the "Timed Solo Problems" at the end of each week. 
 
