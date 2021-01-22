@@ -1,5 +1,5 @@
 # Weekly Content 
-### (miniquestions due Sundays 9pm PT at the start of each week)
+### (miniquestions due Mondays 7am PT at the start of each week)
 
 Motion 1 covers the first-half of Physics 24 (weeks 1-7). Each week, follow the links below to the content and miniquestions that are assigned. All in-class activities each week will assume that you have already watched all of the assigned content and completed the corresponding miniquestions.
 

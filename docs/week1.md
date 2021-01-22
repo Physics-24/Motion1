@@ -2,7 +2,7 @@
 
 <br>
 
-Normally, the miniquestions are due Sundays at 9pm PT. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 27 at 9pm PT.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
+Normally, the miniquestions are due Mondays at 7am PT. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 27 at 7am PT.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
 
 
 <br>
@@ -100,6 +100,10 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 Download notes: [constant-acceleration-motion.pdf](https://drive.google.com/file/d/1ut8fGNQlvFnVHqqEoD-YBau6EFH33p78/view){:target="_blank"}
+
+<br>
+
+Extra resource: [separable-first-order-ODE-cheatsheet.png](https://drive.google.com/file/d/1aqFX8_ArPPIOpEaW0GTTEEfFn4PWyufm/view?usp=sharing){:target="_blank"}
 
 <br>
 
