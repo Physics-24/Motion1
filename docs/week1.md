@@ -22,7 +22,8 @@ This week is all about "describing motion", which is also called kinematics. Eve
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
 
 
-------------------------------------------
+<hr style="color:black;background-color:#EAAA00;height:5px">
+
 
 ### 1. Representing Position as a Vector
 
@@ -43,7 +44,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 </iframe>
 <br>
 
-------------------------------------------------
+<hr style="color:black;background-color:#EAAA00;height:5px">
+
 
 <br>
 
@@ -66,7 +68,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 </iframe>
 <br>
 
-------------------------------------------------
+<hr style="color:black;background-color:#EAAA00;height:5px">
+
 
 <br>
 
@@ -89,7 +92,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 </iframe>
 <br>
 
-------------------------------------------------
+<hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
 ### 4. Constant Acceleration Motion
@@ -115,7 +118,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 <br>
 
-------------------------------------
+<hr style="color:black;background-color:#EAAA00;height:5px">
+
 <br> 
 
 ### 5. Uniform Circular Motion
@@ -138,7 +142,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 <br>
 
-------------------------------------
+<hr style="color:black;background-color:#EAAA00;height:5px">
+
 <br> 
 
 <br>
