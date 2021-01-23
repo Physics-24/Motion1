@@ -57,7 +57,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 <br>
 
-### 2. Describing Macroscopic Objects by their Center-of-Mass (CM)
+### 2. Describing Macroscopic Objects by their Center-of-Mass CM
 
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
