@@ -50,7 +50,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 1. Newton's Laws for Point Masses
 
-
+Download notes: [newtons-laws-for-point-masses.pdf](https://drive.google.com/file/d/1-_b7HmJYaBz-zQthZ5RQaG95wFJBA59d/view?usp=sharing){:target="_blank"}
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
 
@@ -95,9 +95,8 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Day 1 Reading](https://drive.google.com/file/d/1f-K8tt_ZtxRbL62liCbMyhVCCIoZCBkb/view?usp=sharing){:target="_blank"} <br> [Day 1 Extra Problems](https://drive.google.com/file/d/1s6usNjR6rw6oGdewIukkgQ2OwTOVkjFe/view?usp=sharing){:target="_blank"} |One dimensional motion and vectors
-[Day 2 Reading](https://drive.google.com/file/d/1mjf2urQ5W2OLHNOnknhwWeysj9siwuc_/view?usp=sharing){:target="_blank"} <br> [Day 2 Extra Problems](https://drive.google.com/file/d/1yO7aKHAe12k3A9eHuvVpyjOcoZCbhkI2/view?usp=sharing){:target="_blank"} |   Inertial frames and relative motion
-[Day 5.3-5.5 Reading](https://drive.google.com/file/d/13C67KmLYZkeiC1wp_NKbUfWFYkwOrQiu/view?usp=sharing){:target="_blank"} <br> [Day 5.3-5.5 Extra Problems](https://drive.google.com/file/d/1XP3hQ3zskzCqiFOBykEK4PC4ZvPBlHXP/view?usp=sharing){:target="_blank"} | Constant acceleration, circular motion, angular speed
+[Day 3 Reading](https://drive.google.com/file/d/1qraCyqvKle7EgJLxJ2Ltul96KT6TozTa/view?usp=sharing){:target="_blank"} <br> [Day 3 Extra Problems](https://drive.google.com/file/d/15f3xmQoXsBi6BhDhnKgEV_Rclu999qeS/view?usp=sharing){:target="_blank"} | Conservation of momentum
+[Day 4 Reading](https://drive.google.com/file/d/1LY-YNPErIBTC-qml8iAC3NspkAneNE7i/view?usp=sharing){:target="_blank"} <br> [Day 4 Extra Problems](https://drive.google.com/file/d/1CDxeukC8yG3Q9ehxwM6YsWeRdt4rVghx/view?usp=sharing){:target="_blank"} |  Center of mass motion
 
 
 
