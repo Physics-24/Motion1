@@ -5,10 +5,10 @@
 
 Day  | Link |
 -----|------|
-Sundays | [Weekly Content](weekly-content){:target="_blank"} - due Sundays 9pm PT |
+Sundays | [Weekly Content](weekly-content){:target="_blank"} - due Mondays 7am PT |
 Mondays, Wednesdays | [Recitations](recitations){:target="_blank"} - in class |
 Tuesdays, Thursdays | [Group Problems](group-problems){:target="_blank"} -  in class |
-Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Saturdays 9pm PT |
+Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Mondays 7am PT |
 
 <br>
 
@@ -27,7 +27,7 @@ To make the most out of our synchronous time together, our weekly class meetings
 At the end of each week, you are responsible for completing two closed-book, closed-note, time-constrained problems ("Solo Problems") related to that week's material. Our primary method to assess performance in this course is with a closed-book final exam. We view the ability to apply physical principles to independently solve problems as one of the primary goals of this course. The weekly solo problems provide you with the chance to more frequently practice this skill, and check your understanding as you complete each week.
 
  
-To get started, first read over the course syllabus which contains important information about course policies. Then, start by diving in to the first week's content using the "Weekly Content (Sun)" tab in the side menu.
+To get started, first read over the course syllabus which contains important information about course policies. Then, start by diving in to the first week's content using the "Weekly Content" tab in the side menu.
 
 If you have any logistical questions, please post them up on our [class Piazza page.](https://piazza.com/hmc/spring2021/phys24){:target="_blank"}
 
