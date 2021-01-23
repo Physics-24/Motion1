@@ -73,6 +73,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Using Newton's 1st Law
 
+<br>
+
 <hr style="color:black;background-color:#EAAA00;height:5px">
 
 <br> 
