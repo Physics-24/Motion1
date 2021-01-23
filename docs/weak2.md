@@ -14,7 +14,7 @@ An important concept emerging from Newton's laws is the conservation of momentum
 ## Topics
 
 1. [Newton's laws for point masses](#1-newtons-laws-for-point-masses)
-2. [Describing macroscopic objects by their center-of-mass (CM)](#2-describing-macroscopic-objects-by-their-center-of-mass-CM)
+2. [Describing macroscopic objects by their center-of-mass (CM)](#2-describing-macroscopic-objects-by-their-center-of-mass)
 3. [Newton's laws for macroscopic objects](#3-newtons-laws-for-macroscopic-objects)
 4. [Using Newton's 1st law](#4-using-newtons-1st-law)
     + conservation of total momentum (e.g. collisions)
@@ -57,7 +57,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 <br>
 
-### 2. Describing Macroscopic Objects by their Center-of-Mass CM
+### 2. Describing Macroscopic Objects by their Center-of-Mass
 
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
