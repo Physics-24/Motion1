@@ -61,6 +61,16 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 
 <br>
+Download notes: [describing-macroscopic-objects-by-their-center-of-mass.pdf](https://drive.google.com/file/d/1tlX_9cCpq-oPyfEEkEedgyVsY3LeWt_V/view?usp=sharing){:target="_blank"}
+
+#### Miniquestion 2: Describing Macroscopic Objects by their Center-of-Mass
+
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/1Rd8US8N7rh65j3X9){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdH2P6IApoM-X8yOeTKmxgUi6Q7quv2QZIKwGdYjFswRTAJRA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br> 
 
 ### 3. Newton's Laws for Macroscopic Objects
 
