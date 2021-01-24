@@ -57,9 +57,6 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 ### 2. Describing Macroscopic Objects by their Center-of-Mass
 
 
-<hr style="color:black;background-color:#EAAA00;height:5px">
-
-
 <br>
 Download notes: [describing-macroscopic-objects-by-their-center-of-mass.pdf](https://drive.google.com/file/d/1tlX_9cCpq-oPyfEEkEedgyVsY3LeWt_V/view?usp=sharing){:target="_blank"}
 
@@ -69,6 +66,11 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdH2P6IApoM-X8yOeTKmxgUi6Q7quv2QZIKwGdYjFswRTAJRA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
+
+<br> 
+
+<hr style="color:black;background-color:#EAAA00;height:5px">
+
 
 <br> 
 
