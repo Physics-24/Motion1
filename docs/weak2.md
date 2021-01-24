@@ -55,10 +55,14 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ### 2. Describing Macroscopic Objects by their Center-of-Mass
-
+<iframe src="https://drive.google.com/file/d/1c30HIFZmGuMhngyuAVdSb0ur2ZmKJ1JH/preview" width="640" height="480" allowfullscreen>
+</iframe>
 
 <br>
+
 Download notes: [describing-macroscopic-objects-by-their-center-of-mass.pdf](https://drive.google.com/file/d/1tlX_9cCpq-oPyfEEkEedgyVsY3LeWt_V/view?usp=sharing){:target="_blank"}
+
+<br>
 
 #### Miniquestion 2: Describing Macroscopic Objects by their Center-of-Mass
 
