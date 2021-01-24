@@ -50,6 +50,11 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 1. Newton's Laws for Point Masses
 
+<iframe src="https://drive.google.com/file/d/1r905ot9TudJSyHMt7SA8LT-5AEsWUndZ/preview" width="640" height="480" allowfullscreen>
+</iframe>
+
+<br>
+
 Download notes: [newtons-laws-for-point-masses.pdf](https://drive.google.com/file/d/1-_b7HmJYaBz-zQthZ5RQaG95wFJBA59d/view?usp=sharing){:target="_blank"}
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
