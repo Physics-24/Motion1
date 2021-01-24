@@ -26,24 +26,6 @@ An important concept emerging from Newton's laws is the conservation of momentum
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
 
-<!-- 
-<iframe src="https://drive.google.com/file/d/1tpGrI5lH5fsEzOdhocwK8UvpbXoaqbb9/preview" width="640" height="480" allowfullscreen>
-</iframe>
-
-<br>
-
-Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com/file/d/14e6B0y4vWgc3a-FTCRRUuqAhEHIj5TLh/view){:target="_blank"}
-
-<br> 
-
-#### Miniquestion 1: Representing position as a vector
-Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/AGzc2xnbV3xRkt4Q6){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7iqoPVLfpSuHG92gdejEkHFZTvHZx9OqplQOTAb0Cj9Mm3w/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
-</iframe>
-<br>
-
--->
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
 
@@ -56,6 +38,16 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 Download notes: [newtons-laws-for-point-masses.pdf](https://drive.google.com/file/d/1-_b7HmJYaBz-zQthZ5RQaG95wFJBA59d/view?usp=sharing){:target="_blank"}
+
+<br>
+
+#### Miniquestion 1: Newton's Laws for Point Masses
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/dSHHvBuipPpiczfZ8){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScj6EsynIp6rZM6l1DZcDhwk0GxvzPk3PxtKLlWsIw-7AL6xg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br>
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
 
