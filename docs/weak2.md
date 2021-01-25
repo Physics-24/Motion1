@@ -83,6 +83,15 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 Download notes: [newtons-laws-for-macroscopic-objects.pdf](https://drive.google.com/file/d/1rfL6DS1QN5zd3ev5H_o5orK3Xeu_EP3b/view?usp=sharing){:target="_blank"}
 
+<br>
+
+#### Miniquestion 3: Newton's Laws for Macroscopic Objects
+
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/tbdZjkJyUprrqFE5A){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvNsD2aHvHtkYklKgTQm0P4gim7RqpBWc73g9YR662dpkFFA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
