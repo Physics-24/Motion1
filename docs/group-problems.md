@@ -14,7 +14,7 @@ Start by downloading the template for the Group Problems on Gradescope (linked b
 **When you get in your break-out room**, decide as a group how you are going to collaborate:
 
 -  what technology will you group use (see [this helpful guide](ways-to-collaborate-on-group-problems){:target="_blank"} for suggestions) 
--  any style preferences (talk it through together, take 5 minutes and then discuss) -- **be communicative, flexible, and helpful** 
+-  any style preferences (e.g. talking every step through together, or taking 5 minutes alone and then discussing) -- **be communicative, flexible, and helpful** 
 - Decide who will formally write up each problem for submission (one submission per problem per group)
     
 **If your group needs help:**
