@@ -79,6 +79,10 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <br> 
 
 ### 3. Newton's Laws for Macroscopic Objects
+
+<iframe src="https://drive.google.com/file/d/1urbch5XmXak4hsHcWtkeh4co9euZ0BUR/preview" width="640" height="480" allowfullscreen>
+</iframe>
+
 <br>
 
 Download notes: [newtons-laws-for-macroscopic-objects.pdf](https://drive.google.com/file/d/1rfL6DS1QN5zd3ev5H_o5orK3Xeu_EP3b/view?usp=sharing){:target="_blank"}
