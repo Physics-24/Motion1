@@ -20,11 +20,11 @@ Take a look a the raw markdown file for how to format the "\<details>" tag.
 
 Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
 --------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |   x         |      x      |             |                   |                   |           |
-2       |   x         |             |             |                   |                   |           |
-3       |   x         |             |             |                   |                   |           |
-4       |             |             |             |                   |                   |           |
-5       |             |             |             |                   |                   |           |
+1       |   x         |      x      |   x         |                   |                   |           |
+2       |   x         |      x      |   x         |                   |                   |           |
+3       |   x         |      x      |   X         |                   |                   |           |
+4       |   x         |      x      |   x         |                   |                   |           |
+5       |   x         |      x      |   X         |                   |                   |           |
 
 Item  | Link 
 -------| --------
