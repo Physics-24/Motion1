@@ -18,7 +18,7 @@ When you get in your break-out room, decide as a group how you are going to coll
 - Decide who will formally write up each problem for submission (one submission per problem per group)
     
 If your group needs help:
-- clarifying/logistics (short) questions: Please post on [our Piazza Live Q&A](https://piazza.com/hmc/spring2021/phys24){:target=_"blank"} (also check if it's already been asked)
+- clarifying/logistics (short) questions: Please post on [our Piazza Live Q&A](https://piazza.com/hmc/spring2021/phys24){:target="_blank"} (also check if it's already been asked)
     - longer questions (or if you're stuck): "Ask the host for help" through Zoom
 
 At 10:35am, whatever you have, start upload process:
