@@ -14,7 +14,7 @@ Recitation participation is synchronous and mandatory. Recitation participation 
 Week 1 |  |  | |
 ---| --- | -- | -- |
 Monday Jan 25 | [Recitation Set 1](https://drive.google.com/file/d/17-BO5-COXz8k1OUC6kSYbPX-vUTu93-4/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1VnPDUbNeLnTws5DIKW2UKRaLCw61r3nE/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1zvUZCRCWFfgInz311S3njwSukQsnCeUJ/view?usp=sharing){:target="_blank"} 
-Wednesday Jan 27 | Recitation Set 2 | Answers | Solutions
+Wednesday Jan 27 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1ofRIcHLF43nx0xS75Ss0TZncuyFsgcNq/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1HxrleH_kah0-HNlh0ASkXJ1GV0Psegdu/view?usp=sharing){:target="_blank"}
 
 <br>
 

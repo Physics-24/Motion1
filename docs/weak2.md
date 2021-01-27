@@ -103,6 +103,9 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 <br>
 
+Download notes: [using-newtons-1st-law.pdf](https://drive.google.com/file/d/11YLHh7dVFJt08fNosTH_VZaksjPs9-d9/view?usp=sharing){:target="_blank"}
+
+<br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 
 <br> 
