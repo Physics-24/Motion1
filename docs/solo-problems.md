@@ -9,6 +9,10 @@ Solo problems become available each Thursday at 1pm PT and the submission window
 
 <br>
 
+## Week 1
+
+[Week 1 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1mPeRZcvnEQ968hrjdi0-fvkPd4s6jgeh/view?usp=sharing){:target="_blank"}. Please look at this coversheet beforehand for the formulae you will have during the solo problems. 
+
 Week 1 | Gradescope Link | Solution | 
 ---| --- | -- | 
 due by Mon Feb 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 1](https://www.gradescope.com/courses/228629/assignments/940878){:target="_blank"} | 
