@@ -116,9 +116,19 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Calculating Center-of-Mass Position for Continuous Objects
 
+<iframe src="https://drive.google.com/file/d/1g3jPks-orihdDgG3oOcR83Pvov74x0mB/preview" width="640" height="480">
+</iframe>
+
 <br> 
 
+
 Download notes: [calculating-center-of-mass-position-for-continuous-objects.pdf](https://drive.google.com/file/d/1g3jPks-orihdDgG3oOcR83Pvov74x0mB/view?usp=sharing){:target="_blank"}
+
+#### Miniquestion 5: Calculating Center of Mass Position for Continuous Objects
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/g9F9ayNjjTrGTV1U8){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjBPVtgjzndqm8lIokagK-WjVwYalOhu6909A3Id8YgMyamA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
