@@ -101,6 +101,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Using Newton's 1st Law
 
+<iframe src="https://drive.google.com/file/d/1c30HIFZmGuMhngyuAVdSb0ur2ZmKJ1JH/preview" width="640" height="480" allowfullscreen>
+
 <br>
 
 Download notes: [using-newtons-1st-law.pdf](https://drive.google.com/file/d/11YLHh7dVFJt08fNosTH_VZaksjPs9-d9/view?usp=sharing){:target="_blank"}
@@ -112,6 +114,9 @@ Download notes: [using-newtons-1st-law.pdf](https://drive.google.com/file/d/11YL
 
 ### 5. Calculating the Center-of-Mass Position
 
+<br> 
+
+Download notes: [calculating-center-of-mass-position-for-continuous-objects.pdf](https://drive.google.com/file/d/1g3jPks-orihdDgG3oOcR83Pvov74x0mB/view?usp=sharing){:target="_blank"}
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
 
