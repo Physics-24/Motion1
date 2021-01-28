@@ -104,8 +104,14 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 Download notes: [using-newtons-1st-law.pdf](https://drive.google.com/file/d/11YLHh7dVFJt08fNosTH_VZaksjPs9-d9/view?usp=sharing){:target="_blank"}
 
 <br>
-<hr style="color:black;background-color:#EAAA00;height:5px">
 
+#### Miniquestion 4: Using Newton's 1st Law
+Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/pqZ4qykCkEG3qjjh6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScwCCr2wNo049Jok6tehrCJ4dFD5gYIghLOJpDpSgiBTG-bSw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
 <br> 
 
 ### 5. Calculating Center-of-Mass Position for Continuous Objects
@@ -114,8 +120,8 @@ Download notes: [using-newtons-1st-law.pdf](https://drive.google.com/file/d/11YL
 
 Download notes: [calculating-center-of-mass-position-for-continuous-objects.pdf](https://drive.google.com/file/d/1g3jPks-orihdDgG3oOcR83Pvov74x0mB/view?usp=sharing){:target="_blank"}
 
+<br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
-
 <br> 
 
 <br>
