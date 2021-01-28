@@ -17,12 +17,7 @@ An important concept emerging from Newton's laws is the conservation of momentum
 2. [Describing macroscopic objects by their center-of-mass (CM)](#2-describing-macroscopic-objects-by-their-center-of-mass)
 3. [Newton's laws for macroscopic objects](#3-newtons-laws-for-macroscopic-objects)
 4. [Using Newton's 1st law](#4-using-newtons-1st-law)
-    + conservation of total momentum (e.g. collisions)
-    + when does the center-of-mass position not move? 
-5. [Calculating the center-of-mass position $$\vec{R}_{CM}$$](#5-calculating-the-center-of-mass-position)
-    + discrete mass distributions (summation)
-    + continuous mass distributions (integration)
-    + combining multiple objects using their individual $$\vec{R}_{CM}$$
+5. [Calculating center-of-mass position for continuous objects](#5-calculating-center-of-mass-position-for-continuous-objects)
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
 
@@ -112,7 +107,7 @@ Download notes: [using-newtons-1st-law.pdf](https://drive.google.com/file/d/11YL
 
 <br> 
 
-### 5. Calculating the Center-of-Mass Position
+### 5. Calculating Center-of-Mass Position for Continuous Objects
 
 <br> 
 
