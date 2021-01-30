@@ -116,7 +116,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Calculating Center-of-Mass Position for Continuous Objects
 
-<iframe src="https://drive.google.com/file/d/1g3jPks-orihdDgG3oOcR83Pvov74x0mB/preview" width="640" height="480">
+<iframe src="https://drive.google.com/file/d/1AFTiQgxGrVDWWey0g5KlVms1jH18E__i/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br> 
