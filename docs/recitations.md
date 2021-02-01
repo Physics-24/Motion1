@@ -20,7 +20,7 @@ Wednesday Jan 27 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTa
 
 Week 2 |  |  | |
 ---| --- | -- | -- |
-Monday Feb 1 | Recitation Set 3 | Answers | Solutions
+Monday Feb 1 | [Recitation Set 3](https://drive.google.com/file/d/14-lV3OBJsflWQVVq_qyBDFqepw3p_0H9/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1e-9Yv375Ns-AXSWFcKdsa0besBp8zedY/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1114S6sNx4BdsG5G_BgJHYtzrpI9U0qNS/view?usp=sharing){:target="_blank"}
 Wednesday Feb 3 | Recitation Set 4 | Answers | Solutions
 
 
