@@ -62,3 +62,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
+### 3. Isolation Diagrams
+<iframe src="https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl/preview" width="640" height="480">
+</iframe>
+
