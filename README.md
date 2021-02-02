@@ -16,91 +16,10 @@ Take a look a the raw markdown file for how to format the "\<details>" tag.
 
 ## To-do list 
 
-### Week 1
-
-Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
---------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |   x         |      x      |   x         |                   |                   |           |
-2       |   x         |      x      |   x         |                   |                   |           |
-3       |   x         |      x      |   X         |                   |                   |           |
-4       |   x         |      x      |   x         |                   |                   |           |
-5       |   x         |      x      |   X         |                   |                   |           |
-
-Item  | Link 
--------| --------
-Monday Rec | 
-2P Tuesday |
-Wednesday Rec | 
-2P Thursday | 
-Solo Problems |
-
-
-
-### Week 2
-
-Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
---------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |             |             |             |                   |                   |           |
-2       |             |             |             |                   |                   |           |
-3       |             |             |             |                   |                   |           |
-4       |             |             |             |                   |                   |           |
-5       |             |             |             |                   |                   |           |
-
-Item  | Link 
--------| --------
-Monday Rec | 
-2P Tuesday |
-Wednesday Rec | 
-2P Thursday | 
-Solo Problems |
 
 
 ### Week 3
 
-Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
---------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |             |             |             |                   |                   |           |
-2       |             |             |             |                   |                   |           |
-3       |             |             |             |                   |                   |           |
-4       |             |             |             |                   |                   |           |
-5       |             |             |             |                   |                   |           |
-
-### Week 4
-
-Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
---------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |             |             |             |                   |                   |           |
-2       |             |             |             |                   |                   |           |
-3       |             |             |             |                   |                   |           |
-4       |             |             |             |                   |                   |           |
-5       |             |             |             |                   |                   |           |
-
-### Week 5
-
-Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
---------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |             |             |             |                   |                   |           |
-2       |             |             |             |                   |                   |           |
-3       |             |             |             |                   |                   |           |
-4       |             |             |             |                   |                   |           |
-5       |             |             |             |                   |                   |           |
-
-### Week 6
-
-Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
---------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |             |             |             |                   |                   |           |
-2       |             |             |             |                   |                   |           |
-3       |             |             |             |                   |                   |           |
-4       |             |             |             |                   |                   |           |
-5       |             |             |             |                   |                   |           |
-
-### Week 7
-
-Topic # | Rough Notes | Good Notes | Miniquestion | Written Transcript | Video of Notes    | Voice Over | Final Edit
---------|-------------|-------------|-------------|-------------------|-------------------|-----------|-----------
-1       |             |             |             |                   |                   |           |
-2       |             |             |             |                   |                   |           |
-3       |             |             |             |                   |                   |           |
-4       |             |             |             |                   |                   |           |
-5       |             |             |             |                   |                   |           |
++ finish notes 4,5
++ miniquestions 3,4,5
++ record videos 1-5

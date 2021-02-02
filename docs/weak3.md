@@ -66,3 +66,10 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <iframe src="https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl/preview" width="640" height="480">
 </iframe>
 
+#### Miniquestion 3: Isolation Diagrams
+
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/xVsm5FsAhdWZ6DEQ9){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcNOFJVr6lNl9b9cWtG0rbyPCfwUO6rBlJmc5R070xgiQWBQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
