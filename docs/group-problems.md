@@ -39,6 +39,6 @@ Thursday Jan 28 | [Group Problem 3](https://www.gradescope.com/courses/228629/as
 
 Week 2 |  |  | |
 ---| --- | -- | -- |
-Tuesday Feb 2 | Group Problem 5 | Group Problem 6 | Group Problem 5 Solution <br> Group Problem 6 Solution
+Tuesday Feb 2 | [Group Problem 5](https://www.gradescope.com/courses/228629/assignments/986256){:target="_blank"} | [Group Problem 6](https://www.gradescope.com/courses/228629/assignments/986261){:target="_blank"} | Group Problem 5 Solution <br> Group Problem 6 Solution
 Thursday Feb 4 | Group Problem 7 | Group Problem 8 | Group Problem 7 Solution <br> Group Problem 8 Solution
 
