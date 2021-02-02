@@ -66,6 +66,10 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <iframe src="https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl/preview" width="640" height="480">
 </iframe>
 
+<br>
+Download notes: [isolation-diagrams.pdf](https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl){:target="_blank"}
+<br>
+
 #### Miniquestion 3: Isolation Diagrams
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/xVsm5FsAhdWZ6DEQ9){:target="_blank"}
