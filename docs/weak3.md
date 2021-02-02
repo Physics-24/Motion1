@@ -99,10 +99,16 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### Springs
+### 5. Springs
 
+<iframe src="https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77Ihzfz9zZKtOYCHUj/preview" width="640" height="480" allowfullscreen>
+</iframe>
 
+<br>
+Download notes: [springs.pdf](https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77Ihzfz9zZKtOYCHUj/view?usp=sharing){:target="_blank"}
+<br>
 
+#### Miniquestion 5: Springs
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -121,5 +127,5 @@ Section | Topic
 ------- | -----
 Day 5.1, 5.2 Reading <br> Day 5 Extra Problems | Newton's Second Law, Springs
 Day 6 Reading <br>  Day 6 Extra Problems |  Isolation Diagrams, Contact Forces, Ropes
-Day 8 Reading <b> Day 8 Extra Problems | Gravity
+Day 8 Reading <br> Day 8 Extra Problems | Gravity
 
