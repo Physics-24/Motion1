@@ -101,12 +101,12 @@ Download notes: [springs.pdf](https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77I
 <br>
 
 ### 5. Gravity and Contact Forces: Deeper Dive
-<iframe src="https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/preview" width="640" height="480">
+<iframe src="https://drive.google.com/file/d/1m_7Au_H7NglAy9-gxsGq01JZ03zwDHoq/preview" width="640" height="480">
 </iframe>
 
 
 <br>
-Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/view?usp=sharing){:target="_blank"}
+Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1m_7Au_H7NglAy9-gxsGq01JZ03zwDHoq/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 5: Gravity and Contact Forces: Deeper Dive
