@@ -25,7 +25,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 <br>
 
 ### 1. Gravity and Contact Forces: Quickstart Guide
-<iframe src="https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/preview" width="640" height="480">
+<iframe src="https://drive.google.com/file/d/1JF8NPaHB85z5gr3hPX_xNbgzA2oqxjwk/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 
