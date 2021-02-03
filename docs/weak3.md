@@ -30,7 +30,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 
 <br>
-Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/view?usp=sharing){:target="_blank"}
+Download notes: [gravity-and-contact-forces-quickstart-guide](https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 1: Gravity and Contact Forces: Quickstart Guide
@@ -109,7 +109,7 @@ Download notes: [springs.pdf](https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77I
 Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 1: Gravity and Contact Forces: Deeper Dive
+#### Miniquestion 5: Gravity and Contact Forces: Deeper Dive
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/6gX1KC4Xxb3V2CQz7){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebZB-kfDCKwgcBKD6sWg0Ve_cUm64tg_XAJ3mf2BBnXTaK4w/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
