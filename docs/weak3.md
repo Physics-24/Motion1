@@ -12,11 +12,11 @@ This week we are looking at where forces come from, and then using them in Newto
 
 ## Topics
 
-1. [The force of gravity](#1-the-force-of-gravity)
-2. [Contact forces](#2-contact-forces)
-3. [Isolation diagrams](#3-isolation-diagrams)
-4. [Ropes](#4-ropes)
-5. [Springs](#5-springs)
+1. [Gravity and contact forces: quickstart guide](#1-gravity-and-contact-forces-quickstart-guide)
+2. [Isolation diagrams](#3-isolation-diagrams)
+3. [Ropes](#4-ropes)
+4. [Springs](#5-springs)
+5. [Gravity and contact forces: deeper dive](#1-gravity-and-contact-forces-deeper-dive)
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
 
@@ -24,45 +24,27 @@ Full textbook readings and optional extra problems available at the [bottom of t
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 1. The Force of Gravity
-<iframe src="https://drive.google.com/file/d/1uxPpK_6CnVkJX89oy_-hTnNh3UGyk9wD/preview" width="640" height="480">
+### 1. Gravity and Contact Forces: Quickstart Guide
+<iframe src="https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/preview" width="640" height="480">
 </iframe>
 
 
 <br>
-Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1uxPpK_6CnVkJX89oy_-hTnNh3UGyk9wD/view?usp=sharing){:target="_blank"}
+Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 1: The Force of Gravity 
-
-Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/6gX1KC4Xxb3V2CQz7){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebZB-kfDCKwgcBKD6sWg0Ve_cUm64tg_XAJ3mf2BBnXTaK4w/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-<br>
-<hr style="color:black;background-color:#EAAA00;height:5px">
-<br>
-
-### 2. Contact Forces
-<iframe src="https://drive.google.com/file/d/10pSO8_wAnd5ghZYnz8Tye3yPOTuyNaH_/preview" width="640" height="480"> 
-</iframe>
-
-<br>
-Download notes: [contact-forces.pdf](https://drive.google.com/file/d/10pSO8_wAnd5ghZYnz8Tye3yPOTuyNaH_/view?usp=sharing){:target="_blank"}
-<br>
-
-#### Miniquestion 2: Contact Forces
+#### Miniquestion 1: Gravity and Contact Forces: Quickstart Guide
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/DGWwNKBCWu2HkgGe7){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexUzrRfIPJEV4J4ESVqq5_IgN_X8Xe4M499rT4k9lIwWTDgA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
-
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 3. Isolation Diagrams
+
+### 2. Isolation Diagrams
 <iframe src="https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl/preview" width="640" height="480">
 </iframe>
 
@@ -70,7 +52,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 Download notes: [isolation-diagrams.pdf](https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl){:target="_blank"}
 <br>
 
-#### Miniquestion 3: Isolation Diagrams
+#### Miniquestion 2: Isolation Diagrams
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/xVsm5FsAhdWZ6DEQ9){:target="_blank"}
 
@@ -81,7 +63,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 4. Ropes
+### 3. Ropes
 <iframe src="https://drive.google.com/file/d/1GUM3tCVo0FsAILC68Q_sAKwoPCewmmgv/preview" width="640" height="480">
 </iframe>
 
@@ -89,7 +71,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 Download notes: [ropes.pdf](https://drive.google.com/file/d/1GUM3tCVo0FsAILC68Q_sAKwoPCewmmgv/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 4: Ropes
+#### Miniquestion 3: Ropes
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/RofMn1WUizxPyt7W6){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYwjYA5bb6aPgXfH54f96NpptPXIhMlCArHpjFljIdEz2tZA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -99,7 +81,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 5. Springs
+### 4. Springs
 
 <iframe src="https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77Ihzfz9zZKtOYCHUj/preview" width="640" height="480" allowfullscreen>
 </iframe>
@@ -108,13 +90,34 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 Download notes: [springs.pdf](https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77Ihzfz9zZKtOYCHUj/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 5: Springs
+#### Miniquestion 4: Springs
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
 
+### 5. Gravity and Contact Forces: Deeper Dive
+<iframe src="https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/preview" width="640" height="480">
+</iframe>
+
+
+<br>
+Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/view?usp=sharing){:target="_blank"}
+<br>
+
+#### Miniquestion 1: Gravity and Contact Forces: Deeper Dive
+
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/6gX1KC4Xxb3V2CQz7){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebZB-kfDCKwgcBKD6sWg0Ve_cUm64tg_XAJ3mf2BBnXTaK4w/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
 
 <br>
 
