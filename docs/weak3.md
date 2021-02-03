@@ -92,9 +92,10 @@ Download notes: [springs.pdf](https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77I
 
 #### Miniquestion 4: Springs
 
-<br>
-<hr style="color:black;background-color:#EAAA00;height:5px">
-<br>
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/mFVEg7RETRbbV2aBA){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbrKt5tcPz_V6KfLh3UJLLQ_FybMVUEFDZiFHn2Fqxl867iw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
