@@ -40,9 +40,4 @@ Thursday Jan 28 | [Group Problem 3](https://www.gradescope.com/courses/228629/as
 Week 2 |  |  | |
 ---| --- | -- | -- |
 Tuesday Feb 2 | [Group Problem 5](https://www.gradescope.com/courses/228629/assignments/986256){:target="_blank"} | [Group Problem 6](https://www.gradescope.com/courses/228629/assignments/986261){:target="_blank"} | [Group Problem 5 Solution](https://drive.google.com/file/d/1pT3pCp1VotaccHJWXGUgJ4Ern2F0WB7c/view?usp=sharing){:target="_blank"} <br> [Group Problem 6 Solution](https://drive.google.com/file/d/1bsmVRAQjdCjEgpgbKSxZ0-BvYVc4axBA/view?usp=sharing){:target="_blank"}
-
-[Group Problem 7 Google Drive Link](https://drive.google.com/file/d/1S353a9z79xf7Tg4WDrq9hd6kzSRFwM6N/view?usp=sharing){:target="_blank"}
-
-[Group Problem 8 Google Drive Link](https://drive.google.com/file/d/1z7UVwaBp-kBscsdSwegJdq9ysBiu89_t/view?usp=sharing){:target="_blank"}
-
-
+Thursday Feb 4 | [Group Problem 7](https://www.gradescope.com/courses/228629/assignments/994090){:target="_blank"} | [Group Problem 8](https://www.gradescope.com/courses/228629/assignments/994095){:target="_blank"} | Group Problem 7 Solution <br> Group Problem 8 Solution
