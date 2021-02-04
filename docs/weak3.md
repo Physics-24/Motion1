@@ -45,7 +45,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 
 ### 2. Isolation Diagrams
-<iframe src="https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl/preview" width="640" height="480">
+<iframe src="https://drive.google.com/file/d/1tw15ZkFCxBgpoRy-Liw5OybahQtNICQS/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -64,7 +64,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ### 3. Ropes
-<iframe src="https://drive.google.com/file/d/1GUM3tCVo0FsAILC68Q_sAKwoPCewmmgv/preview" width="640" height="480">
+<iframe src="https://drive.google.com/file/d/1GUM3tCVo0FsAILC68Q_sAKwoPCewmmgv/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
