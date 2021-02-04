@@ -21,7 +21,7 @@ This week we are looking at where forces come from, and then using them in Newto
 4. [Springs](#5-springs)
 5. [Gravity and contact forces: deeper dive](#1-gravity-and-contact-forces-deeper-dive)
 
-Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
+Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). A single pdf file of all of this week's notes is compiled into [week3-notes.pdf](https://drive.google.com/file/d/1I-tBYQVc6L8dSGUfvytx4mCFBYDot4Yf/view?usp=sharing){:target="_blank"}.
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">

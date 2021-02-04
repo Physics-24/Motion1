@@ -19,7 +19,7 @@ An important concept emerging from Newton's laws is the conservation of momentum
 4. [Using Newton's 1st law](#4-using-newtons-1st-law)
 5. [Calculating center-of-mass position for continuous objects](#5-calculating-center-of-mass-position-for-continuous-objects)
 
-Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems).
+Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). A single pdf file of all of this week's notes is compiled into [week2-notes.pdf](https://drive.google.com/file/d/1fiywu3eIc_Jb4IwHqs2t8G29FBDuh5c4/view?usp=sharing){:target="_blank"}.
 
 
 <hr style="color:black;background-color:#EAAA00;height:5px">
