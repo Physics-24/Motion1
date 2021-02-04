@@ -2,7 +2,10 @@
 
 <br>
 
-**The miniquestions for all of the topics on this page are due on Monday February 8 at 7am PT.**
+**The miniquestions for topics 1-3 on this page are due on Monday February 8 at 7am PT**
+
+**The miniquestions for topics 4-5 on this page are due on Wednesday February 10 at 7am PT**
+
 
 
 <br>
@@ -33,7 +36,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 Download notes: [gravity-and-contact-forces-quickstart-guide](https://drive.google.com/file/d/1ZtlXU23z2XQfkot-9tPKTssJ_mcF_vjB/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 1: Gravity and Contact Forces: Quickstart Guide
+#### Miniquestion 1: Gravity and Contact Forces: Quickstart Guide (Monday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/DGWwNKBCWu2HkgGe7){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexUzrRfIPJEV4J4ESVqq5_IgN_X8Xe4M499rT4k9lIwWTDgA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -52,7 +55,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 Download notes: [isolation-diagrams.pdf](https://drive.google.com/file/d/1Ih_irMGHw96YijNtQcvRAXK4fnpKecnl){:target="_blank"}
 <br>
 
-#### Miniquestion 2: Isolation Diagrams
+#### Miniquestion 2: Isolation Diagrams (Monday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/xVsm5FsAhdWZ6DEQ9){:target="_blank"}
 
@@ -71,7 +74,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 Download notes: [ropes.pdf](https://drive.google.com/file/d/1GUM3tCVo0FsAILC68Q_sAKwoPCewmmgv/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 3: Ropes
+#### Miniquestion 3: Ropes (Monday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/RofMn1WUizxPyt7W6){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYwjYA5bb6aPgXfH54f96NpptPXIhMlCArHpjFljIdEz2tZA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -81,7 +84,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 4. Springs
+### 4. Springs 
 
 <iframe src="https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77Ihzfz9zZKtOYCHUj/preview" width="640" height="480" allowfullscreen>
 </iframe>
@@ -90,7 +93,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 Download notes: [springs.pdf](https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77Ihzfz9zZKtOYCHUj/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 4: Springs
+#### Miniquestion 4: Springs (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/mFVEg7RETRbbV2aBA){:target="_blank"}
 
@@ -108,9 +111,12 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 <br>
 Download notes: [the-force-of-gravity.pdf](https://drive.google.com/file/d/1m_7Au_H7NglAy9-gxsGq01JZ03zwDHoq/view?usp=sharing){:target="_blank"}
+
+Shell Theorem Proof (optional content!): [part 1](https://www.youtube.com/watch?v=Lh7-gsYYFLA){:target="_blank"} and [part 2](https://www.youtube.com/watch?v=h8wJWqTbNNU){:target="_blank"}.
 <br>
 
-#### Miniquestion 5: Gravity and Contact Forces: Deeper Dive
+
+#### Miniquestion 5: Gravity and Contact Forces: Deeper Dive (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/6gX1KC4Xxb3V2CQz7){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebZB-kfDCKwgcBKD6sWg0Ve_cUm64tg_XAJ3mf2BBnXTaK4w/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -129,7 +135,7 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-Day 5.1, 5.2 Reading <br> Day 5 Extra Problems | Newton's Second Law, Springs
-Day 6 Reading <br>  Day 6 Extra Problems |  Isolation Diagrams, Contact Forces, Ropes
-Day 8 Reading <br> Day 8 Extra Problems | Gravity
+[Day 5.1, 5.2 Reading](https://drive.google.com/file/d/12lIBSEL-mUlCXCFRAQ4bQqxiflVUFC4W/view?usp=sharing){:target="_blank"} <br> [Day 5.1, 5.2 Extra Problems](https://drive.google.com/file/d/10ObaGPDif7dI1UZ-6ITLwhelJVGwi4NX/view?usp=sharing){:target="_blank"} | Newton's Second Law, Springs
+[Day 6 Reading](https://drive.google.com/file/d/13VCyLL3gbRKSTkt-ZT3l2I2Xv3t4aih6/view?usp=sharing){:target="_blank"} <br>  [Day 6 Extra Problems](https://drive.google.com/file/d/1KpEjTxCs0dKrzdITfLcA69hE9hU6t5J0/view?usp=sharing){:target="_blank"} |  Isolation Diagrams, Contact Forces, Ropes
+[Day 8 Reading](https://drive.google.com/file/d/1gzOWAaS4pN-fwNWXeatg37xA9MUg1U-h/view?usp=sharing){:target="_blank"} <br> [Day 8 Extra Problems](https://drive.google.com/file/d/1Nz05LjJ5tyqzX1FzthO5I9d54thPQtJc/view?usp=sharing){:target="_blank"} | Gravity
 
