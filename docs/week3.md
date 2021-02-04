@@ -28,6 +28,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 <br>
 
 ### 1. Gravity and Contact Forces: Quickstart Guide
+Monday
 <iframe src="https://drive.google.com/file/d/1JF8NPaHB85z5gr3hPX_xNbgzA2oqxjwk/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -48,6 +49,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 
 ### 2. Isolation Diagrams
+Monday
 <iframe src="https://drive.google.com/file/d/1tw15ZkFCxBgpoRy-Liw5OybahQtNICQS/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -67,6 +69,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ### 3. Ropes
+Monday
 <iframe src="https://drive.google.com/file/d/1htu2tNka4Pcvsy_n56_3Ysiue5yJBvLE/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -85,7 +88,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ### 4. Springs 
-
+Wednesday
 <iframe src="https://drive.google.com/file/d/1iQ0OOE3fb9kyzV77Ihzfz9zZKtOYCHUj/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -105,6 +108,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ### 5. Gravity and Contact Forces: Deeper Dive
+Wednesday
 <iframe src="https://drive.google.com/file/d/1m_7Au_H7NglAy9-gxsGq01JZ03zwDHoq/preview" width="640" height="480">
 </iframe>
 
