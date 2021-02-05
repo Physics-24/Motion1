@@ -1,6 +1,8 @@
 # Group Problems
 ### (Tuesdays/Thursdays in class)
 
+[Jump to this week's problems](#bottom)
+
 During scheduled class time, 9:35 am - 10:50 am PT on Tuesdays and Thursdays, you will be randomly assigned into a group of 3-4 students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 11am PT. You will receive a score for completing the problems and feedback from a grader (the score is based only on a good-faith effort by your group, not on getting the correct answer).  Group problems are worth 10% of your total grade. 
 
 ### In-class logistics
@@ -21,7 +23,7 @@ Start by downloading the template for the Group Problems on Gradescope (linked b
 - clarifying/logistics (short) questions: Please post on [our Piazza Live Q&A](https://piazza.com/hmc/spring2021/phys24){:target="_blank"} (also check if it's already been asked)
     - longer questions (or if you're stuck): "Ask the host for help" through Zoom
 
-**At 10:35am**, whatever you have, start upload process:
+**At 10:40 am**, whatever you have, start upload process:
 + To upload On Gradescope 
     - Submit then "Add Group Members" - [see Gradescope Help on Group Submissions](https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members){:target="_blank"} - if you do not add group members, no one gets credit (including you!)
 + Graded on a "good-faith" effort -- we expect everyone to get 100% -- whatever you submit you will receive feedback on, so there's incentive for you to try your best
@@ -41,3 +43,13 @@ Week 2 |  |  | |
 ---| --- | -- | -- |
 Tuesday Feb 2 | [Group Problem 5](https://www.gradescope.com/courses/228629/assignments/986256){:target="_blank"} | [Group Problem 6](https://www.gradescope.com/courses/228629/assignments/986261){:target="_blank"} | [Group Problem 5 Solution](https://drive.google.com/file/d/1pT3pCp1VotaccHJWXGUgJ4Ern2F0WB7c/view?usp=sharing){:target="_blank"} <br> [Group Problem 6 Solution](https://drive.google.com/file/d/1bsmVRAQjdCjEgpgbKSxZ0-BvYVc4axBA/view?usp=sharing){:target="_blank"}
 Thursday Feb 4 | [Group Problem 7](https://www.gradescope.com/courses/228629/assignments/994090){:target="_blank"} | [Group Problem 8](https://www.gradescope.com/courses/228629/assignments/994095){:target="_blank"} | [Group Problem 7 Solution](https://drive.google.com/file/d/1v_3G9pFVELPH46e4G-SD7OlWG0A0nGxK/view?usp=sharing){:target="_blank"} <br> [Group Problem 8 Solution](https://drive.google.com/file/d/133YNbwtB2oUVnBzgHKvElNajxOtuCgSE/view?usp=sharing){:target="_blank"}
+
+
+<br>
+
+Week 3 |  |  | |
+---| --- | -- | -- |
+Tuesday Feb 9 | [Group Problem 9](https://www.gradescope.com/courses/228629/assignments/996187){:target="_blank"} | [Group Problem 10](https://www.gradescope.com/courses/228629/assignments/996189){:target="_blank"} | Group Problem 9 Solution <br> Group Problem 10 Solution
+Thursday Feb 11 | [Group Problem 11](https://www.gradescope.com/courses/228629/assignments/996194){:target="_blank"} | [Group Problem 12](https://www.gradescope.com/courses/228629/assignments/996200){:target="_blank"} | Group Problem 11 Solution <br> Group Problem 12 Solution
+
+<a id="bottom"></a>
