@@ -23,10 +23,12 @@ due by Mon Feb 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 2](http
 <br>
 
 ### Week 2
+[Week 2 Solo Problem Coversheet is available here](https://drive.google.com/file/d/15DJvr4yiZfnuzSvuQDGt5WR7-r45F_vi/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
+
 
 Week 2 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | Solo Problem 3 | 
-due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | Solo Problem 4 |  
+due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/228629/assignments/994576){:target="_blank"} | 
+due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/228629/assignments/994581){:target="_blank"} |  
 
 <br>
