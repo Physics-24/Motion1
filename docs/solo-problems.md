@@ -1,6 +1,8 @@
 # Solo Problems
 ### (due Mondays at 7am PT)
 
+[Jump to this week's problems](#bottom)
+
 The solo problems are timed and closed book, closed notes. You have 30 minutes to complete each question. Opening a question starts the 30 minute timer for that question, so we recommend that you start and submit one problem at a time. 
 
 Solo problems are overall worth 10% of your total grade, therefore each solo problem is only worth a small fraction of your overall grade. The solo problems are a chance for you to regularly assess your mastery of each week's material, with much lower stakes than the midterm and final examinations. You also get to drop your lowest 6 solo problems for the semester, so if you're having an off day, no problem just try your best (whatever that might look like today).
@@ -31,4 +33,5 @@ Week 2 | Gradescope Link | Solution |
 due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/228629/assignments/994576){:target="_blank"} | 
 due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/228629/assignments/994581){:target="_blank"} |  
 
-<br>
+
+<a id="bottom"></a>
