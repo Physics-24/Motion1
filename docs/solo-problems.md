@@ -17,8 +17,8 @@ Solo problems become available each Thursday at 1pm PT and the submission window
 
 Week 1 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Feb 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 1](https://www.gradescope.com/courses/228629/assignments/940878){:target="_blank"} | 
-due by Mon Feb 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 2](https://www.gradescope.com/courses/228629/assignments/940927){:target="_blank"} |  
+due by Mon Feb 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 1](https://www.gradescope.com/courses/228629/assignments/940878){:target="_blank"} | [Solo Problem 1 Solution](https://drive.google.com/file/d/1QRVZetERnJqwP3ZSRExVn3_VQ8WujTPI/view?usp=sharing){:target="_blank"}
+due by Mon Feb 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 2](https://www.gradescope.com/courses/228629/assignments/940927){:target="_blank"} | [Solo Problem 2 Solution](https://drive.google.com/file/d/1gTcrfJCAXuZ2y9vzjias0ZjIkbnLvJzC/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
