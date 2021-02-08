@@ -19,7 +19,7 @@ This week we are looking at contact forces in more detail, including internal co
 5. [Buoyancy](#5-buoyancy)
 
 
-Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). A single pdf file of all of this week's notes is compiled into **LINK NOT SET YET**. 
+Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). A single pdf file of all of this week's notes is compiled into **LINK NOT SET**. 
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
