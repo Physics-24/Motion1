@@ -27,7 +27,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Internal Forces
 Monday
-<iframe src="https://drive.google.com/file/d/14weUj48WXL8NGBO3y-Yk1LzH824KG_Bf/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1UODM-v0NpbfhP_xtju3hGbfFiz79zixP/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
