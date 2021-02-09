@@ -30,8 +30,22 @@ due by Mon Feb 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 2](http
 
 Week 2 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/228629/assignments/994576){:target="_blank"} | 
-due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/228629/assignments/994581){:target="_blank"} |  
+due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/228629/assignments/994576){:target="_blank"} | [Solo Problem 3 Solution](https://drive.google.com/file/d/1XiBvnmWlbQzryOkfszsHqPjKYU6USzAH/view?usp=sharing){:target="_blank"}
+due by Mon Feb 8, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/228629/assignments/994581){:target="_blank"} | [Solo Problem 4 Solution](https://drive.google.com/file/d/1HMTYEWCARstyFPrJ1ucQ3PEJJJdUIlCU/view?usp=sharing){:target="_blank"}
+
+
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
+
+### Week 3
+[Week 3 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1Z_6zCQILDlg1IhV-bIXxSMqWe0A-t69O/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
+
+
+Week 3 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Mon Feb 15, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 5](https://www.gradescope.com/courses/228629/assignments/996210){:target="_blank"} | Solo Problem 5 Solution
+due by Mon Feb 15, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 6](https://www.gradescope.com/courses/228629/assignments/996213){:target="_blank"} | Solo Problem 6 Solution]
 
 
 <a id="bottom"></a>
