@@ -30,7 +30,7 @@ Wednesday Feb 3 | [Recitation Set 4](https://drive.google.com/file/d/1UT3yUP0hOr
 Week 3 |  |  | |
 ---| --- | -- | -- |
 Monday Feb 8 | [Recitation Set 5](https://drive.google.com/file/d/102-vW3-o7ig-SlSFCaQlh6-7LsOvy4F-/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1i86TJSuhFr0YJmYlU4Sk3UGhaJSsJO7C/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1LxZUq2aFLq5_9qFO8acCK7u2eTnaszGQ/view?usp=sharing){:target="_blank"}
-Wednesday Feb 10 | Recitation Set 6 | Answers | Solutions
+Wednesday Feb 10 | [Recitation Set 6](https://drive.google.com/file/d/1DECkLAsUYHk0Qx1sOnGpl9qYtDyNIKtj/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1uDouJWdDDb_2i8sZ7LG8_LLkoXraEYRP/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1qk1by-yMvpsCQT3kiK9hyKY-xwkdB16f/view?usp=sharing){:target="_blank"}
 
 <br>
 
