@@ -2,13 +2,13 @@
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday February 15 at 7am PT**
+**The miniquestions for topics 1-2 on this page are due on Monday February 15 at 7am PT**
 
-**The miniquestions for topics 4-5 on this page are due on Wednesday February 17 at 7am PT**
+**The miniquestions for topics 3-4 on this page are due on Wednesday February 17 at 7am PT**
 
 <br>
 
-This week we are looking at contact forces in more detail, including internal contact forces, friction, drag, and buoyancy. 
+This week we are looking at contact forces in more detail, including internal contact forces, friction, and drag.
 
 ## Topics
 
@@ -16,10 +16,10 @@ This week we are looking at contact forces in more detail, including internal co
 2. [Static Friction](#2-static-friction)
 3. [Kinetic Friction](#3-kinetic-friction)
 4. [Drag](#4-drag)
-5. [Buoyancy](#5-buoyancy)
 
 
-Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). A single pdf file of all of this week's notes is compiled into **LINK NOT SET**. 
+Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). 
+<!--  A single pdf file of all of this week's notes is compiled into **LINK NOT SET**. -->
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -47,7 +47,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Static Friction
 Monday
-<iframe src="https://drive.google.com/file/d/1PXVvk8nvSIMY4502GzO09PepzBEny-nk/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/14BWv0JC7q3ZW9ixxG9t43oZYihsean_W/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -56,8 +56,8 @@ Download notes: [static-friction.pdf](https://drive.google.com/file/d/1PXVvk8nvS
 
 #### Miniquestion 2: Static Friction (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/wHTZ5VrGAwWhDCPFA){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSei7volRz_XVzzi3fd_w91ToBmobl3Uapf6i1v8t7Tfhx8UqQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -65,7 +65,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 <br>
 
 ### 3. Kinetic Friction
-Monday
+Wednesday
 <iframe src="" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -73,7 +73,7 @@ Monday
 Download notes: [kinetic-friction.pdf](){:target="_blank"}
 <br>
 
-#### Miniquestion 3: Kinetic Friction (Monday)
+#### Miniquestion 3: Kinetic Friction (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -109,18 +109,6 @@ Wednesday
 
 <br>
 Download notes: [drag.pdf](){:target="_blank"}
-<br>
-
-#### Miniquestion 5: Buoyancy (Wednesday)
-
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-<br>
-<hr style="color:black;background-color:#EAAA00;height:5px">
-<br>
-
 <br>
 
 ## Optional Readings and Extra Problems
