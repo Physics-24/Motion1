@@ -66,17 +66,18 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Kinetic Friction
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1Siw5aawuZqvG4x6iRJwukUN35qYYb1NI/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [kinetic-friction.pdf](){:target="_blank"}
+Download notes: [kinetic-friction.pdf](https://drive.google.com/file/d/1Siw5aawuZqvG4x6iRJwukUN35qYYb1NI/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 3: Kinetic Friction (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/sRR54hmFjnyL3KFx9){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScps83Ug6bAsTCO9Sm1KXTcV1bFzM3U31SQC9AlGHnIXi_Ljw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+</iframe>
 </iframe>
 
 <br>
