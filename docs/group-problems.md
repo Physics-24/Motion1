@@ -50,6 +50,6 @@ Thursday Feb 4 | [Group Problem 7](https://www.gradescope.com/courses/228629/ass
 Week 3 |  |  | |
 ---| --- | -- | -- |
 Tuesday Feb 9 | [Group Problem 9](https://www.gradescope.com/courses/228629/assignments/996187){:target="_blank"} | [Group Problem 10](https://www.gradescope.com/courses/228629/assignments/996189){:target="_blank"} | [Group Problem 9 Solution](https://drive.google.com/file/d/1f6SO0_BLnHQBnB1GLD11PuOjMSz7FJbG/view?usp=sharing){:target="_blank"} <br> [Group Problem 10 Solution](https://drive.google.com/file/d/1NMJDQKI7rZsVkY83eVSo-5QclzAx58Ht/view?usp=sharing){:target="_blank"}
-Thursday Feb 11 | [Group Problem 11](https://www.gradescope.com/courses/228629/assignments/996194){:target="_blank"} | [Group Problem 12](https://www.gradescope.com/courses/228629/assignments/996200){:target="_blank"} | Group Problem 11 Solution <br> Group Problem 12 Solution
+Thursday Feb 11 | [Group Problem 11](https://www.gradescope.com/courses/228629/assignments/996194){:target="_blank"} | [Group Problem 12](https://www.gradescope.com/courses/228629/assignments/996200){:target="_blank"} | [Group Problem 11 Solution](https://drive.google.com/file/d/1mikBtmi5oGAGsTXF1AVZGBllnchN813a/view?usp=sharing){:target="_blank"} <br> [Group Problem 12 Solution](https://drive.google.com/file/d/1aGW-ZUKFrhTLR7ANoA5e-jwuICjhQyqw/view?usp=sharing){:target="_blank"}
 
 <a id="bottom"></a>
