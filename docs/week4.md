@@ -78,7 +78,6 @@ Download notes: [kinetic-friction.pdf](https://drive.google.com/file/d/1Siw5aawu
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/sRR54hmFjnyL3KFx9){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScps83Ug6bAsTCO9Sm1KXTcV1bFzM3U31SQC9AlGHnIXi_Ljw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
-</iframe>
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -98,7 +97,6 @@ Download notes: [drag.pdf](){:target="_blank"}
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
-
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
