@@ -102,14 +102,6 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 5. Buoyancy
-Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
-</iframe>
-
-<br>
-Download notes: [drag.pdf](){:target="_blank"}
-<br>
 
 ## Optional Readings and Extra Problems
 
