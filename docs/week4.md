@@ -94,10 +94,9 @@ Download notes: [drag.pdf](){:target="_blank"}
 
 #### Miniquestion 4: Drag (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/zGsa2EYkJu8Drr3F7){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeVOp2ZCyXITIQqS_aZ2_lF4wWsJbaTkgXUKHBL7r3KOwaf6A/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
-
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
