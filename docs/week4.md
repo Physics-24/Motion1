@@ -66,7 +66,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Kinetic Friction
 Wednesday
-<iframe src="https://drive.google.com/file/d/1Siw5aawuZqvG4x6iRJwukUN35qYYb1NI/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1DP0-zqHsg9H_MHdaSzIfJr1rMj5X4qjv/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
