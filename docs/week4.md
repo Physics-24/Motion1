@@ -85,11 +85,11 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Drag
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1Wroenj76sHFaxdENcbqKPdy9mr-tSG19/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [drag.pdf](){:target="_blank"}
+Download notes: [drag.pdf](https://drive.google.com/file/d/1Wroenj76sHFaxdENcbqKPdy9mr-tSG19/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 4: Drag (Wednesday)
