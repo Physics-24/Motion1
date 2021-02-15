@@ -34,4 +34,12 @@ Wednesday Feb 10 | [Recitation Set 6](https://drive.google.com/file/d/1DECkLAsUY
 
 <br>
 
+
+Week 4 |  |  | |
+---| --- | -- | -- |
+Monday Feb 15 | [Recitation Set 7](https://drive.google.com/file/d/1lc3vM0MXhoN_UdGhWo7daajg_b5TPg5k/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1xvre1ShEvgfIMMK7vNxVlj44GObIIYdg/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1lD5cZq9FLdVCL2WQ2wCC5JZPIIMuD9l2/view?usp=sharing){:target="_blank"}
+Wednesday Feb 17 | Recitation Set 8 | Answers | Solutions
+
+<br>
+
 <a id="bottom"></a>
