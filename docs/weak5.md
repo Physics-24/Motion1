@@ -48,7 +48,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 2. Solving Combined Energy and Force Problems
 Monday
-<iframe src="https://drive.google.com/file/d/14BWv0JC7q3ZW9ixxG9t43oZYihsean_W/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1hZHiZiZLS5hdgDqNX_JM6jFHjCiuDisW/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
