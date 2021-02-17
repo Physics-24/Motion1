@@ -67,11 +67,11 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 3. Spring Potential Energy
 Monday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1oaR1DLGgmrt-LOHDiSpmYBUo1jHe1Zqn/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [spring-potential-energy.pdf](){:target="_blank"}
+Download notes: [spring-potential-energy.pdf](https://drive.google.com/file/d/1oaR1DLGgmrt-LOHDiSpmYBUo1jHe1Zqn/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 3: Spring Potential Energy (Monday)
