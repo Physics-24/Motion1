@@ -86,11 +86,11 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 4. Power and the Work-Energy Theorem
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1wQ23nkoor9EAcK_wkf96lKwXqPMz2ymA/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [power-and-the-work-energy-theorem.pdf](){:target="_blank"}
+Download notes: [power-and-the-work-energy-theorem.pdf](https://drive.google.com/file/d/1wQ23nkoor9EAcK_wkf96lKwXqPMz2ymA/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 4: Power and the Work-Energy Theorem (Wednesday)
