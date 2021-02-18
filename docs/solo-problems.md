@@ -53,7 +53,7 @@ due by Mon Feb 15, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 6](htt
 <br>
 
 ### Week 4
-[Week 4 Solo Problem Coversheet is available here](){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
+[Week 4 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1b6S9SSPuUOUcmZxum_vu6XsVkCHX2fWe/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
 
 
 Week 4 | Gradescope Link | Solution | 
