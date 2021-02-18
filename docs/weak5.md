@@ -28,7 +28,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Kinetic Energy and Gravitational Potential Energy
 Monday
-<iframe src="https://drive.google.com/file/d/1jUv84rJ9TZ_FlfpljiIboa3UvRCQtxF9/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1BcIBzVHIW7p-mMzjfcrldQO8LS0-E1kG/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -48,7 +48,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Solving Combined Energy and Force Problems
 Monday
-<iframe src="https://drive.google.com/file/d/1hZHiZiZLS5hdgDqNX_JM6jFHjCiuDisW/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1iVaXa9D1TPaWerGobzfc02CRUg3FDHiZ/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
