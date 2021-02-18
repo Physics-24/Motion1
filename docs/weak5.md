@@ -15,7 +15,7 @@ This week we are looking at energy and work.
 1. [Kinetic Energy and Gravitational Potential Energy](#1-kinetic-energy-and-gravitational-potential-energy)
 2. [Solving Combined Energy and Force Problems](#2-solving-combined-energy-and-force-problems)
 3. [Spring Potential Energy](#3-spring-potential-energy)
-4. [Power and the Work-Energy Theorem](#4-power-and-the-work-energy-theroem)
+4. [Power and the Work-Energy Theorem](#4-power-and-the-work-energy-theorem)
 5. [Calculating Work](#5-calculating-work)
 
 
