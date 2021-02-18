@@ -37,8 +37,8 @@ Download notes: [kinetic-energy-and-gravitational-potential-energy.pdf](https://
 
 #### Miniquestion 1: Kinetic Energy and Gravitational Potential Energy (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/fX6qqzuVWBztzeA66){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbMR6_2rH58t-6CTTUcnw9R9jNFBYLfzY1QvHaJ0-_BfQynQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -57,8 +57,8 @@ Download notes: [solving-combined-energy-and-force-problems.pdf](https://drive.g
 
 #### Miniquestion 2: Solving Combined Energy and Force Problems (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/fA2qkRKbkCGHYY2Y7){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8Hx7_CJ7Bnn5NuRAogiLrmbzk5O5KOlLmUy51Dbt9uFG0LQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -76,8 +76,8 @@ Download notes: [spring-potential-energy.pdf](https://drive.google.com/file/d/1o
 
 #### Miniquestion 3: Spring Potential Energy (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/YUparnwP45ddMWB39){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUGq1ebdoiXcBATlu8RNLCnHiPJyz-EQ-I38_bFULzJ10n0g/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
