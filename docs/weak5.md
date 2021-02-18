@@ -95,9 +95,10 @@ Download notes: [power-and-the-work-energy-theorem.pdf](https://drive.google.com
 
 #### Miniquestion 4: Power and the Work-Energy Theorem (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/ACYqo1LwoXr7geSv6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjCSBN3PqpZ9CkcnLhtT5OmAH6yWewi-w5bQwaq1Yf-L2GEQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
+
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
@@ -113,9 +114,10 @@ Download notes: [calculating-work.pdf](){:target="_blank"}
 
 #### Miniquestion 5: Calculating Work (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/CYwut2q7SxUifsZx5){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfshtNGClKMHPk6g5Zl7jpWW9nFxhnq-yW0pSHUAxtAaGkq-g/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
+
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
