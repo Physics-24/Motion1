@@ -48,4 +48,20 @@ due by Mon Feb 15, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 5](htt
 due by Mon Feb 15, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 6](https://www.gradescope.com/courses/228629/assignments/996213){:target="_blank"} | [Solo Problem 6 Solution](https://drive.google.com/file/d/1xi7DOzJJQEN1W_rDwFkJKbt97Ib85SRS/view?usp=sharing){:target="_blank"}
 
 
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
+
+### Week 4
+[Week 4 Solo Problem Coversheet is available here](){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
+
+
+Week 4 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Mon Feb 22, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 7](https://www.gradescope.com/courses/228629/assignments/1016852){:target="_blank"} | Solo Problem 7 Solution
+due by Mon Feb 22, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 8](https://www.gradescope.com/courses/228629/assignments/1016853){:target="_blank"} | Solo Problem 8 Solution
+
+
+
+
 <a id="bottom"></a>
