@@ -105,11 +105,11 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Calculating Work
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1G1j3zcSElOPPUCVyCX6z8vFNLD2lx_Su/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [calculating-work.pdf](){:target="_blank"}
+Download notes: [calculating-work.pdf](https://drive.google.com/file/d/1G1j3zcSElOPPUCVyCX6z8vFNLD2lx_Su/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 5: Calculating Work (Wednesday)
