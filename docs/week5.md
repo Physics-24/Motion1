@@ -86,7 +86,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Power and the Work-Energy Theorem
 Wednesday
-<iframe src="https://drive.google.com/file/d/1wQ23nkoor9EAcK_wkf96lKwXqPMz2ymA/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1V1nud2eq1ms6EEOt4nq07GRf6dBn10hP/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
