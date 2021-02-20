@@ -52,7 +52,7 @@ Monday
 </iframe>
 
 <br>
-Download notes: [solving-combined-energy-and-force-problems.pdf](https://drive.google.com/file/d/1PXVvk8nvSIMY4502GzO09PepzBEny-nk/view?usp=sharing){:target="_blank"}
+Download notes: [solving-combined-energy-and-force-problems.pdf](https://drive.google.com/file/d/1hZHiZiZLS5hdgDqNX_JM6jFHjCiuDisW/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 2: Solving Combined Energy and Force Problems (Monday)
