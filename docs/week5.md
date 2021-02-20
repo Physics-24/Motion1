@@ -105,7 +105,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Calculating Work
 Wednesday
-<iframe src="https://drive.google.com/file/d/1G1j3zcSElOPPUCVyCX6z8vFNLD2lx_Su/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1qwSyekYiKOxEuxVpEXz-bYFelNdRjuKI/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
