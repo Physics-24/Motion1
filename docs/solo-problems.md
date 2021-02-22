@@ -58,8 +58,8 @@ due by Mon Feb 15, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 6](htt
 
 Week 4 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Feb 22, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 7](https://www.gradescope.com/courses/228629/assignments/1016852){:target="_blank"} | Solo Problem 7 Solution
-due by Mon Feb 22, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 8](https://www.gradescope.com/courses/228629/assignments/1016853){:target="_blank"} | Solo Problem 8 Solution
+due by Mon Feb 22, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 7](https://www.gradescope.com/courses/228629/assignments/1016852){:target="_blank"} | [Solo Problem 7 Solution](https://drive.google.com/file/d/1bv28z6vuSHhDCjRFlhy0Kg7OK5Ro3uhv/view?usp=sharing){:target="_blank"}
+due by Mon Feb 22, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 8](https://www.gradescope.com/courses/228629/assignments/1016853){:target="_blank"} | [Solo Problem 8 Solution](https://drive.google.com/file/d/1HM-NYxcGdtlYUisdMOqxtta2w1FMfqu5/view?usp=sharing){:target="_blank"}
 
 
 
