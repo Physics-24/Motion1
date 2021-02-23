@@ -65,7 +65,7 @@ Thursday Feb 18 | [Group Problem 15](https://www.gradescope.com/courses/228629/a
 
 Week 5 |  |  | |
 ---| --- | -- | -- |
-Tuesday Feb 23 | [Group Problem 17](https://www.gradescope.com/courses/228629/assignments/1045501){:target="_blank"} | [Group Problem 18](https://www.gradescope.com/courses/228629/assignments/1045505){:target="_blank"} | Group Problem 17 Solution <br> Group Problem 18 Solution
+Tuesday Feb 23 | [Group Problem 17](https://www.gradescope.com/courses/228629/assignments/1045501){:target="_blank"} | [Group Problem 18](https://www.gradescope.com/courses/228629/assignments/1045505){:target="_blank"} | [Group Problem 17 Solution](https://drive.google.com/file/d/1qfTVqxvynXnl2nxwN--QnsXf_zWHkuXz/view?usp=sharing){:target="_blank"} <br> [Group Problem 18 Solution]](https://drive.google.com/file/d/1gsEHGY5Ie4yNex6Vz6_5z3Cj8PFbnO5F/view?usp=sharing){:target="_blank"}
 Thursday Feb 25 | [Group Problem 19](https://www.gradescope.com/courses/228629/assignments/1045513){:target="_blank"} | [Group Problem 20](https://www.gradescope.com/courses/228629/assignments/1045516){:target="_blank"} | Group Problem 19 Solution <br> Group Problem 20 Solution
 
 <br>
