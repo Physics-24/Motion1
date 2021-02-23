@@ -48,11 +48,11 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 2. Elastic Collisions
 Monday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/15Y9HmQDowcrL5UjNTHdR-3MsHtNdBMkX/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [elastic-collisions.pdf](){:target="_blank"}
+Download notes: [elastic-collisions.pdf](https://drive.google.com/file/d/15Y9HmQDowcrL5UjNTHdR-3MsHtNdBMkX/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 2: Elastic Collisions (Monday)
@@ -67,11 +67,11 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 3. Inelastic Collisions
 Monday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1y4JAUPC4NmCBbXQvVrDre27uLAnl1fkZ/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [inelastic-collisions.pdf](){:target="_blank"}
+Download notes: [inelastic-collisions.pdf](https://drive.google.com/file/d/1y4JAUPC4NmCBbXQvVrDre27uLAnl1fkZ/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 3: Inelastic Collisions (Monday)
