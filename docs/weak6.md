@@ -75,8 +75,8 @@ Download notes: [inelastic-collisions.pdf](https://drive.google.com/file/d/1y4JA
 
 #### Miniquestion 3: Inelastic Collisions (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/AGhe2kXz3BmoRfkv6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeuvTGlJDW6JsotFa1CEPE29lnOys6eO6iMK1fUPWm3mKSuxw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
