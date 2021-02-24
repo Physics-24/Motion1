@@ -15,7 +15,7 @@ This week we are continuing our discussion of energy and work.
 1. [Conservative Forces](#1-conservative-forces)
 2. [Elastic Collisions](#2-elastic-collisions)
 3. [Inelastic Collisions](#3-inelastic-collisions)
-5. [Total Energy and Real Work](#4-total-energy-and-real-work)
+4. [Total Energy and Real Work](#4-total-energy-and-real-work)
 
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). 
