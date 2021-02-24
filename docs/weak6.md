@@ -2,9 +2,9 @@
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday March 1 at 7am PT**
+**The miniquestions for topics 1-2 on this page are due on Monday March 1 at 7am PT**
 
-**The miniquestions for topic 4 on this page is due on Wednesday March 3 at 7am PT**
+**The miniquestions for topics 3-4 on this page are due on Wednesday March 3 at 7am PT**
 
 <br>
 
@@ -65,7 +65,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 <br>
 
 ### 3. Inelastic Collisions
-Monday
+Wednesday
 <iframe src="https://drive.google.com/file/d/1y4JAUPC4NmCBbXQvVrDre27uLAnl1fkZ/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -73,7 +73,7 @@ Monday
 Download notes: [inelastic-collisions.pdf](https://drive.google.com/file/d/1y4JAUPC4NmCBbXQvVrDre27uLAnl1fkZ/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 3: Inelastic Collisions (Monday)
+#### Miniquestion 3: Inelastic Collisions (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
