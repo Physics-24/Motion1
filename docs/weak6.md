@@ -36,8 +36,8 @@ Download notes: [conservative-forces.pdf](https://drive.google.com/file/d/17M1o7
 
 #### Miniquestion 1: Conservative Forces (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/XKtdvxn7xdSoNL2t9){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhwvGJVoGJbGyYmewmxFifbj8vtV1eHzSoALAoypXxZQdPHA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -56,8 +56,8 @@ Download notes: [elastic-collisions.pdf](https://drive.google.com/file/d/15Y9HmQ
 
 #### Miniquestion 2: Elastic Collisions (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/ZT9e4NaopFd6c8Yv8){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKcZXD0NvlP4NdtNJyz7o6TIj9U40ihtfeyYJCzvVr4wy_JQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
