@@ -72,6 +72,5 @@ due by Mon Mar 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 9](http
 due by Mon Mar 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 10](https://www.gradescope.com/courses/228629/assignments/1052492){:target="_blank"} | Solo Problem 10 Solution
 
 <br>
-<br>
 
 <a id="bottom"></a>
