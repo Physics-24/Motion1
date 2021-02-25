@@ -27,7 +27,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Conservative Forces
 Monday
-<iframe src="https://drive.google.com/file/d/17M1o7Fvf-gD-dDS9RrrQ3EvrNmzEqr4C/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/16HBk3BZKfTm75X9oFf4uX8_hYETpdkSH/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -47,7 +47,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Elastic Collisions
 Monday
-<iframe src="https://drive.google.com/file/d/15Y9HmQDowcrL5UjNTHdR-3MsHtNdBMkX/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1pw3S9IIwfHfyIH2Jtviaj1dwk7s4ev4Y/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -66,7 +66,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Inelastic Collisions
 Wednesday
-<iframe src="https://drive.google.com/file/d/1y4JAUPC4NmCBbXQvVrDre27uLAnl1fkZ/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1Pa2i5BxRhCRIgXpSDdlrwFaUFHk9rLaK/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
