@@ -10,7 +10,7 @@ Dates | Topics
 [Week 3 <br> Feb 7 - Feb 13](week3) |  Isolation diagrams, contact forces, gravity; springs, rods and ropes
 [Week 4 <br>  Feb 14 - Feb 20](week4) |  Internal Forces; Friction and drag
 [Week 5 <br> Feb 21 - Feb 27](week5) | Conservation of energy, gravitational potential energy, spring potential energy, kinetic energy, work
-Week 6 <br>  Feb 28 - Mar 6 |  Work-energy theorem, elastic & inelastic collisions
+[Week 6 <br>  Feb 28 - Mar 6](week6) |  Work-energy theorem, elastic & inelastic collisions
 Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
 Week 7 <br>  Mar 14 - Mar 20 |  Review of Motion 1; Midterm Exam
 
