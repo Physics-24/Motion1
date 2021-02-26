@@ -85,7 +85,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Total Energy and Real Work
 Wednesday
-<iframe src="https://drive.google.com/file/d/1qX-8pcspdRu7MDHR3uQVRisV3lfVMqIk/preview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1D2L-PIRgh1ZBgOsxIkC8kB4Z2QtsHG8j/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
