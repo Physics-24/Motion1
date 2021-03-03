@@ -70,7 +70,18 @@ Thursday Feb 25 | [Group Problem 19](https://www.gradescope.com/courses/228629/a
 
 <br>
 
+Week 6 |  |  | |
+---| --- | -- | -- |
+Tuesday Mar 2 | [Group Problem 21](https://www.gradescope.com/courses/228629/assignments/1066008){:target="_blank"} | [Group Problem 22](https://www.gradescope.com/courses/228629/assignments/1066015){:target="_blank"} | [Group Problem 21 Solution](https://drive.google.com/file/d/1hDXLlsbNZ0B2vRkDWAiufn0BbOfa0dg-/view?usp=sharing){:target="_blank"} <br> [Group Problem 22 Solution](https://drive.google.com/file/d/1viK_0_yALy-Y2KUhGRw48O0KxgderS0z/view?usp=sharing){:target="_blank"}
+Thursday Mar 4 | [Group Problem 23](){:target="_blank"} | [Group Problem 24](){:target="_blank"} | [Group Problem 23 Solution](){:target="_blank"} <br> [Group Problem 24 Solution](){:target="_blank"}
+
 <br>
+
+
+<br>
+
+
+
 
 
 <a id="bottom"></a>
