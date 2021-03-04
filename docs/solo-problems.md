@@ -76,4 +76,15 @@ due by Mon Mar 1, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 10](htt
 
 <br>
 
+
+Week 6 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Fri Mar 5, 5pm PT <br> **Time limit: 30 minutes** | [Solo Problem 11](https://www.gradescope.com/courses/228629/assignments/1074059){:target="_blank"} | Solo Problem 11 Solution
+
+<br>
+
+<br>
+
+<br>
+
 <a id="bottom"></a>
