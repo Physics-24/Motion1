@@ -19,12 +19,14 @@ Although there is nothing to hand in, we are still meeting during our usual reci
 Below is a list of topics that we covered in the first half of Physics 24. Included alongside each topic is an example problem we did that roughly corresponds to the main theme of the topic. You may want to more carefully review topics that you struggled with on the solo problems.
 
 #### Week 1
+
 Topic | Example Problem
 ---------|----------
 constant acceleration kinematics | [Recitation Set 2, 8P21](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view){:target="_blank"} 
 uniform circular motion | [Recitation Set 2, 5P31](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view){:target="_blank"}
 
 #### Week 2
+
 Topic | Example Problem
 ---------|--------------
 calculating CM of a discrete object | [Recitation Set 4, 4P11](https://drive.google.com/file/d/1UT3yUP0hOrEuQ7mQGa_2h1G-aY_JmmAv/view?usp=sharing){:target="_blank"}
@@ -34,6 +36,7 @@ calculating CM of a continuous object | [Solo Problem 4, 4P18](https://drive.goo
 conservation of center-of-mass position for a system initially at rest | [Solo Problem 3, 4P6 ](https://drive.google.com/file/d/1YEPBbCVSmFyjrBAb615u7ChHVk6nh_s9/view?usp=sharing){:target="_blank"} | 
 
 #### Week 3
+
 Topic | Example Problem
 ---------|-------------
 isolation diagram approach | [Solo Problem 5](https://drive.google.com/file/d/1T3FU46_0InZY6mmew3s5JN8uTtgcY7qx/view?usp=sharing){:target="_blank}
@@ -42,6 +45,7 @@ ropes, contact forces, gravity | [Recitation Set 5, 8P38](https://drive.google.c
 determining acceleration of a massless object | [Recitation Set 6, 8P41](https://drive.google.com/file/d/1DECkLAsUYHk0Qx1sOnGpl9qYtDyNIKtj/view){:target="_blank} | 
 
 #### Week 4 
+
 Topic | Example Problem
 ---------|--------------
 internal forces | [Recitation Set 7, 9SUP1](https://drive.google.com/file/d/1lc3vM0MXhoN_UdGhWo7daajg_b5TPg5k/view){:target="_blank"} |
@@ -50,6 +54,7 @@ kinetic friction | [Recitation Set 8, 9P23](https://drive.google.com/file/d/1nsb
 drag | [Solo Problem 8, 9P36](https://drive.google.com/file/d/1iLe7sQllKntrxwHFkxOulMEraHXgmO73/view?usp=sharing){:target="_blank"}
 
 #### Week 5
+
 Topic | Example Problem
 ---------|--------------
 kinetic & gravitation potential energy | [Recitation Set 9, 1st problem](https://drive.google.com/file/d/1bEURF7RNfpozgXe7juMW8LNLUqr96p_h/view){:target="_blank}
@@ -59,6 +64,7 @@ work & energy | [Solo Problem 9, 11P35](https://drive.google.com/file/d/1OA8FOhc
 calculating work | [Recitation Set 10, 11P10](https://drive.google.com/file/d/1YFk1uyxa9wc6E0CvaG1N5zhRispeQgPO/view){:target="_blank"}
 
 #### Week 6
+
 Topic | Example Problem
 ---------|--------------
 conservative forces & potential energy | [Recitation Set 11, 12P21](https://drive.google.com/file/d/1bKyTHc986v0jNAOCuALgPAFXZWw0UuN8/view){:target="_blank"}
