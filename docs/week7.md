@@ -6,7 +6,7 @@ This week there is no new content. There are no videos, no miniquestions, no gro
 
 Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 19 by 5pm PT.
 
-Although there is nothing to hand in, we are still meeting during our usual recitation times. Instead of the usual 3 problems in each recitation and 2 problems in each group problem session, we are releasing an 8 problem combined review set (see below). This review set includes the same cover sheet you will receive on your midterm. On Monday your recitation instructor will make some recommendations for how to most effectively use your time this week and outline their plan for Monday/Wednesday recitation. During our Tuesday class time, we will be having an optional large Q&A session. Come with questions, or just hang out while you work on your review. There is no class on Thursday, please use that time to write your midterm if you'd like.
+Although there is nothing to hand in, we are still meeting during our usual recitation times. Instead of the usual 3 problems in each recitation and 2 problems in each group problem session, we are releasing a 7-problem combined review set (see below). This review set includes the same cover sheet you will receive on your midterm. On Monday your recitation instructor will make some recommendations for how to most effectively use your time this week and outline their plan for Monday/Wednesday recitation. During our Tuesday class time, we will be having an optional large Q&A session. Come with questions, or just hang out while you work on your review. There is no class on Thursday, please use that time to write your midterm if you'd like.
 
 
 ## Reivew Problem Set

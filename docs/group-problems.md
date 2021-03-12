@@ -77,9 +77,20 @@ Thursday Mar 4 | [Group Problem 23](https://www.gradescope.com/courses/228629/as
 
 <br>
 
+#### Week 7
+
+Tuesday Mar 16 - Q&A about review (no group problems to submit)
+[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/11v_7ZVS57LuMORivv3bpw4O9_dpQNGPc/view?usp=sharing){:target="_blank"}
+
+Thursday Mar 18 - **No class** - write your midterm during this time if you'd like
+
+Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 19 by 5pm PT.
 
 <br>
 
+<br>
+
+<br>
 
 
 
