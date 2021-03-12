@@ -12,6 +12,6 @@ Dates | Topics
 [Week 5 <br> Feb 21 - Feb 27](week5) | Conservation of energy, gravitational potential energy, spring potential energy, kinetic energy, work
 [Week 6 <br>  Feb 28 - Mar 6](week6) |  Work-energy theorem, elastic & inelastic collisions
 Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
-Week 7 <br>  Mar 14 - Mar 20 |  Review of Motion 1; Midterm Exam
+[Week 7 <br>  Mar 14 - Mar 20](week7) |  Review of Motion 1; Midterm Exam
 
 
