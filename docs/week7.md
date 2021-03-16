@@ -13,6 +13,10 @@ Although there is nothing to hand in, we are still meeting during our usual reci
 
 [midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/11v_7ZVS57LuMORivv3bpw4O9_dpQNGPc/view?usp=sharing){:target="_blank"}
 
+## Review Problem Set Solutions
+
+[midterm-review-problems-solutions.pdf](https://drive.google.com/file/d/1bO_5UoOzuRihI3SCaaZKkjAbzPnQZR_i/view?usp=sharing){:target="_blank"}
+
 
 ## List of Topics
 
