@@ -26,7 +26,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 1. First Topic
+### 1. First Topic 1
 Monday
 <iframe src="" width="640" height="480" allowfullscreen>
 </iframe>
