@@ -67,8 +67,27 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Moment of Inertia
 Monday
-<iframe src="https://drive.google.com/file/d/1Gi0JtH6cuY8az4FDbl5_Gv9CI-bIoKRU/preview" width="640" height="480" allowfullscreen>
+<iframe id="existing-iframe-example" src="https://drive.google.com/file/d/1Gi0JtH6cuY8az4FDbl5_Gv9CI-bIoKRU/preview" width="640" height="480" allowfullscreen>
 </iframe>
+<script type="text/javascript">
+    var tag = document.createElement('script');
+    tag.id = 'iframe-demo';
+    tag.src = 'https://www.youtube.com/iframe_api';
+    var firstScriptTag  = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag,firstScriptTag);
+
+    var player;
+    function onYouTubeIframeAPIReady(){
+        player = new YT.Player('existing-iframe-example',{
+            events: {
+                'onReady': onPlayerReady
+            }
+        });
+    }
+    function onPlayerReady(event){
+        document.getElementById('existing-iframe-example').setPlaybackRate(1.25);
+    }
+</script>
 
 <br>
 Download notes: [moment-of-inertia.pdf](https://drive.google.com/file/d/1wzcbne357mNpBUY1gQGS5iH3WVAngaPh/view?usp=sharing){:target="_blank"}
