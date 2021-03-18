@@ -76,8 +76,8 @@ Download notes: [moment-of-inertia.pdf](https://drive.google.com/file/d/1wzcbne3
 
 #### Miniquestion 3: Moment of Inertia (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/iCb2G1cxLnmAibrv6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeoQdVuEtsnSPBbA2gKov8eyTCInVUglSDjWlja_OdMljG7mA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
