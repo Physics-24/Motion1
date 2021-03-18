@@ -129,7 +129,7 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Day xx Reading](){:target="_blank"} <br> [Day xx Extra Problems](){:target="_blank"} | topic1, topic2
-[Day xx Reading](){:target="_blank"} <br> [Day xx Extra Problems](){:target="_blank"} | topic3
+[Day 16 Reading](https://drive.google.com/file/d/1MmXSKxrSwV0vtFXBbFMbRFws23_LrJJJ/view?usp=sharing){:target="_blank"} <br> [Day 16 Extra Problems](https://drive.google.com/file/d/1_JbM50ZQJPZCWG_Qe4VmG-yW6JIps09w/view?usp=sharing){:target="_blank"} | Angular velocity, angular momentum, moment of inertia
+[Day 17 Reading](https://drive.google.com/file/d/1lZVZCEq7sCj1N_OvogtjE77wl4JEaIiC/view?usp=sharing){:target="_blank"} <br> [Day 17 Extra Problems](https://drive.google.com/file/d/1PlpJKpD3cUWboO8e87bqBS51swri8A8Q/view?usp=sharing){:target="_blank"} | Torque
 
 
