@@ -13,5 +13,5 @@ Dates | Topics
 [Week 6 <br>  Feb 28 - Mar 6](week6) |  Work-energy theorem, elastic & inelastic collisions
 Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
 [Week 7 <br>  Mar 14 - Mar 20](week7) |  Review of Motion 1; Midterm Exam
-
+[Week 8 <br>  Mar 21 - Mar 27](week8) |  Angular velocity, angular momentum, moment of inertia, torque
 
