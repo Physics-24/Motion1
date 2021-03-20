@@ -1,7 +1,9 @@
 # Weekly Content 
 ### (miniquestions due Mondays 7am PT at the start of each week)
 
-Motion 1 covers the first-half of Physics 24 (weeks 1-7). Each week, follow the links below to the content and miniquestions that are assigned. All in-class activities each week will assume that you have already watched all of the assigned content and completed the corresponding miniquestions.
+[Jump to this week's content](#bottom)
+
+Each week, follow the links below to the content and miniquestions that are assigned. All in-class activities each week will assume that you have already watched all of the assigned content and completed the corresponding miniquestions.
 
 Dates | Topics
 ----- | -------
@@ -15,3 +17,10 @@ Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
 [Week 7 <br>  Mar 14 - Mar 20](week7) |  Review of Motion 1; Midterm Exam
 [Week 8 <br>  Mar 21 - Mar 27](week8) |  Angular velocity, angular momentum, moment of inertia, torque
 
+<br>
+
+<br>
+
+<br>
+
+<a id="bottom"></a>
