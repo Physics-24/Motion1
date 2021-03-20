@@ -32,12 +32,15 @@ Monday
 </iframe>
 
 <br>
+
 Download notes: [first-topic.pdf](){:target="_blank"}
+
 <br>
 
 #### Miniquestion 1: First Topic (Monday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
@@ -52,12 +55,15 @@ Monday
 </iframe>
 
 <br>
+
 Download notes: [second-topic.pdf](){:target="_blank"}
+
 <br>
 
 #### Miniquestion 2: Second Topic (Monday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
@@ -71,12 +77,15 @@ Monday
 </iframe>
 
 <br>
+
 Download notes: [third-topic.pdf](){:target="_blank"}
+
 <br>
 
 #### Miniquestion 3: Third Topic (Monday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
@@ -90,12 +99,15 @@ Wednesday
 </iframe>
 
 <br>
+
 Download notes: [fourth-topic.pdf](){:target="_blank"}
+
 <br>
 
 #### Miniquestion 4: Fourth Topic (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
@@ -109,12 +121,15 @@ Wednesday
 </iframe>
 
 <br>
+
 Download notes: [fifth-topic.pdf](){:target="_blank"}
+
 <br>
 
 #### Miniquestion 5: Fifth Topic (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+
 <iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 

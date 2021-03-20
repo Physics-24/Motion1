@@ -105,17 +105,18 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Statics
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/15zajIU-awPHHfb5E_AmrSG_F6AkZBd1z/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
 Download notes: [statics.pdf](https://drive.google.com/file/d/1lmwndsl9nAZOVsK1y8BffZxzbfxwHBEG/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 5: Fifth Topic (Wednesday)
+#### Miniquestion 5: Statics (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="https://drive.google.com/file/d/15zajIU-awPHHfb5E_AmrSG_F6AkZBd1z/preview" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/GSrX5TwRE8r92QxF8){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfeYH1GV0qSGVJ5YIzwJXVMAKu48qdsG7WcuKrwjmWdtMqQnQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
