@@ -15,8 +15,8 @@ This week we are starting to discuss rotational motion.
 1. [Angular Velocity](#1-angular-velocity)
 2. [Angular Momentum](#2-angular-momentum)
 3. [Moment of Inertia](#3-moment-of-inertia)
-4. [Fourth Topic](#4-fourth-topic)
-5. [Fifth Topic](#5-fifth-topic)
+4. [Torque](#4-torque)
+5. [Statics](#5-statics)
 
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). 
@@ -84,38 +84,38 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 4. Fourth Topic
+### 4. Torque
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1Alufd8qOeX-d6JPxPDORW0f82abIWEoR/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [fourth-topic.pdf](){:target="_blank"}
+Download notes: [torque.pdf](https://drive.google.com/file/d/1hrhXMyhFCnptCd6oMn9zFMsRtvel88jM/view?usp=sharing){:target="_blank"}
 <br>
 
-#### Miniquestion 4: Fourth Topic (Wednesday)
+#### Miniquestion 4: Torque (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/wpBTZfsjCYN5Gsrk9){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLDweWYh1IPcPDoYF3wWjUdOOmNbcgGIjcevft0d9UIA4f9g/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 5. Fifth Topic
+### 5. Statics
 Wednesday
 <iframe src="" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
-Download notes: [fifth-topic.pdf](){:target="_blank"}
+Download notes: [statics.pdf](https://drive.google.com/file/d/1lmwndsl9nAZOVsK1y8BffZxzbfxwHBEG/view?usp=sharing){:target="_blank"}
 <br>
 
 #### Miniquestion 5: Fifth Topic (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://drive.google.com/file/d/15zajIU-awPHHfb5E_AmrSG_F6AkZBd1z/preview" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
