@@ -86,6 +86,14 @@ Thursday Mar 18 - **No class** - write your midterm during this time if you'd li
 
 Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 19 by 5pm PT.
 
+
+<br>
+
+Week 8 |  |  | |
+---| --- | -- | -- |
+Tuesday Mar 23 | [Group Problem 25](https://www.gradescope.com/courses/228629/assignments/1117057){:target="_blank"} | [Group Problem 26](https://www.gradescope.com/courses/228629/assignments/1117060){:target="_blank"} | [Group Problem 25 Solution](){:target="_blank"} <br> [Group Problem 26 Solution](){:target="_blank"}
+Thursday Mar 25 | [Group Problem 27](https://www.gradescope.com/courses/228629/assignments/1117063){:target="_blank"} | [Group Problem 28](https://www.gradescope.com/courses/228629/assignments/1117065){:target="_blank"} | [Group Problem 27 Solution](){:target="_blank"} <br> [Group Problem 28 Solution](){:target="_blank"}
+
 <br>
 
 <br>

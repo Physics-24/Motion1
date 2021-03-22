@@ -83,6 +83,17 @@ Week 6 | Gradescope Link | Solution |
 ---| --- | -- | 
 due by Fri Mar 5, 5pm PT <br> **Time limit: 30 minutes** | [Solo Problem 11](https://www.gradescope.com/courses/228629/assignments/1074059){:target="_blank"} | [Solo Problem 11 Solution](https://drive.google.com/file/d/1WXxrypkXSXMfudddVMpL-NbCmVHrbUGm/view?usp=sharing){:target="_blank"}
 
+
+<br>
+
+### Week 8
+[Week 8 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1CBac_c2nq0pcAwscZ3vVfe74XQij7WMy/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
+
+Week 8 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 12](https://www.gradescope.com/courses/228629/assignments/1117068){:target="_blank"} | Solo Problem 12 Solution
+due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 13](https://www.gradescope.com/courses/228629/assignments/1117073){:target="_blank"} | Solo Problem 13 Solution
+
 <br>
 
 <br>
