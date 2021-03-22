@@ -32,7 +32,9 @@ Monday
 </iframe>
 
 <br>
+
 Download notes: [angular-velocity.pdf](https://drive.google.com/file/d/10KOxbIyT5c7qyeSus9B-ViMt9dPumtvv/view?usp=sharing){:target="_blank"}
+
 <br>
 
 #### Miniquestion 1: Angular Velocity (Monday)
@@ -52,7 +54,9 @@ Monday
 </iframe>
 
 <br>
+
 Download notes: [angular-momentum.pdf](https://drive.google.com/file/d/1xZfaZDF7qWwYVwxipHGq-eOfktPFjNej/view?usp=sharing){:target="_blank"}
+
 <br>
 
 #### Miniquestion 2: Angular Momentum (Monday)
@@ -71,7 +75,9 @@ Monday
 </iframe>
 
 <br>
+
 Download notes: [moment-of-inertia.pdf](https://drive.google.com/file/d/1wzcbne357mNpBUY1gQGS5iH3WVAngaPh/view?usp=sharing){:target="_blank"}
+
 <br>
 
 #### Miniquestion 3: Moment of Inertia (Monday)
@@ -90,7 +96,9 @@ Wednesday
 </iframe>
 
 <br>
+
 Download notes: [torque.pdf](https://drive.google.com/file/d/1hrhXMyhFCnptCd6oMn9zFMsRtvel88jM/view?usp=sharing){:target="_blank"}
+
 <br>
 
 #### Miniquestion 4: Torque (Wednesday)
@@ -109,7 +117,9 @@ Wednesday
 </iframe>
 
 <br>
+
 Download notes: [statics.pdf](https://drive.google.com/file/d/1lmwndsl9nAZOVsK1y8BffZxzbfxwHBEG/view?usp=sharing){:target="_blank"}
+
 <br>
 
 #### Miniquestion 5: Statics (Wednesday)

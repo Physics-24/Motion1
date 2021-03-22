@@ -65,6 +65,14 @@ Wednesday Mar 3 | [Recitation Set 12](https://drive.google.com/file/d/1UTuR0Xghe
 
 Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 19 by 5pm PT.
 
+
+
+Week 8 |  |  | |
+---| --- | -- | -- |
+Monday Mar 22 | [Recitation Set 14](https://drive.google.com/file/d/1P9JvZ-4GkkFyLPkDYdLdLEtBrwmGEkPK/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1YQhKCVFZ6sMBwILlqioekA-s6aYwlhkZ/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1WQqdf4CTD1NYKHg2AE-x7PMjipr5aWJn/view?usp=sharing){:target="_blank"} 
+Wednesday Mar 24 | [Recitation Set 15](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"}
+
+
 <br>
 
 <br>
