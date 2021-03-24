@@ -91,7 +91,7 @@ Our midterm exam (120 minutes long) will be released Wednesday afternoon and is 
 
 Week 8 |  |  | |
 ---| --- | -- | -- |
-Tuesday Mar 23 | [Group Problem 25](https://www.gradescope.com/courses/228629/assignments/1117057){:target="_blank"} | [Group Problem 26](https://www.gradescope.com/courses/228629/assignments/1117060){:target="_blank"} | [Group Problem 25 Solution](){:target="_blank"} <br> [Group Problem 26 Solution](){:target="_blank"}
+Tuesday Mar 23 | [Group Problem 25](https://www.gradescope.com/courses/228629/assignments/1117057){:target="_blank"} | [Group Problem 26](https://www.gradescope.com/courses/228629/assignments/1117060){:target="_blank"} | [Group Problem 25 Solution](https://drive.google.com/file/d/12s2rDDjmBZxowxyhnNdP4ojkveAf6A8d/view?usp=sharing){:target="_blank"} <br> [Group Problem 26 Solution](https://drive.google.com/file/d/1XqHNooY5CJ1h4o-37pyxdBRB0TJrTena/view?usp=sharing){:target="_blank"}
 Thursday Mar 25 | [Group Problem 27](https://www.gradescope.com/courses/228629/assignments/1117063){:target="_blank"} | [Group Problem 28](https://www.gradescope.com/courses/228629/assignments/1117065){:target="_blank"} | [Group Problem 27 Solution](){:target="_blank"} <br> [Group Problem 28 Solution](){:target="_blank"}
 
 <br>
