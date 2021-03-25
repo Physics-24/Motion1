@@ -62,9 +62,9 @@ Download notes: [rotational-kinematics.pdf](https://drive.google.com/file/d/1ZRV
 
 #### Miniquestion 2: Rotational Kinematics (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/XVTFjDe7nqVizSeE9){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfy7f3ZlEdCQP5FgqTm2FMe_N-e2pB9RwgJBg-mBzusNlzjGQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
