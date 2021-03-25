@@ -39,9 +39,9 @@ Download notes: [keplers-laws.pdf](https://drive.google.com/file/d/1Jjdq_n66kzGx
 
 #### Miniquestion 1: Kepler's Laws (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/nDmQjoTcLKdvjk3y9){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccHlDRuxqKRXEIDQTFxiH8uulc7vgWnNjwdzpI9n5sltAyJg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
