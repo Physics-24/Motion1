@@ -16,6 +16,7 @@ Dates | Topics
 Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
 [Week 7 <br>  Mar 14 - Mar 20](week7) |  Review of Motion 1; Midterm Exam
 [Week 8 <br>  Mar 21 - Mar 27](week8) |  Angular velocity, angular momentum, moment of inertia, torque
+[Week 9 <br>  Mar 28 - Apr 3](week9) |  Kepler's Laws, rotational kinematics, rotational dynamics, rotational energy and rolling, rotational work
 
 <br>
 
