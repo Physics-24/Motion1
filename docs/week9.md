@@ -15,7 +15,7 @@ This week we are continuing our discussion of rotational motion.
 1. [Kepler's Laws](#1-keplers-laws)
 2. [Rotational Kinematics](#2-rotational-kinematics)
 3. [Rotational Dynamics](#3-rotational-dynamics)
-4. [Energy of Rolling](#4-energy-of-rolling)
+4. [Rotational Energy and Rolling](#4-rotational-energy-and-rolling)
 5. [Rotational Work](#5-rotational-work)
 
 
@@ -93,18 +93,18 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 4. Energy of Rolling
+### 4. Rotational Energy and Rolling
 Wednesday
 <iframe src="https://drive.google.com/file/d/1N4-_aU9cHYWRlc0q8Y0C42muUTjssWSL/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
 
-Download notes: [energy-of-rolling.pdf](https://drive.google.com/file/d/1Otw0EU0xHTVD4DNEKx5GJOenqukrt6Gy/view?usp=sharing){:target="_blank"}
+Download notes: [energy-rolling.pdf](https://drive.google.com/file/d/1Otw0EU0xHTVD4DNEKx5GJOenqukrt6Gy/view?usp=sharing){:target="_blank"}
 
 <br>
 
-#### Miniquestion 4: Energy of Rolling (Wednesday)
+#### Miniquestion 4: Rotational Energy and Rolling (Wednesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
 
