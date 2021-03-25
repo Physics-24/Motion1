@@ -144,7 +144,9 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Day xx Reading](){:target="_blank"} <br> [Day xx Extra Problems](){:target="_blank"} | topic1, topic2
-[Day xx Reading](){:target="_blank"} <br> [Day xx Extra Problems](){:target="_blank"} | topic3
+[Day 18 Reading](https://drive.google.com/file/d/1ya0KQADPDI2Ev6nW3nAtHUk6JSg6rELy/view?usp=sharing){:target="_blank"} <br> [Day 18 Extra Problems](https://drive.google.com/file/d/1Zyaey5_P680tA2hvSTSZ0z0XRY6dh4v5/view?usp=sharing){:target="_blank"} | Rotational kinematics, rotational dynamics
+[Day 19 Reading](https://drive.google.com/file/d/1VwJc36qYld7SchIPY_C_gMvmpamfCazM/view?usp=sharing){:target="_blank"} <br> [Day 19 Extra Problems](https://drive.google.com/file/d/1HbgbNmk5exrIbEf-8dX4RcvM98js7mhL/view?usp=sharing){:target="_blank"} | Rotational energy, rolling, rotational work
+
+
 
 
