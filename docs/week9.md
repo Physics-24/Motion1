@@ -128,9 +128,9 @@ Download notes: [rotational-work.pdf](https://drive.google.com/file/d/1rICnqweEq
 
 #### Miniquestion 5: Rotational Work (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/BWwMBhiom8kWHnSL7){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEwEt6zN36CJbKiiA-L2BG0uPd1h8mxWVH9ZuuqZbdqnqyEQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
