@@ -86,6 +86,9 @@ Thursday Mar 18 - **No class** - write your midterm during this time if you'd li
 
 Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 19 by 5pm PT.
 
+[Midterm Exam 2021](https://drive.google.com/file/d/1d1mqcbCxaMJXQ7gAr7NKZSgdGj9ot4rI/view?usp=sharing){:target="_blank"}
+
+[Midterm Solutions](https://drive.google.com/file/d/1N1dE6KOjTfV7gaHKuWIB3iBqIIOEp9c2/view?usp=sharing){:target="_blank"}
 
 <br>
 
