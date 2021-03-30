@@ -102,7 +102,7 @@ Thursday Mar 25 | [Group Problem 27](https://www.gradescope.com/courses/228629/a
 
 Week 9 |  |  | |
 ---| --- | -- | -- |
-Tuesday Mar 30 | [Group Problem 29](https://drive.google.com/file/d/1I40wfxrrpvjGGUhmqApgZuSrkzAfM-cy/view?usp=sharing){:target="_blank"} | [Group Problem 30](https://drive.google.com/file/d/1qSBXzsLdXmsr6w4oKQpBr4RlsuvV4hXT/view?usp=sharing){:target="_blank"} | [Group Problem 29 Solution](){:target="_blank"} <br> [Group Problem 30 Solution](){:target="_blank"}
+Tuesday Mar 30 | [Group Problem 29](https://drive.google.com/file/d/1I40wfxrrpvjGGUhmqApgZuSrkzAfM-cy/view?usp=sharing){:target="_blank"} | [Group Problem 30](https://drive.google.com/file/d/1qSBXzsLdXmsr6w4oKQpBr4RlsuvV4hXT/view?usp=sharing){:target="_blank"} | [Group Problem 29 Solution](https://drive.google.com/file/d/1jryVJ66BPLZvzBgAl6B_ZfU3ntSaf-Y4/view?usp=sharing){:target="_blank"} <br> [Group Problem 30 Solution](https://drive.google.com/file/d/1zggkHkrPTkJXNWFatmMCC0XpbXVWWaxK/view?usp=sharing){:target="_blank"}
 Thursday Apr 1 | [Group Problem 31](){:target="_blank"} | [Group Problem 32](){:target="_blank"} | [Group Problem 31 Solution](){:target="_blank"} <br> [Group Problem 32 Solution](){:target="_blank"}
 
 <br>
