@@ -91,8 +91,20 @@ due by Fri Mar 5, 5pm PT <br> **Time limit: 30 minutes** | [Solo Problem 11](htt
 
 Week 8 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 12](https://www.gradescope.com/courses/228629/assignments/1117068){:target="_blank"} | Solo Problem 12 Solution
-due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 13](https://www.gradescope.com/courses/228629/assignments/1117073){:target="_blank"} | Solo Problem 13 Solution
+due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 12](https://drive.google.com/file/d/19Mgi5vCGdBohikdp7M5dbdMq7lqQ8Fa6/view?usp=sharing){:target="_blank"} | [Solo Problem 12 Solution](https://drive.google.com/file/d/1bZO7_cc16mbntvdeoW_u8nfiD7xskmWg/view?usp=sharing){:target="_blank"}
+due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 13](https://drive.google.com/file/d/1WBqGcBmLjSP6IW1DYnCuMk9ZYGI3XlaU/view?usp=sharing){:target="_blank"} | [Solo Problem 13 Solution](https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
+
+
+<br>
+
+### Week 9
+[Week 9 Solo Problem Coversheet is available here](){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
+
+Week 9 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Mon Apr 5, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 14](https://www.gradescope.com/courses/228629/assignments/1138021){:target="_blank"} | Solo Problem 14 Solution
+due by Mon Apr 5, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 15](https://www.gradescope.com/courses/228629/assignments/1138024){:target="_blank"} | Solo Problem 15 Solution
+
 
 <br>
 
