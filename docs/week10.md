@@ -73,12 +73,12 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 3. Tree Felling Example
 Monday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1wuC3JI6IDClQPqDiTfFkHeL-B582vGPZ/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
 
-Download notes: [tree-felling-example.pdf](){:target="_blank"}
+Download notes: [tree-felling-example.pdf](https://drive.google.com/file/d/1Ba0Lg4Sef6Y2Z3FkLuE22HfKxhUADal4/view?usp=sharing){:target="_blank"}
 
 <br>
 
@@ -95,12 +95,12 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 4. Point Mass L
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1tHTh0HI_0S7MdwQo8WppSt96SpscfnWV/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
 
-Download notes: [point-mass-l.pdf](){:target="_blank"}
+Download notes: [point-mass-l.pdf](https://drive.google.com/file/d/1zJdFhsbElOPDmnd6NqoB2p7xyT8XrMyZ/view?usp=sharing){:target="_blank"}
 
 <br>
 
@@ -117,12 +117,12 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 5. Spin Orbital L
 Wednesday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/17Ju7s3d8vQwo-BMMwAoJjgl6PKgUC2Dx/view?usp=sharing" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
 
-Download notes: [spin-orbial-l.pdf](){:target="_blank"}
+Download notes: [spin-orbial-l.pdf](https://drive.google.com/file/d/1TzUbm7qHlW7AIt30e4cRmY3bTcfWHCBe/view?usp=sharing){:target="_blank"}
 
 <br>
 
@@ -144,7 +144,6 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Day xx Reading](){:target="_blank"} <br> [Day xx Extra Problems](){:target="_blank"} | topic1, topic2
-[Day xx Reading](){:target="_blank"} <br> [Day xx Extra Problems](){:target="_blank"} | topic3
+[Day 20 Reading](https://drive.google.com/file/d/1CYFBGB0SSYfs1c-gf94xLAhenSwnuekO/view?usp=sharing){:target="_blank"} <br> [Day 20 Extra Problems](https://drive.google.com/file/d/1ADo_G3s2ZYSGGPD4xL7Tj-EGW3LwsM7l/view?usp=sharing){:target="_blank"} | Rotational vectors, spin and orbital angular momentum
 
 
