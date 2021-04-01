@@ -39,9 +39,9 @@ Download notes: [vector-directions.pdf](https://drive.google.com/file/d/1mTMbpV-
 
 #### Miniquestion 1: Vector Directions (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/MGkbWgnUgQkWEcTk6){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdslarm6ObSIAz9qVDEcASi6d76-TJ3WWx9AyoQZ-scCERtbQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -62,9 +62,9 @@ Download notes: [cross-product-torque.pdf](https://drive.google.com/file/d/1cdfE
 
 #### Miniquestion 2: Cross Product Torque (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/mBLpTLDV4QkwLUUq6){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjSDC-DxZj6s9wxMp1vU8zAYGK2P-c9MDa5xLdKDo5otdUlg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -84,9 +84,9 @@ Download notes: [tree-felling-example.pdf](https://drive.google.com/file/d/1Ba0L
 
 #### Miniquestion 3: Tree Felling Example (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/uZBKDFxbaqNXsPhK8){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePL6cc-IXowXSHsTuiqBKpflKdmnwGIxkwxI6b9mxPkRuqQQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -106,9 +106,9 @@ Download notes: [point-mass-l.pdf](https://drive.google.com/file/d/1zJdFhsbElOPD
 
 #### Miniquestion 4: Point Mass L (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/pNjowK5n9mfLyvmJA){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemVBTldAzKDFH1ro9oWqj5qRg0QrXka9RgrKd1gj0uZven7A/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -130,7 +130,7 @@ Download notes: [spin-orbial-l.pdf](https://drive.google.com/file/d/1TzUbm7qHlW7
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfxoVx4dBS6LuFIu_-7y_wW7eRVfaJDA-I8cngRDisOlAwAg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
