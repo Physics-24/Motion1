@@ -98,7 +98,7 @@ due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 13](ht
 <br>
 
 ### Week 9
-[Week 9 Solo Problem Coversheet is available here](){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
+[Week 9 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1vvhs6GHJlH0rCXjiuy3yPY2aE4NlzWkS/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
 
 Week 9 | Gradescope Link | Solution | 
 ---| --- | -- | 
