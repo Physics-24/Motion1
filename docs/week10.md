@@ -117,7 +117,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Spin Orbital L
 Wednesday
-<iframe src="https://drive.google.com/file/d/17Ju7s3d8vQwo-BMMwAoJjgl6PKgUC2Dx/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/17Ju7s3d8vQwo-BMMwAoJjgl6PKgUC2Dx/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
