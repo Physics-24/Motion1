@@ -128,7 +128,7 @@ Download notes: [spin-orbial-l.pdf](https://drive.google.com/file/d/1TzUbm7qHlW7
 
 #### Miniquestion 5: Spin Orbital L (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/EaJqnim1cLBkdsKz7){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfxoVx4dBS6LuFIu_-7y_wW7eRVfaJDA-I8cngRDisOlAwAg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
