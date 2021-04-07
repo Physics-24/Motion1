@@ -110,7 +110,7 @@ Thursday Apr 1 | [Group Problem 31](https://drive.google.com/file/d/1659QWqIGFqJ
 
 Week 10 |  |  | |
 ---| --- | -- | -- |
-Tuesday Apr 6 | [Group Problem 33](https://drive.google.com/file/d/1EsOmyF1Tf-8kQa323b4hQbsY58HoT9SO/view?usp=sharing){:target="_blank"} | [Group Problem 34](https://drive.google.com/file/d/1uMXkV8wVN7Ee07EM4uVOuEKoYhlb9JMs/view?usp=sharing){:target="_blank"} | [Group Problem 33 Solution](){:target="_blank"} <br> [Group Problem 34 Solution](){:target="_blank"}
+Tuesday Apr 6 | [Group Problem 33](https://drive.google.com/file/d/1EsOmyF1Tf-8kQa323b4hQbsY58HoT9SO/view?usp=sharing){:target="_blank"} | [Group Problem 34](https://drive.google.com/file/d/1uMXkV8wVN7Ee07EM4uVOuEKoYhlb9JMs/view?usp=sharing){:target="_blank"} | [Group Problem 33 Solution](https://drive.google.com/file/d/1cXpkPGPgwW7s3jXY4x3GsALqKbqJM27t/view?usp=sharing){:target="_blank"} <br> [Group Problem 34 Solution](https://drive.google.com/file/d/1Q6A3m-r3dq1RA2KGIWfvHArsr_oCBsu7/view?usp=sharing){:target="_blank"}
 Thursday Apr 8 | [Group Problem 35](){:target="_blank"} | [Group Problem 36](){:target="_blank"} | [Group Problem 35 Solution](){:target="_blank"} <br> [Group Problem 36 Solution](){:target="_blank"}
 
 <br>
