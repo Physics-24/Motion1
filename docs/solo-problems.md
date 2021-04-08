@@ -102,8 +102,8 @@ due by Mon Mar 29, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 13](ht
 
 Week 9 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Apr 5, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 14](https://drive.google.com/file/d/1QrUG3sjVbWEoFyKbRGVosKcHEXJGxq46/view?usp=sharing){:target="_blank"} | Solo Problem 14 Solution
-due by Mon Apr 5, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 15](https://drive.google.com/file/d/1M0sXiQ94RB4eNLZErIkbtUwfU6GmKq_8/view?usp=sharing){:target="_blank"} | Solo Problem 15 Solution
+due by Mon Apr 5, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 14](https://drive.google.com/file/d/1QrUG3sjVbWEoFyKbRGVosKcHEXJGxq46/view?usp=sharing){:target="_blank"} | [Solo Problem 14 Solution](https://drive.google.com/file/d/1LLoCcSchFlBOm2vfOgSopBXWKBYpTDHv/view?usp=sharing){:target="_blank"}
+due by Mon Apr 5, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 15](https://drive.google.com/file/d/1M0sXiQ94RB4eNLZErIkbtUwfU6GmKq_8/view?usp=sharing){:target="_blank"} | [Solo Problem 15 Solution](https://drive.google.com/file/d/1PtKz7L07uetzA-D9iV9B95SdYVEUueVv/view?usp=sharing){:target="_blank"}
 
 
 <br>
