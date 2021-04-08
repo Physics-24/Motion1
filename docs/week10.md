@@ -16,7 +16,7 @@ This week we examining vector quantities of rotational motion.
 2. [Cross Product Torque](#2-cross-product-torque)
 3. [Tree Felling Example](#3-tree-felling-example)
 4. [Point Mass L](#4-point-mass-l)
-5. [Spin Orbital L](#5-spin-orbial-l)
+5. [Spin Orbital L](#5-spin-orbital-l)
 
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). 
@@ -122,7 +122,7 @@ Wednesday
 
 <br>
 
-Download notes: [spin-orbial-l.pdf](https://drive.google.com/file/d/1TzUbm7qHlW7AIt30e4cRmY3bTcfWHCBe/view?usp=sharing){:target="_blank"}
+Download notes: [spin-orbital-l.pdf](https://drive.google.com/file/d/1TzUbm7qHlW7AIt30e4cRmY3bTcfWHCBe/view?usp=sharing){:target="_blank"}
 
 <br>
 
