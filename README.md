@@ -14,12 +14,3 @@ Take a look a the raw markdown file for how to format the "\<details>" tag.
 </details>
 
 
-## To-do list 
-
-
-
-### Week 3
-
-+ finish notes 4,5
-+ miniquestions 3,4,5
-+ record videos 1-5
