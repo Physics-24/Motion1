@@ -113,8 +113,8 @@ due by Mon Apr 5, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 15](htt
 
 Week 10 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Apr 12, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 16](https://www.gradescope.com/courses/228629/assignments/1161078){:target="_blank"} | Solo Problem 16 Solution
-due by Mon Apr 12, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 17](https://www.gradescope.com/courses/228629/assignments/1161091){:target="_blank"} | Solo Problem 17 Solution
+due by Mon Apr 12, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 16](https://drive.google.com/file/d/1an0wp5Ss-V6PkZHfDq8QjkW2LVd-ceqe/view?usp=sharing){:target="_blank"} | [Solo Problem 16 Solution](https://drive.google.com/file/d/1_rK6RmXb3-R2KCK9LkfhVhl-nrdTncWv/view?usp=sharing){:target="_blank"}
+due by Mon Apr 12, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 17](https://drive.google.com/file/d/1h1PMl7l6Gzk04KidfE_XTfCXkBb1MtQw/view?usp=sharing){:target="_blank"} | [Solo Problem 17 Solution](https://drive.google.com/file/d/1wlmX7Q0S7IxHe4XaRbRu78W11SAdQhjx/view?usp=sharing){:target="_blank"}
 
 
 
