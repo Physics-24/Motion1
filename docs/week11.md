@@ -8,7 +8,7 @@
 
 <br>
 
-This week we are finishing up our discussion of rotational motion.
+This week we are finishing up our discussion of rotational motion!
 
 ## Topics
 
