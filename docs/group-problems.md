@@ -113,6 +113,15 @@ Week 10 |  |  | |
 Tuesday Apr 6 | [Group Problem 33](https://drive.google.com/file/d/1EsOmyF1Tf-8kQa323b4hQbsY58HoT9SO/view?usp=sharing){:target="_blank"} | [Group Problem 34](https://drive.google.com/file/d/1uMXkV8wVN7Ee07EM4uVOuEKoYhlb9JMs/view?usp=sharing){:target="_blank"} | [Group Problem 33 Solution](https://drive.google.com/file/d/1cXpkPGPgwW7s3jXY4x3GsALqKbqJM27t/view?usp=sharing){:target="_blank"} <br> [Group Problem 34 Solution](https://drive.google.com/file/d/1Q6A3m-r3dq1RA2KGIWfvHArsr_oCBsu7/view?usp=sharing){:target="_blank"}
 Thursday Apr 8 | [Group Problem 35](https://drive.google.com/file/d/1kHK9qNR-GFaWsQ_iQx8BYAXtj5LiBE8f/view?usp=sharing){:target="_blank"} | [Group Problem 36](https://drive.google.com/file/d/128YnfYIFLsN0BKPan4LFYeZDROd1Zlvt/view?usp=sharing){:target="_blank"} | [Group Problem 35 Solution](https://drive.google.com/file/d/1E-dwzn0AV__y7ZiCxGNjGKi6CIgmV2-L/view?usp=sharing){:target="_blank"} <br> [Group Problem 36 Solution](https://drive.google.com/file/d/1bY3x-KV8lfiLBqdNgPH2BRmOg8hx2fWH/view?usp=sharing){:target="_blank"}
 
+
+
+<br>
+
+Week 11 |  |  | |
+---| --- | -- | -- |
+Tuesday Apr 13 | [Group Problem 37](https://www.gradescope.com/courses/228629/assignments/1172733){:target="_blank"} | [Group Problem 38](https://www.gradescope.com/courses/228629/assignments/1172735){:target="_blank"} | [Group Problem 37 Solution](){:target="_blank"} <br> [Group Problem 38 Solution](){:target="_blank"}
+Thursday Apr 15 | [Group Problem 39](){:target="_blank"} | [Group Problem 40](){:target="_blank"} | [Group Problem 39 Solution](){:target="_blank"} <br> [Group Problem 40 Solution](){:target="_blank"}
+
 <br>
 
 <br>
