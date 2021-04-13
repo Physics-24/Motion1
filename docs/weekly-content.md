@@ -5,8 +5,8 @@
 
 Each week, follow the links below to the content and miniquestions that are assigned. All in-class activities each week will assume that you have already watched all of the assigned content and completed the corresponding miniquestions.
 
-Dates | Topics
------ | -------
+Dates                               | Topics
+----------------------------------- | --------------------------------------------------
 [Week 1 <br> Jan 24 - Jan 30](week1) |Vectors, kinematics, circular motion
 [Week 2 <br> Jan 31 - Feb 6](week2) |  Newton's laws, center-of-mass, conservation of momentum
 [Week 3 <br> Feb 7 - Feb 13](week3) |  Isolation diagrams, contact forces, gravity; springs, rods and ropes
@@ -27,3 +27,4 @@ Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
 <br>
 
 <a id="bottom"></a>
+
