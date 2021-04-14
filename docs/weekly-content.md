@@ -19,6 +19,7 @@ Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
 [Week 9 <br>  Mar 28 - Apr 3](week9) |  Kepler's Laws, rotational kinematics, rotational dynamics, rotational energy and rolling, rotational work
 [Week 10 <br> Apr 4 - Apr 10](week10) | Rotational vectors, spin and orbital angular momentum
 [Week 11 <br> Apr 11 - Apr 17](week11) | Rolling torque, conserved quantities, gyroscopes
+[Week 12 <br> Apr 18 - Apr 24](week12) | Simple harmonic motion, oscillating systems
 
 <br>
 
