@@ -28,7 +28,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Simple Harmonic Motion
 Monday
-<iframe src="https://drive.google.com/file/d/1mlF6ymMLznvbj3JUaK79sx0tjXJMTAgt/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1mlF6ymMLznvbj3JUaK79sx0tjXJMTAgt/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -51,7 +51,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 2. SHO Equation Solutions
 Monday
-<iframe src="https://drive.google.com/file/d/17eMl4QG9WElnetvTXA4jWO_3vJgC_69p/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/17eMl4QG9WElnetvTXA4jWO_3vJgC_69p/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -73,7 +73,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 3. Solving Strategies
 Monday
-<iframe src="https://drive.google.com/file/d/1EtiibiCR9JbuBkw05QgVYpvhGsusbRbj/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1EtiibiCR9JbuBkw05QgVYpvhGsusbRbj/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -95,7 +95,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 4. Pendulum Examples
 Wednesday
-<iframe src="https://drive.google.com/file/d/1clJAmfVdhlsJOuNdqdLiEMvSlCgRhPms/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1clJAmfVdhlsJOuNdqdLiEMvSlCgRhPms/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -117,7 +117,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 5. Molecular Binding
 Wednesday
-<iframe src="https://drive.google.com/file/d/15NdB6K3wga0HPHk_oLlKUPybS9-wzwJE/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/15NdB6K3wga0HPHk_oLlKUPybS9-wzwJE/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
