@@ -12,11 +12,11 @@ This week we are exploring applications of mechanics to simple harmonic motion a
 
 ## Topics
 
-1. [Simple Harmonic Motion](#1-first-topic)
-2. [SHO Equation Solutions](#2-second-topic)
-3. [Solving Strategies](#3-third-topic)
-4. [Pendulum Examples](#4-fourth-topic)
-5. [Molecular Binding](#5-fifth-topic)
+1. [Simple Harmonic Motion](#1-simple-harmonic-motion)
+2. [SHO Equation Solutions](#2-sho-equation-solutions)
+3. [Solving Strategies](#3-solving-strategies)
+4. [Pendulum Examples](#4-pendulum-examples)
+5. [Molecular Binding](#5-molecular-binding)
 
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). 
@@ -146,5 +146,11 @@ Section | Topic
 ------- | -----
 [Appendix B Reading](https://drive.google.com/file/d/1mWm26f_-T-Yj3dCQ80AUjV9bj5dihDz6/view?usp=sharing){:target="_blank"} <br> [Appendix B Extra Problems](https://drive.google.com/file/d/1_HrAnGdV9m-Wg-bMPIT5HBcXLi2Jvcp_/view?usp=sharing){:target="_blank"} | simple harmonic motion
 [Appendix C Reading](https://drive.google.com/file/d/1UEsvHXnhrkHzsj67XPLXZKp0FtpH48Om/view?usp=sharing){:target="_blank"} <br> [Appendix C Extra Problems](https://drive.google.com/file/d/1KiDKBN4g0K6SmKamsMbeqMNpDHfmrJIu/view?usp=sharing){:target="_blank"} | oscillating systems
+
+
+### Optional Reading -- Greenhouse Effect
+
+If you're curious here's a short overview of how the Greenhouse Effect works:  
+http://www.ces.fau.edu/nasa/module-2/how-greenhouse-effect-works.php
 
 
