@@ -39,9 +39,9 @@ Download notes: [simple-harmonic-motion.pdf](https://drive.google.com/file/d/1F4
 
 #### Miniquestion 1: Simple Harmonic Motion (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/4yXASg3njxxDUwQQA){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdg__rb7SjK_a7q_FK0MYS_K6FEHsNh-8yhwiPh6rBZ2oh1mw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -62,9 +62,9 @@ Download notes: [SHO-equation-solutions.pdf](https://drive.google.com/file/d/1rl
 
 #### Miniquestion 2: SHO Equation Solutions (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/zWpUk2qEihGaNq488){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYdtvjqXTXdWLLELTZFHKyKj-LxJ6obbUd0KD7__KQnoDwOg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -84,9 +84,9 @@ Download notes: [solving-strategies.pdf](https://drive.google.com/file/d/15JNcJ4
 
 #### Miniquestion 3: Solving Strategies (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/NRyeKtPEvYdmgpiQ8){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhuxUASdr3c6eB1e6x41rRDxw39NQqwljk7e6qxZKnjx3CQA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -106,9 +106,9 @@ Download notes: [pendulum-examples.pdf](https://drive.google.com/file/d/1gi4Jdwn
 
 #### Miniquestion 4: Pendulum Examples (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/B2PJU4vhPHss6QbB8){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeleQyBzuuLn4iFQPTDTG3Qh9JUVWUi4jeBGaNXSHoTooapuw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -128,9 +128,9 @@ Download notes: [molecular-binding.pdf](https://drive.google.com/file/d/1H-U4hPc
 
 #### Miniquestion 5: Molecular Binding (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/PYt4i7aQoPPved1q7){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdV9QXxnjHdqSG5nTvQiQMEPlcoQb8Po4Bjdeit2R2s0z71qA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -144,7 +144,7 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Appendix B Reading](){:target="_blank"} <br> [Appendix B Extra Problems](){:target="_blank"} | simple harmonic motion
-[Appendix C Reading](){:target="_blank"} <br> [Appendix C Extra Problems](){:target="_blank"} | oscillating systems
+[Appendix B Reading](https://drive.google.com/file/d/1mWm26f_-T-Yj3dCQ80AUjV9bj5dihDz6/view?usp=sharing){:target="_blank"} <br> [Appendix B Extra Problems](https://drive.google.com/file/d/1_HrAnGdV9m-Wg-bMPIT5HBcXLi2Jvcp_/view?usp=sharing){:target="_blank"} | simple harmonic motion
+[Appendix C Reading](https://drive.google.com/file/d/1UEsvHXnhrkHzsj67XPLXZKp0FtpH48Om/view?usp=sharing){:target="_blank"} <br> [Appendix C Extra Problems](https://drive.google.com/file/d/1KiDKBN4g0K6SmKamsMbeqMNpDHfmrJIu/view?usp=sharing){:target="_blank"} | oscillating systems
 
 
