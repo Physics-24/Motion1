@@ -117,6 +117,18 @@ due by Mon Apr 12, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 16](ht
 due by Mon Apr 12, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 17](https://drive.google.com/file/d/1h1PMl7l6Gzk04KidfE_XTfCXkBb1MtQw/view?usp=sharing){:target="_blank"} | [Solo Problem 17 Solution](https://drive.google.com/file/d/1wlmX7Q0S7IxHe4XaRbRu78W11SAdQhjx/view?usp=sharing){:target="_blank"}
 
 
+<br>
+
+### Week 11
+[Week 11 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1pLStecU2KaKLdWZSi49pGjwTUVzkuLtI/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
+
+Week 11 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Mon Apr 19, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 18](https://www.gradescope.com/courses/228629/assignments/1183275){:target="_blank"} | Solo Problem 18 Solution
+due by Mon Apr 19, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 19](https://www.gradescope.com/courses/228629/assignments/1183280){:target="_blank"} | Solo Problem 19 Solution
+
+
+
 
 <br>
 
