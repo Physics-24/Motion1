@@ -102,7 +102,7 @@ Wednesday Apr 14 | [Recitation Set 22](https://drive.google.com/file/d/1KxoXPeye
 
 Week 12 |  |  | |
 ---| --- | -- | -- |
-Monday Apr 19 | [Recitation Set 23](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions]()){:target="_blank"} 
+Monday Apr 19 | [Recitation Set 23](https://drive.google.com/file/d/1JlzNTw-xzP7grE4vpgPwawSGFHwbgkfs/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1diCpSXTHnzdDT9h7h7pywCin6xTUbh1T/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1eR9GmmYZ30ejVmlZWs_j29tkWQ3136Ze/view?usp=sharing){:target="_blank"} 
 Wednesday Apr 21 | [Recitation Set 24](){:target="_blank"} | [Answers](){:target="_blank"} | [Solutions](){:target="_blank"}
 
 <br>
