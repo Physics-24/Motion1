@@ -126,7 +126,7 @@ Tuesday Apr 13 | [Group Problem 37](https://drive.google.com/file/d/18NMCCBZJyrv
 
 Week 12 |  |  | |
 ---| --- | -- | -- |
-Tuesday Apr 20 | [Group Problem 39](https://www.gradescope.com/courses/228629/assignments/1190815){:target="_blank"} | [Group Problem 40](https://www.gradescope.com/courses/228629/assignments/1190818){:target="_blank"} | [Group Problem 39 Solution](){:target="_blank"} <br> [Group Problem 40 Solution](){:target="_blank"}
+Tuesday Apr 20 | [Group Problem 39](https://drive.google.com/file/d/1-fhLxGHGg2U3sgNayY22aMorqvqecg3l/view?usp=sharing){:target="_blank"} | [Group Problem 40](https://drive.google.com/file/d/1-z9-5DcyPiviH0VfmcmnLl1TDAUHGkWL/view?usp=sharing){:target="_blank"} | [Group Problem 39 Solution](https://drive.google.com/file/d/1sBG2w228qwYxVRw5csm_wrtPZERbhhDe/view?usp=sharing){:target="_blank"} <br> [Group Problem 40 Solution](https://drive.google.com/file/d/1LEt5xFV382MPsHEfoorPmkyMo25rlNGs/view?usp=sharing){:target="_blank"}
 Thursday Apr 22 | [Group Problem 41](https://www.gradescope.com/courses/228629/assignments/1190821){:target="_blank"} | [Group Problem 42](https://www.gradescope.com/courses/228629/assignments/1190823){:target="_blank"} | [Group Problem 41 Solution](){:target="_blank"} <br> [Group Problem 42 Solution](){:target="_blank"}
 
 
