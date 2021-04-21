@@ -127,6 +127,15 @@ Week 11 | Gradescope Link | Solution |
 due by Mon Apr 19, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 18](https://drive.google.com/file/d/1CKzOjcLpGuwB3I37P9VXXASsuCRrf0-_/view?usp=sharing){:target="_blank"} | [Solo Problem 18 Solution](https://drive.google.com/file/d/129eioJbUMZYljV3dAPzwAmhyWwr84scM/view?usp=sharing){:target="_blank"}
 due by Mon Apr 19, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 19](https://drive.google.com/file/d/1PfOJl-qLdiUbGGVm_wgt9g1MLuiRfcuJ/view?usp=sharing){:target="_blank"} | [Solo Problem 19 Solution](https://drive.google.com/file/d/1r-Y-9_GNwfDXAeJgYfgTUP3hXMutLYeK/view?usp=sharing){:target="_blank"}
 
+<br>
+
+### Week 12
+[Week 12 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1XGCWvO-s-T9JYlEPmVqAoWiVlLPimG5o/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
+
+Week 12 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 20](https://www.gradescope.com/courses/228629/assignments/1190827){:target="_blank"} | [Solo Problem 20 Solution](){:target="_blank"}
+due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 21](https://www.gradescope.com/courses/228629/assignments/1190831){:target="_blank"} | [Solo Problem 21 Solution](){:target="_blank"}
 
 
 
