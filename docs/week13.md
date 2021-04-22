@@ -28,7 +28,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Waves
 Monday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1UruXC73QfYQuKJ2M-lJaxwANj9Ycm006/view?usp=sharing" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -41,7 +41,7 @@ Download notes: [waves.pdf](https://drive.google.com/file/d/1iELhJ6VhypxvTQIh32X
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
 
-<iframe src="https://drive.google.com/file/d/1UruXC73QfYQuKJ2M-lJaxwANj9Ycm006/view?usp=sharing" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
