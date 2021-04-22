@@ -28,7 +28,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Waves
 Monday
-<iframe src="https://drive.google.com/file/d/1UruXC73QfYQuKJ2M-lJaxwANj9Ycm006/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1UruXC73QfYQuKJ2M-lJaxwANj9Ycm006/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -51,7 +51,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 2. Wave Equation
 Monday
-<iframe src="https://drive.google.com/file/d/16qHr0hh_1D3cqrJcvn_9imf2aHlHlrO6/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/16qHr0hh_1D3cqrJcvn_9imf2aHlHlrO6/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -73,7 +73,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 3. Sinusoidal Waves
 Monday
-<iframe src="https://drive.google.com/file/d/1oDLoi7PCHQyzz5-E0VSpxlDfPWpqdOAc/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1oDLoi7PCHQyzz5-E0VSpxlDfPWpqdOAc/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -95,7 +95,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 4. Superposition
 Wednesday
-<iframe src="https://drive.google.com/file/d/1VrqPsDJ_ds-8jqd7rQLesXGirgEyCIbE/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1VrqPsDJ_ds-8jqd7rQLesXGirgEyCIbE/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -117,7 +117,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 5. Sound Waves
 Wednesday
-<iframe src="https://drive.google.com/file/d/1N1dfMzzRDIKiZBmZNKJuzJvFZOP31bUF/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1N1dfMzzRDIKiZBmZNKJuzJvFZOP31bUF/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
