@@ -13,10 +13,10 @@ This week we are continuing our discussion of energy and work.
 ## Topics
 
 1. [Waves](#1-waves)
-2. [Wave Equation](#2-wave-equation-and-solutions)
-3. [Sinusoidal Waves](#3-sinusoidal-waves-and-power)
-4. [Superposition](#4-superposition-standing-waves)
-5. [Sound Waves](#5-sound-and-other-waves)
+2. [Wave Equation](#2-wave-equation)
+3. [Sinusoidal Waves](#3-sinusoidal-waves)
+4. [Superposition](#4-superposition)
+5. [Sound Waves](#5-sound-waves)
 
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). 
@@ -144,7 +144,7 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Appendix D Reading](){:target="_blank"} <br> [Appendix D Extra Problems](){:target="_blank"} | topic1, topic2
-[Appendix E Reading](){:target="_blank"} <br> [Appendix E Extra Problems](){:target="_blank"} | topic3
+[Appendix D Reading](){:target="_blank"} <br> [Appendix D Extra Problems](){:target="_blank"} | Waves on a rope
+[Appendix E Reading](){:target="_blank"} <br> [Appendix E Extra Problems](){:target="_blank"} | Sound waves
 
 
