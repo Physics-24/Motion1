@@ -144,7 +144,7 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Appendix D Reading](){:target="_blank"} <br> [Appendix D Extra Problems](){:target="_blank"} | Waves on a rope
-[Appendix E Reading](){:target="_blank"} <br> [Appendix E Extra Problems](){:target="_blank"} | Sound waves
+[Appendix D Reading](https://drive.google.com/file/d/1Hf_2ePW7Vn1WnxRllMtZ1_ukm2thqRD6/view?usp=sharing){:target="_blank"} <br> [Appendix D Extra Problems](https://drive.google.com/file/d/1tvWMaX69scwLmmkfztzY6UeWYSWJsD9C/view?usp=sharing){:target="_blank"} | Waves on a rope
+[Appendix E Reading](https://drive.google.com/file/d/1wzHA6uKzOEyjt_Gc2NiVRLtABiLPfLWd/view?usp=sharing){:target="_blank"} <br> [Appendix E Extra Problems](https://drive.google.com/file/d/1pWiQ5l_71fGzzO28Dl2ioQeR5CQmjzMj/view?usp=sharing){:target="_blank"} | Sound waves
 
 
