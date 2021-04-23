@@ -39,9 +39,9 @@ Download notes: [waves.pdf](https://drive.google.com/file/d/1iELhJ6VhypxvTQIh32X
 
 #### Miniquestion 1: Waves (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/4nUyPoaYGhDK1a4aA){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe8pDM4CkB4gg7yYswxhkIJQOhmAHwpLhQFR5ElG66WWAy5TA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -62,9 +62,9 @@ Download notes: [wave-equation-and-solutions.pdf](https://drive.google.com/file/
 
 #### Miniquestion 2: Wave Equation (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/aVckxaae3njkgpFj8){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeD2Dd7BI2Gf1jUbut-JiExCUcYK2yVRBDmt1TxKLKI8BfBpg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -84,9 +84,9 @@ Download notes: [sinusoidal-waves-and-power.pdf](https://drive.google.com/file/d
 
 #### Miniquestion 3: Sinusoidal Waves (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/EJQTCX23YVzJWPTN7){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5U4V9NWXICSi8_mrSZfhrwwSbxsuombqsNhr0piuaLJu7pA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
