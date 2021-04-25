@@ -128,9 +128,9 @@ Download notes: [sound-and-other-waves.pdf](https://drive.google.com/file/d/1CLD
 
 #### Miniquestion 5: Sound Waves (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/cawrLuhBd3uCmHdZ6){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSjtK-spaqUf9OQVpNjD5XF0PwA0axrGQ-FAewV2HIAUjCww/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
