@@ -106,9 +106,9 @@ Download notes: [superposition-standing-waves.pdf](https://drive.google.com/file
 
 #### Miniquestion 4: Superposition (Wednesday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/enWWMrHbRuNUsPuMA){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeli4EbUpp6s5p7iID3iLxtJNZR6A4kjLGxX0Q7jmgq0S-5Lw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
