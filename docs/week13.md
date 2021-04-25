@@ -100,7 +100,7 @@ Wednesday
 
 <br>
 
-Download notes: [superposition-standing-waves.pdf](https://drive.google.com/file/d/1VrqPsDJ_ds-8jqd7rQLesXGirgEyCIbE/view?usp=sharing){:target="_blank"}
+Download notes: [superposition-standing-waves.pdf](https://drive.google.com/file/d/1kO5MDW_niiZZ_kNswAyV64mhFQYNo9le/view?usp=sharing){:target="_blank"}
 
 <br>
 
