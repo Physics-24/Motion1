@@ -22,7 +22,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Beats
 Monday
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/18TfrtfhEPl02lFeuDRMxxHBLPyRxpQSC/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
@@ -35,7 +35,7 @@ Download notes: [w14t1-beats.pdf](https://drive.google.com/file/d/1iRpFBWtDaaxHg
 
 Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
 
-<iframe src="https://drive.google.com/file/d/18TfrtfhEPl02lFeuDRMxxHBLPyRxpQSC/view?usp=sharing" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -45,7 +45,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](){:target="_bl
 
 ### 2. Interference
 Monday
-<iframe src="https://drive.google.com/file/d/1ywpJJU9qa4tdFeJh18kj2AETz757g9tz/view?usp=sharing" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1ywpJJU9qa4tdFeJh18kj2AETz757g9tz/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
