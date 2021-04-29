@@ -134,8 +134,18 @@ due by Mon Apr 19, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 19](ht
 
 Week 12 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 20](https://www.gradescope.com/courses/228629/assignments/1190827){:target="_blank"} | [Solo Problem 20 Solution](https://drive.google.com/file/d/1GdSVh3cfQgeGh89QLvFmvHJVOcXkQgHr/view?usp=sharing){:target="_blank"}
-due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 21](https://www.gradescope.com/courses/228629/assignments/1190831){:target="_blank"} | [Solo Problem 21 Solution](https://drive.google.com/file/d/1G7_Zli12Z6RhV9FkG-cLoUSX8d-tjnK9/view?usp=sharing){:target="_blank"}
+due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 20](https://drive.google.com/file/d/13bazKj-zCxrbRdfKQGqzdAwIF4FqCPpq/view?usp=sharing){:target="_blank"} | [Solo Problem 20 Solution](https://drive.google.com/file/d/1GdSVh3cfQgeGh89QLvFmvHJVOcXkQgHr/view?usp=sharing){:target="_blank"}
+due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 21](https://drive.google.com/file/d/1sdBfED6OyozMdiPBwpwME6lakv0hnQNr/view?usp=sharing){:target="_blank"} | [Solo Problem 21 Solution](https://drive.google.com/file/d/1G7_Zli12Z6RhV9FkG-cLoUSX8d-tjnK9/view?usp=sharing){:target="_blank"}
+
+
+
+### Week 13
+[Week 13 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1vxUe_4qtzRI4TQqTGsE8sLJ5J7Lo4XDW/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
+
+Week 13 | Gradescope Link | Solution | 
+---| --- | -- | 
+due by Mon May 3, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 22](https://www.gradescope.com/courses/228629/assignments/1214089){:target="_blank"} | [Solo Problem 20 Solution](){:target="_blank"}
+due by Mon Apr 3, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 23](https://www.gradescope.com/courses/228629/assignments/1214090){:target="_blank"} | [Solo Problem 23 Solution](){:target="_blank"}
 
 
 
