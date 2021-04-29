@@ -21,6 +21,7 @@ Spring Break <br>  Mar 7 - Mar 13 | Nothing due, nothing to do
 [Week 11 <br> Apr 11 - Apr 17](week11) | Rolling torque, conserved quantities, gyroscopes
 [Week 12 <br> Apr 18 - Apr 24](week12) | Simple harmonic motion, oscillating systems
 [Week 13 <br> Apr 25 - May 1](week13) | Waves, superposition, sound waves 
+[Week 14 <br> May 2 - May 8](week14) | Beats, interference
 
 <br>
 
