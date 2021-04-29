@@ -33,9 +33,9 @@ Download notes: [w14t1-beats.pdf](https://drive.google.com/file/d/1iRpFBWtDaaxHg
 
 #### Miniquestion 1: Beats (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/QyiAogSbDwG98shNA){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWjqL1_jBoeFff5DSyIAq8FJKIbY41H_WeXRMgbk-sHHABiw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
@@ -72,6 +72,6 @@ In case you would like a textbook reference for the material presented above, he
 
 Section | Topic
 ------- | -----
-[Appendix F Reading](){:target="_blank"} <br> [Appendix F Extra Problems](){:target="_blank"} | beats, interference
+[Appendix F Reading](https://drive.google.com/file/d/1xA7K6UuaRqGpYum4LjjZPEduQgIJGgpZ/view?usp=sharing){:target="_blank"} <br> [Appendix F Extra Problems](https://drive.google.com/file/d/1A2_SYvW0Pog-iKzCEDOT-l6f02RRpv3r/view?usp=sharing){:target="_blank"} | beats, interference
 
 
