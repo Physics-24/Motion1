@@ -134,8 +134,8 @@ due by Mon Apr 19, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 19](ht
 
 Week 12 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 20](https://www.gradescope.com/courses/228629/assignments/1190827){:target="_blank"} | [Solo Problem 20 Solution](){:target="_blank"}
-due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 21](https://www.gradescope.com/courses/228629/assignments/1190831){:target="_blank"} | [Solo Problem 21 Solution](){:target="_blank"}
+due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 20](https://www.gradescope.com/courses/228629/assignments/1190827){:target="_blank"} | [Solo Problem 20 Solution](https://drive.google.com/file/d/1GdSVh3cfQgeGh89QLvFmvHJVOcXkQgHr/view?usp=sharing){:target="_blank"}
+due by Mon Apr 26, 7am PT <br> **Time limit: 30 minutes** | [Solo Problem 21](https://www.gradescope.com/courses/228629/assignments/1190831){:target="_blank"} | [Solo Problem 21 Solution](https://drive.google.com/file/d/1G7_Zli12Z6RhV9FkG-cLoUSX8d-tjnK9/view?usp=sharing){:target="_blank"}
 
 
 
