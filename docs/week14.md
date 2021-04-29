@@ -6,7 +6,7 @@
 
 <br>
 
-This week we are continuing our discussion of energy and work. 
+This week we are wrapping up our discussion of waves and wave superposition. 
 
 ## Topics
 
