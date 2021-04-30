@@ -56,9 +56,9 @@ Download notes: [w14t2-interference.pdf](https://drive.google.com/file/d/1dku0dJ
 
 #### Miniquestion 2: Interference (Monday)
 
-Recommended: [*click here to open the miniquestion in a new tab*](){:target="_blank"}
+Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/vMPn4bC85eGSQzy66){:target="_blank"}
 
-<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdy1FRUJrnKrhaJjNj6LuxB22sElcTZ_4rK_ICrEwdc1RQA5Q/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br>
