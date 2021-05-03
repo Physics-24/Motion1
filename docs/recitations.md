@@ -119,8 +119,7 @@ Wednesday Apr 28 | [Recitation Set 26](https://drive.google.com/file/d/1YoKUb93-
 
 Week 14 |  |  | |
 ---| --- | -- | -- |
-Monday May 3 | [Recitation Set 27](https://drive.google.com/file/d/10Z3zL09upzaTZic_Ao_DfIgxM40z6-Iu/view?usp=sharing
-){:target="_blank"} | [Answers](https://drive.google.com/file/d/1w_Sc6UXKYaxSxXSjT6At3IC9NwGhcZr0/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1KACxZSBGWiFRmPqYTo0rz4poU3EpiSGG/view?usp=sharing){:target="_blank"} 
+Monday May 3 | [Recitation Set 27](https://drive.google.com/file/d/10Z3zL09upzaTZic_Ao_DfIgxM40z6-Iu/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1w_Sc6UXKYaxSxXSjT6At3IC9NwGhcZr0/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1KACxZSBGWiFRmPqYTo0rz4poU3EpiSGG/view?usp=sharing){:target="_blank"} 
 
 <br>
 
