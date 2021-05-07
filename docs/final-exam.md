@@ -1,6 +1,6 @@
 # Final Exam Information
 
-1. The synchronous Ph24 final exam is Monday, 2pm - 5pm Pacific Time.
+1. The synchronous Ph24 final exam is Monday, May 10 from 2pm - 5pm Pacific Time.
 
 2. You will be able to access the exam on Gradescope 15 minutes ahead of time to download and print it (if you need to). You will have until 5:30pm PT to scan and upload it to Gradescope. Do not start working until 2pm on Monday. 
 
