@@ -14,7 +14,7 @@ Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Sundays at no
 
 ### Resources:
 + [Office Hours](office-hours){:target="_blank"}
-+ [Piazza](https://piazza.com/hmc/spring2022/phys24){:target="_blank"}
+
 
 <br>
 

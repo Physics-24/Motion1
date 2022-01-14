@@ -3,9 +3,9 @@
 
 [Jump to this week's problems](#bottom)
 
-For a Zoom link to your recitation section, please select ["Zoom Links" from the side menu on Sakai](https://sakai.claremont.edu/portal/site/CX_mtg_HMC_Phys24_SP21/tool/8126a7c7-7ba1-4bc6-9b3f-20b4d4050567){:target="_blank"}.
+For a Zoom link to your recitation section during the first two weeks, please see the course overview page.
 
-Recitation participation is synchronous and mandatory. Recitation participation is worth 10% of your overall grade.  Talk to [your recitation section instructor](recitation-schedule){:target="_blank"} about their expectations for the participation grade. If there is a day you cannot attend recitation, please get in contact with your section instructor to let them know. If you have special circumstances (e.g. timezone issues, family responsibilities) which require you to frequently not attend recitation at your scheduled time, please email Prof. Ilton. 
+Recitation participation is synchronous and mandatory. Recitation participation is worth 10% of your overall grade.  Talk to your recitation section instructor about their expectations for the participation grade. If there is a day you cannot attend recitation, please get in contact with your section instructor to let them know. If you have special circumstances (e.g. timezone issues, family responsibilities) which require you to frequently not attend recitation at your scheduled time, please email Prof. Ilton. 
 
 <br>
 
@@ -19,6 +19,8 @@ Monday Jan 19 | No Recitation Set 1 - No Class | |
 Wednesday Jan 21 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1ofRIcHLF43nx0xS75Ss0TZncuyFsgcNq/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1HxrleH_kah0-HNlh0ASkXJ1GV0Psegdu/view?usp=sharing){:target="_blank"}
 
 <br>
+
+<!--
 
 Week 2 |  |  | |
 ---| --- | -- | -- |
@@ -117,6 +119,8 @@ Week 14 |  |  | |
 ---| --- | -- | -- |
 Monday Apr 25 | [Recitation Set 27](https://drive.google.com/file/d/10Z3zL09upzaTZic_Ao_DfIgxM40z6-Iu/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1w_Sc6UXKYaxSxXSjT6At3IC9NwGhcZr0/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1KACxZSBGWiFRmPqYTo0rz4poU3EpiSGG/view?usp=sharing){:target="_blank"} 
 Wednesday Apr 27 | [Recitation Set 28](https://drive.google.com/file/d/1tJgLnmwuf1_OKJJCpmYMLmURLwlFdjQn/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1szTrjAiWjGT5HAAgdb_0K6Yvo0ElGQQR/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1FfIfrjwBlluvQ4JAZl0KUXELFoY-WvwC/view?usp=sharing){:target="_blank"} 
+
+-->
 
 <br>
 
