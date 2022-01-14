@@ -2,7 +2,7 @@
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday March 21 at 8am**
+**The miniquestions for topics 1-3 on this page are due on Tuesday March 22 at 8am**
 
 **The miniquestions for topics 4-5 on this page are due on Wednesday March 23 at 8am**
 
@@ -27,7 +27,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 <br>
 
 ### 1. Kepler's Laws
-Monday
+Tuesday
 <iframe src="https://drive.google.com/file/d/1C5HHAPyp6XxsOkiB-WJeY4oa6bQ2ujYK/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -37,7 +37,7 @@ Download notes: [keplers-laws.pdf](https://drive.google.com/file/d/1Jjdq_n66kzGx
 
 <br>
 
-#### Miniquestion 1: Kepler's Laws (Monday)
+#### Miniquestion 1: Kepler's Laws (Tuesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/nDmQjoTcLKdvjk3y9){:target="_blank"}
 
@@ -50,7 +50,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 
 ### 2. Rotational Kinematics
-Monday
+Tuesday
 <iframe src="https://drive.google.com/file/d/1PUEt8ybYsk8OvXeLYQh3U7aObBYmlvnL/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -60,7 +60,7 @@ Download notes: [rotational-kinematics.pdf](https://drive.google.com/file/d/1ZRV
 
 <br>
 
-#### Miniquestion 2: Rotational Kinematics (Monday)
+#### Miniquestion 2: Rotational Kinematics (Tuesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/XVTFjDe7nqVizSeE9){:target="_blank"}
 
@@ -72,7 +72,7 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ### 3. Rotational Dynamics
-Monday
+Tuesday
 <iframe src="https://drive.google.com/file/d/1BKFWwmF7yr5NGZPQX62ZfluZTHHv-2kx/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -82,7 +82,7 @@ Download notes: [rotational-dynamics.pdf](https://drive.google.com/file/d/1-fYVG
 
 <br>
 
-#### Miniquestion 3: Rotational Dynamics (Monday)
+#### Miniquestion 3: Rotational Dynamics (Tuesday)
 
 Recommended: [*click here to open the miniquestion in a new tab*](https://forms.gle/zWTsFQqsgWACNYnX9){:target="_blank"}
 
