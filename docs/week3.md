@@ -1,10 +1,10 @@
-# Week 3: Feb 7 - Feb 13
+# Week 3: Jan 30 - Feb 5
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday February 8 at  8am PT**
+**The miniquestions for topics 1-3 on this page are due on Monday January 31 at 8am**
 
-**The miniquestions for topics 4-5 on this page are due on Wednesday February 10 at  8am PT**
+**The miniquestions for topics 4-5 on this page are due on Wednesday February 2 at 8am**
 
 
 
@@ -27,7 +27,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-### 1. Gravity and Contact Forces: Quickstart Guide
+### 1. Gravity and Contact Forces: Quickstart Guide 
 Monday
 <iframe src="https://drive.google.com/file/d/1JF8NPaHB85z5gr3hPX_xNbgzA2oqxjwk/preview" width="640" height="480" allowfullscreen>
 </iframe>

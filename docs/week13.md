@@ -1,10 +1,10 @@
-# Week 13: Apr 25 - May 1
+# Week 13: Apr 17 - Apr 23
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday April 26 at  8am PT**
+**The miniquestions for topics 1-3 on this page are due on Monday April 18 at 8am**
 
-**The miniquestions for topics 4-5 on this page are due on Wednesday April 28 at  8am PT**
+**The miniquestions for topics 4-5 on this page are due on Wednesday April 20 at 8am**
 
 <br>
 

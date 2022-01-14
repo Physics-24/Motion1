@@ -1,8 +1,8 @@
-# Week 1: Jan 24 - Jan 30
+# Week 1: Jan 18 - Jan 22
 
 <br>
 
-Normally, the miniquestions are due Mondays at  8am PT. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 27 at  8am PT.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
+Normally, the miniquestions are due Mondays at  8am. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 19 at  8am.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
 
 
 <br>
@@ -11,13 +11,19 @@ This week is all about "describing motion", which is also called kinematics. Eve
 
 ## Topics
 
-1. [Representing position as a vector](#1-representing-position-as-a-vector)
-2. [Relative position and velocity](#2-relative-position-and-velocity)
-3. [Position, velocity, and acceleration](#3-position-velocity-and-acceleration)
-4. [Constant acceleration](#4-constant-acceleration-motion)
-    - solving a 1st order, separable, ordinary differential equations
-5. [Uniform circular motion](#5-uniform-circular-motion)
-    - representing vectors in a polar basis set
+- [Week 1: Jan 18 - Jan 22](#week-1-jan-18---jan-22)
+  - [Topics](#topics)
+    - [1. Representing Position as a Vector](#1-representing-position-as-a-vector)
+      - [Miniquestion 1: Representing position as a vector (due Wed 8am)](#miniquestion-1-representing-position-as-a-vector-due-wed-8am)
+    - [2. Relative Position and Velocity](#2-relative-position-and-velocity)
+      - [Miniquestion 2: Relative Position and Velocity (due Wed 8am)](#miniquestion-2-relative-position-and-velocity-due-wed-8am)
+    - [3. Position, Velocity, and Acceleration](#3-position-velocity-and-acceleration)
+      - [Miniquestion 3: Position, Velocity, and Acceleration (due Wed 8am)](#miniquestion-3-position-velocity-and-acceleration-due-wed-8am)
+    - [4. Constant Acceleration Motion](#4-constant-acceleration-motion)
+      - [Miniquestion 4: Constant Acceleration Motion? (due Wed 8am)](#miniquestion-4-constant-acceleration-motion-due-wed-8am)
+    - [5. Uniform Circular Motion](#5-uniform-circular-motion)
+      - [Miniquestion 5: Uniform Circular Motion (due Wed 8am)](#miniquestion-5-uniform-circular-motion-due-wed-8am)
+  - [Optional Readings and Extra Problems](#optional-readings-and-extra-problems)
 
 Full textbook readings and optional extra problems available at the [bottom of the page](#optional-readings-and-extra-problems). A single pdf file of all of this week's notes is compiled into [week1-notes.pdf](https://drive.google.com/file/d/1Yf9E2-O7wXcUNFcpVR-Mic1780ccGY9w/view?usp=sharing){:target="_blank"}.
 
@@ -37,7 +43,7 @@ Download notes: [representing-position-as-a-vector.pdf](https://drive.google.com
 
 <br> 
 
-#### Miniquestion 1: Representing position as a vector
+#### Miniquestion 1: Representing position as a vector (due Wed 8am)
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/AGzc2xnbV3xRkt4Q6){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7iqoPVLfpSuHG92gdejEkHFZTvHZx9OqplQOTAb0Cj9Mm3w/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -61,7 +67,7 @@ Download notes: [relative-position-and-velocity.pdf](https://drive.google.com/fi
 
 <br>
 
-#### Miniquestion 2: Relative Position and Velocity
+#### Miniquestion 2: Relative Position and Velocity (due Wed 8am)
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/KZw8HQojU4FV9UJ9A){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL6LO11zaY5LmD_j177ux_6VuDRdjPY6GO-4QiCtwzzOS1Tw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -85,7 +91,7 @@ Download notes: [position-velocity-and-acceleration.pdf](https://drive.google.co
 
 <br>
 
-#### Miniquestion 3: Position, Velocity, and Acceleration
+#### Miniquestion 3: Position, Velocity, and Acceleration (due Wed 8am)
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/tDmsso4vBuqvHzBJ9){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-cZJzN1AYLEcuRa2oGWWX-R_4mpa6ZJV6ruucgazviRBjsQ/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -110,7 +116,7 @@ Extra resource: [separable-first-order-ODE-cheatsheet.png](https://drive.google.
 
 <br>
 
-#### Miniquestion 4: Constant Acceleration Motion?
+#### Miniquestion 4: Constant Acceleration Motion? (due Wed 8am)
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/a8Ljo6zJx2KcG2ut8){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfciZPuGgaZ6CZe7Ff8F7JkVeOFPSYngnyfxOXG9OaPBoYtgg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -133,7 +139,7 @@ Download notes: [uniform-circular-motion.pdf](https://drive.google.com/file/d/1U
 
 <br> 
 
-#### Miniquestion 5: Uniform Circular Motion
+#### Miniquestion 5: Uniform Circular Motion (due Wed 8am)
 
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/GLYCf1zgr33imGD97){:target="_blank"}
 

@@ -1,10 +1,10 @@
-# Week 11: Apr 11 - Apr 17
+# Week 11: Apr 3 - Apr 9
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday April 12 at  8am PT**
+**The miniquestions for topics 1-3 on this page are due on Monday April 4 at  8am**
 
-**The miniquestions for topics 4-5 on this page are due on Wednesday April 14 at  8am PT**
+**The miniquestions for topics 4-5 on this page are due on Wednesday April 6 at  8am**
 
 <br>
 

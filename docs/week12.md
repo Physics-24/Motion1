@@ -1,10 +1,10 @@
-# Week 12: Apr 19 - Apr 24
+# Week 12: Apr 10 - Apr 16
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday April 19 at  8am PT**
+**The miniquestions for topics 1-3 on this page are due on Monday April 11 at  8am**
 
-**The miniquestions for topics 4-5 on this page are due on Wednesday April 21 at  8am PT**
+**The miniquestions for topics 4-5 on this page are due on Wednesday April 13 at  8am**
 
 <br>
 

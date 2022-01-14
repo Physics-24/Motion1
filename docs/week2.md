@@ -1,8 +1,8 @@
-# Week 2: Jan 31 - Feb 6
+# Week 2: Jan 23 - Jan 29
 
 <br>
 
-**The miniquestions for all of the topics on this page are due on Monday February 1 at  8am PT.**
+**The miniquestions for topics 1-3 on this page are due on Monday January 24 8am. The miniquestions for topics 4-5 are due on Wednesday January 26 8am**
 
 
 <br>
@@ -36,7 +36,7 @@ Download notes: [newtons-laws-for-point-masses.pdf](https://drive.google.com/fil
 
 <br>
 
-#### Miniquestion 1: Newton's Laws for Point Masses
+#### Miniquestion 1: Newton's Laws for Point Masses (due Monday 8am)
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/dSHHvBuipPpiczfZ8){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScj6EsynIp6rZM6l1DZcDhwk0GxvzPk3PxtKLlWsIw-7AL6xg/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -59,7 +59,7 @@ Download notes: [describing-macroscopic-objects-by-their-center-of-mass.pdf](htt
 
 <br>
 
-#### Miniquestion 2: Describing Macroscopic Objects by their Center-of-Mass
+#### Miniquestion 2: Describing Macroscopic Objects by their Center-of-Mass (due Monday 8am)
 
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/1Rd8US8N7rh65j3X9){:target="_blank"}
 
@@ -84,7 +84,7 @@ Download notes: [newtons-laws-for-macroscopic-objects.pdf](https://drive.google.
 
 <br>
 
-#### Miniquestion 3: Newton's Laws for Macroscopic Objects
+#### Miniquestion 3: Newton's Laws for Macroscopic Objects (due Monday 8am)
 
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/tbdZjkJyUprrqFE5A){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvNsD2aHvHtkYklKgTQm0P4gim7RqpBWc73g9YR662dpkFFA/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
@@ -105,7 +105,7 @@ Download notes: [using-newtons-1st-law.pdf](https://drive.google.com/file/d/11YL
 
 <br>
 
-#### Miniquestion 4: Using Newton's 1st Law
+#### Miniquestion 4: Using Newton's 1st Law (due Wednesday 8am)
 Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/pqZ4qykCkEG3qjjh6){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScwCCr2wNo049Jok6tehrCJ4dFD5gYIghLOJpDpSgiBTG-bSw/viewform?embedded=true" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
@@ -114,7 +114,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br> 
 
-### 5. Calculating Center-of-Mass Position for Continuous Objects
+### 5. Calculating Center-of-Mass Position for Continuous Objects (due Wednesday 8am)
 
 <iframe src="https://drive.google.com/file/d/1AFTiQgxGrVDWWey0g5KlVms1jH18E__i/preview" width="640" height="480" allowfullscreen>
 </iframe>

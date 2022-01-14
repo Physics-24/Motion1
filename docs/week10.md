@@ -1,10 +1,10 @@
-# Week 10: Apr 4 - Apr 10
+# Week 10: Mar 27 - Apr 2
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday April 5 at  8am PT**
+**The miniquestions for topics 1-3 on this page are due on Monday March 28 at 8am**
 
-**The miniquestions for topics 4-5 on this page are due on Wednesday April 7 at  8am PT**
+**The miniquestions for topics 4-5 on this page are due on Wednesday March 30 at 8am**
 
 <br>
 
