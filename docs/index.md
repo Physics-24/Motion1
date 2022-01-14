@@ -8,7 +8,7 @@ Day  | Link |
 Sundays | [Weekly Content](weekly-content){:target="_blank"} - due Mondays  8am |
 Mondays, Wednesdays | [Recitations](recitations){:target="_blank"} - in class |
 Tuesdays, Thursdays | [Group Problems](group-problems){:target="_blank"} -  in class |
-Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Mondays  8am |
+Saturdays | [Solo Problems](solo-problems){:target="_blank"} - due Sundays at noon |
 
 <br>
 
@@ -28,7 +28,3 @@ At the end of each week, you are responsible for completing two closed-book, clo
 
  
 To get started, first read over the course syllabus which contains important information about course policies. Then, start by diving in to the first week's content using the "Weekly Content" tab in the side menu.
-
-If you have any logistical questions, please post them up on our [class Piazza page.](https://piazza.com/hmc/spring2022/phys24){:target="_blank"}
-
-If you are having difficulties accessing Piazza at the above link, please email Prof. Ilton.
