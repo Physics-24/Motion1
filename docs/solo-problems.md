@@ -24,7 +24,7 @@ due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](){:
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-<!--->
+<!---
 
 ### Week 2
 [Week 2 Solo Problem Coversheet is available here](https://drive.google.com/file/d/15DJvr4yiZfnuzSvuQDGt5WR7-r45F_vi/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
@@ -149,7 +149,7 @@ Week 13 | Gradescope Link | Solution |
 due by Sun Apr 17 at noon <br> **Time limit: 30 minutes** | [Solo Problem 22](){:target="_blank"} | [Solo Problem 22 Solution](https://drive.google.com/file/d/1OiJxGzEdQyRVln3i9xKzmSIALgIZEUly/view?usp=sharing){:target="_blank"}
 due by Sun Apr 17 at noon <br> **Time limit: 30 minutes** | [Solo Problem 23](){:target="_blank"} | [Solo Problem 23 Solution](https://drive.google.com/file/d/1iM6Y1p8vuEnCgpPjuMycAOIjn4RIdBit/view?usp=sharing){:target="_blank"}
 
----->
+-->
 
 <br>
 
