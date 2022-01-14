@@ -15,4 +15,4 @@ Section # | Time | Section Instructor | Gold/Black | Current Enrollment*
 9 | 11 am | Eckert | Black  | 18 
 10 | 11 am | Ilton | Black | 18
 
-**updated Jan 13, 2021*
+**updated Jan 13, 2022*

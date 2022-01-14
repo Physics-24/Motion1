@@ -3,7 +3,7 @@
 
 [Jump to this week's problems](#bottom)
 
-During scheduled class time, 9:35 am - 10:50 am PT on Tuesdays and Thursdays, you will be randomly assigned into a group of 3-4 students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 11am PT. You will receive a score for completing the problems and feedback from a grader (the score is based only on a good-faith effort by your group, not on getting the correct answer).  Group problems are worth 10% of your total grade. 
+During scheduled class time, 9:35 am - 10:50 am on Tuesdays and Thursdays, you will be randomly assigned into a group of 3-4 students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 11am PT. You will receive a score for completing the problems and feedback from a grader (the score is based only on a good-faith effort by your group, not on getting the correct answer).  Group problems are worth 10% of your total grade. 
 
 ### In-class logistics
 
@@ -20,7 +20,7 @@ Start by downloading the template for the Group Problems on Gradescope (linked b
 - Decide who will formally write up each problem for submission (one submission per problem per group)
     
 **If your group needs help:**
-- clarifying/logistics (short) questions: Please post on [our Piazza Live Q&A](https://piazza.com/hmc/spring2021/phys24){:target="_blank"} (also check if it's already been asked)
+- clarifying/logistics (short) questions: Please post on [our Piazza Live Q&A](https://piazza.com/hmc/spring2022/phys24){:target="_blank"} (also check if it's already been asked)
     - longer questions (or if you're stuck): "Ask the host for help" through Zoom
 
 **At 10:40 am**, whatever you have, start upload process:
@@ -86,7 +86,7 @@ Thursday Mar 18 - **No class** - write your midterm during this time if you'd li
 
 Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 19 by 5pm PT.
 
-[Midterm Exam 2021](https://drive.google.com/file/d/1d1mqcbCxaMJXQ7gAr7NKZSgdGj9ot4rI/view?usp=sharing){:target="_blank"}
+[Midterm Exam 2022](https://drive.google.com/file/d/1d1mqcbCxaMJXQ7gAr7NKZSgdGj9ot4rI/view?usp=sharing){:target="_blank"}
 
 [Midterm Solutions](https://drive.google.com/file/d/1N1dE6KOjTfV7gaHKuWIB3iBqIIOEp9c2/view?usp=sharing){:target="_blank"}
 

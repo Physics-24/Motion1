@@ -8,9 +8,9 @@ Our midterm exam (120 minutes long) will be released Wednesday afternoon and is 
 
 Although there is nothing to hand in, we are still meeting during our usual recitation times. Instead of the usual 3 problems in each recitation and 2 problems in each group problem session, we are releasing a 7-problem combined review set (see below). This review set includes the same cover sheet you will receive on your midterm. On Monday your recitation instructor will make some recommendations for how to most effectively use your time this week and outline their plan for Monday/Wednesday recitation. During our Tuesday class time, we will be having an optional large Q&A session. Come with questions, or just hang out while you work on your review. There is no class on Thursday, please use that time to write your midterm if you'd like.
 
-## Midterm Exam 2021
+## Midterm Exam 2022
 
-[Midterm Exam 2021](https://drive.google.com/file/d/1d1mqcbCxaMJXQ7gAr7NKZSgdGj9ot4rI/view?usp=sharing){:target="_blank"}
+[Midterm Exam 2022](https://drive.google.com/file/d/1d1mqcbCxaMJXQ7gAr7NKZSgdGj9ot4rI/view?usp=sharing){:target="_blank"}
 
 [Midterm Solutions](https://drive.google.com/file/d/1N1dE6KOjTfV7gaHKuWIB3iBqIIOEp9c2/view?usp=sharing){:target="_blank"}
 

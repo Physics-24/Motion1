@@ -2,9 +2,9 @@
 
 <br>
 
-**The miniquestions for topics 1-2 on this page are due on Monday March 1 at 7am PT**
+**The miniquestions for topics 1-2 on this page are due on Monday March 1 at  8am PT**
 
-**The miniquestions for topics 3-4 on this page are due on Wednesday March 3 at 7am PT**
+**The miniquestions for topics 3-4 on this page are due on Wednesday March 3 at  8am PT**
 
 <br>
 

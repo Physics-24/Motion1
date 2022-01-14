@@ -2,7 +2,7 @@
 
 <br>
 
-**The miniquestions for all of the topics on this page are due on Monday February 1 at 7am PT.**
+**The miniquestions for all of the topics on this page are due on Monday February 1 at  8am PT.**
 
 
 <br>

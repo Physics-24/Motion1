@@ -1,5 +1,5 @@
 # Weekly Content 
-### (miniquestions due Mondays 7am PT at the start of each week)
+### (miniquestions due Mondays  8am at the start of each week)
 
 [Jump to this week's content](#bottom)
 

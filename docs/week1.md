@@ -2,7 +2,7 @@
 
 <br>
 
-Normally, the miniquestions are due Mondays at 7am PT. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 27 at 7am PT.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
+Normally, the miniquestions are due Mondays at  8am PT. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 27 at  8am PT.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
 
 
 <br>
