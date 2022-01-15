@@ -3,7 +3,7 @@
 
 [Jump to this week's problems](#bottom)
 
-During scheduled class time, 8:10 am - 9:25 am on Tuesdays and Thursdays, you will be assigned into a group of 3 students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 10am. You will receive a score for completing the problems and feedback from a grader. The score is based only on a good-faith effort by your group, not on getting the correct answer). Group problems are worth 10% of your total grade. 
+During scheduled class time, 8:10 am - 9:25 am on Tuesdays and Thursdays, you will be assigned into a group of 3 students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 10am. You will receive a score for completing the problems and feedback from a grader. The score is based largely on a good-faith effort by your group, not on getting the correct answer). Group problems are worth 10% of your total grade. 
 
 ### In-class logistics
 
