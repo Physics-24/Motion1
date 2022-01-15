@@ -34,7 +34,7 @@ Solutions for the group problems are made available at noon. We strongly recomme
 
 Week 1 |  |  | |
 ---| --- | -- | -- |
-Tuesday Jan 18 | No Group Problem 1 (numbering starts at 2) | [Group Problem 2](){:target="_blank"} |  <br> [Group Problem 2 Solution](https://drive.google.com/file/d/1wMvtgtCFFPMW2Td142Mw43AW_ZhDNaOp/view?usp=sharing){:target="_blank"}
+Tuesday Jan 18 | No Group Problem 1 (numbering starts at 2) | [Group Problem 2](https://www.gradescope.com/courses/355613/assignments/1773156){:target="_blank"} |  <br> [Group Problem 2 Solution](https://drive.google.com/file/d/1wMvtgtCFFPMW2Td142Mw43AW_ZhDNaOp/view?usp=sharing){:target="_blank"}
 Thursday Jan 20 | [Group Problem 3](){:target="_blank"} | [Group Problem 4](){:target="_blank"}| [Group Problem 3 Solution](https://drive.google.com/file/d/1rUiqba4vR9Y6KQS8RXi84l60mfe9uW_O/view?usp=sharing){:target="_blank"} <br> [Group Problem 4 Solution](https://drive.google.com/file/d/1dUjvrohkQyOV-ebmqzJgMr89PW2mTWsS/view?usp=sharing){:target="_blank"}
 
 <br>
