@@ -15,16 +15,24 @@ Solo problems become available each Thursday  at noon and the submission window 
 
 [Week 1 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1mPeRZcvnEQ968hrjdi0-fvkPd4s6jgeh/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
 
-Week 1 | Gradescope Link | Solution | 
+Week 1 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 1](https://www.gradescope.com/courses/355613/assignments/1773149){:target="_blank"} | [Solo Problem 1 Solution](https://drive.google.com/file/d/1QRVZetERnJqwP3ZSRExVn3_VQ8WujTPI/view?usp=sharing){:target="_blank"}
-due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](https://www.gradescope.com/courses/355613/assignments/1773158){:target="_blank"} | [Solo Problem 2 Solution](https://drive.google.com/file/d/1gTcrfJCAXuZ2y9vzjias0ZjIkbnLvJzC/view?usp=sharing){:target="_blank"}
+due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** | Solo Problem 1 pdf | [Solo Problem 1](https://www.gradescope.com/courses/355613/assignments/1773149){:target="_blank"} | Solo Problem 1 Solution
+due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** | Solo Problem 2](https://www.gradescope.com/courses/355613/assignments/1773158){:target="_blank"} | Solo Problem 2 pdf | Solo Problem 2 Solution
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
 <!---
+
+[Solo Problem 1 pdf](https://drive.google.com/file/d/1m6Ushwem6wO0iUnYwWGVhVsLE5enOhgk/view?usp=sharing){:target="_blank"}
+
+[Solo Problem 1 Solution](https://drive.google.com/file/d/1QRVZetERnJqwP3ZSRExVn3_VQ8WujTPI/view?usp=sharing){:target="_blank"}
+
+[Solo Problem 2](https://drive.google.com/file/d/1O2IDtGuLajR0eR9GS4wfMtOvG51TL0ka/view?usp=sharing){:target="_blank"}
+
+[Solo Problem 2 Solution](https://drive.google.com/file/d/1gTcrfJCAXuZ2y9vzjias0ZjIkbnLvJzC/view?usp=sharing){:target="_blank"}
 
 ### Week 2
 [Week 2 Solo Problem Coversheet is available here](https://drive.google.com/file/d/15DJvr4yiZfnuzSvuQDGt5WR7-r45F_vi/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
