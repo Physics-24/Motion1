@@ -35,7 +35,7 @@ Week 1 |  |  | |
 Date | Gradescope Links | Problem pdf | Solution
 ---| --- | -- | -- |
 Tuesday Jan 18 | No Group Problem 1 (numbering starts at 2) <br>  Group Problem 2 | <br> [gp2.pdf](https://drive.google.com/file/d/150GK8kMKj-nW0JFEfg_7qhF1wu-S2HvT/view?usp=sharing){:target="_blank"} |  <br> Group Problem 2 Solution
-Thursday Jan 20 | Group Problem 3 <br> Group Problem 4 | [gp3.pdf](https://drive.google.com/file/d/1mpcpCSFff_FwHOLNXrbLMYhVxw5O0XBr/view?usp=sharing){:target="_blank"} <br> [gp4.pdf]](https://drive.google.com/file/d/1A0wUGSVsDJfGAwVw_MnUF1h4ZGTIi1Ep/view?usp=sharing){:target="_blank"} | Group Problem 3 Solution <br> Group Problem 4 Solution
+Thursday Jan 20 | Group Problem 3 <br> Group Problem 4 | [gp3.pdf](https://drive.google.com/file/d/1mpcpCSFff_FwHOLNXrbLMYhVxw5O0XBr/view?usp=sharing){:target="_blank"} <br> [gp4.pdf](https://drive.google.com/file/d/1A0wUGSVsDJfGAwVw_MnUF1h4ZGTIi1Ep/view?usp=sharing){:target="_blank"} | Group Problem 3 Solution <br> Group Problem 4 Solution
 
 <br>
 
