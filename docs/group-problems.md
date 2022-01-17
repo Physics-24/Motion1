@@ -7,13 +7,13 @@ During scheduled class time, 8:10 am - 9:25 am on Tuesdays and Thursdays, you wi
 
 ### In-class logistics
 
-For our Group Problems, our aim is to not make this feel like a stressful, rushed time together. Although your group might not get through both problems, you will get full-credit for submitting a good-faith effort. 
-
 Please arrive on time. This will help us sort out the group logistics. 
 
-Start by downloading the template for the Group Problems on Gradescope (linked below). 
+For the Group Problems, our aim is to not make this feel like a stressful, rushed time together. Although your group might not get through both problems, you will get the majority of the credit for submitting a good-faith effort. Be sure to draw picture(s) and state principle(s) you use.
 
-**When you get together with**, decide as a group how you are going to collaborate:
+Start by downloading the template for the Group Problems on Gradescope (linked below).
+
+**When you get together with your group**, decide as a group how you are going to collaborate:
 
 -  what technology will you group use (see [this helpful guide for collaborating online](ways-to-collaborate-on-group-problems){:target="_blank"} for suggestions) 
 -  any style preferences (e.g. talking every step through together, or taking 5 minutes alone and then discussing) -- **be communicative, flexible, and helpful** 
@@ -21,13 +21,12 @@ Start by downloading the template for the Group Problems on Gradescope (linked b
     
 **If your group needs help:**
     - During the first two weeks: "Ask the host for help" through Zoom
-    - 
+    - In person: raise your hand; the Grutors and Professors will be on the lookout
 
 **At 9:15 am**, whatever you have, start upload process:
 + To upload On Gradescope 
     - Submit then "Add Group Members" - [see Gradescope Help on Group Submissions](https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members){:target="_blank"} - if you do not add group members, no one gets credit (including you!)
-+ Graded on a "good-faith" effort -- we expect everyone to get 100% -- whatever you submit you will receive feedback on, so there's incentive for you to try your best
-
++ Graded on a "good-faith" effort -- whatever you submit you will receive feedback on, so there's incentive for you to try your best.
 
 Solutions for the group problems are made available at noon. We strongly recommend that you check your answers and understanding of these group problems (and any grader feedback) before attempting the "Timed Solo Problems" at the end of each week. 
 
