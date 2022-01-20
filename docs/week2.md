@@ -27,6 +27,8 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Newton's Laws for Point Masses
 
+##### ([open video in new tab](https://drive.google.com/file/d/1r905ot9TudJSyHMt7SA8LT-5AEsWUndZ/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1r905ot9TudJSyHMt7SA8LT-5AEsWUndZ/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -50,6 +52,9 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <br>
 
 ### 2. Describing Macroscopic Objects by their Center-of-Mass
+
+##### ([open video in new tab](https://drive.google.com/file/d/1c30HIFZmGuMhngyuAVdSb0ur2ZmKJ1JH/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1c30HIFZmGuMhngyuAVdSb0ur2ZmKJ1JH/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -75,6 +80,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Newton's Laws for Macroscopic Objects
 
+##### ([open video in new tab](https://drive.google.com/file/d/1urbch5XmXak4hsHcWtkeh4co9euZ0BUR/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1urbch5XmXak4hsHcWtkeh4co9euZ0BUR/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -96,6 +103,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Using Newton's 1st Law
 
+##### ([open video in new tab](https://drive.google.com/file/d/1-m5VC9mxihadAkBeMGCCSf3AnnLPcDLg/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1-m5VC9mxihadAkBeMGCCSf3AnnLPcDLg/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -115,6 +124,8 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 <br> 
 
 ### 5. Calculating Center-of-Mass Position for Continuous Objects (due Wednesday 8am)
+
+##### ([open video in new tab](https://drive.google.com/file/d/1AFTiQgxGrVDWWey0g5KlVms1jH18E__i/view){:target="_blank"})
 
 <iframe src="https://drive.google.com/file/d/1AFTiQgxGrVDWWey0g5KlVms1jH18E__i/preview" width="640" height="480" allowfullscreen>
 </iframe>

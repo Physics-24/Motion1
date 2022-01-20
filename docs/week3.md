@@ -29,6 +29,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Gravity and Contact Forces: Quickstart Guide 
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1JF8NPaHB85z5gr3hPX_xNbgzA2oqxjwk/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1JF8NPaHB85z5gr3hPX_xNbgzA2oqxjwk/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -50,6 +53,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Isolation Diagrams
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1tw15ZkFCxBgpoRy-Liw5OybahQtNICQS/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1tw15ZkFCxBgpoRy-Liw5OybahQtNICQS/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -70,6 +76,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Ropes
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1htu2tNka4Pcvsy_n56_3Ysiue5yJBvLE/preview){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1htu2tNka4Pcvsy_n56_3Ysiue5yJBvLE/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -89,6 +98,8 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Springs 
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1nbS8weDSeOeG9Ks6KVGFy6mslXUxGZUb/view){:target="_blank"})
 <iframe src="https://drive.google.com/file/d/1nbS8weDSeOeG9Ks6KVGFy6mslXUxGZUb/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -109,6 +120,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Gravity and Contact Forces: Deeper Dive
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1ouYixYJX3gfgt5N4Dxsd7bSwwdt2ib7T/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1ouYixYJX3gfgt5N4Dxsd7bSwwdt2ib7T/preview" width="640" height="480">
 </iframe>
 
