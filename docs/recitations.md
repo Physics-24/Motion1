@@ -20,7 +20,6 @@ Wednesday Jan 21 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTa
 
 <br>
 
-<!--
 
 Week 2 |  |  | |
 ---| --- | -- | -- |
@@ -28,6 +27,9 @@ Monday Jan 24 | [Recitation Set 3](https://drive.google.com/file/d/14-lV3OBJsflW
 Wednesday Jan 26 | [Recitation Set 4](https://drive.google.com/file/d/1UT3yUP0hOrEuQ7mQGa_2h1G-aY_JmmAv/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/17p_H3a6C0sOpHy1s_X-NeP7tj_PqhK3n/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1oXcaI-mznx3FW4owCmL_CP6ob8Gc5mEp/view?usp=sharing){:target="_blank"}
 
 <br>
+
+<!--
+
 
 Week 3 |  |  | |
 ---| --- | -- | -- |
