@@ -17,36 +17,40 @@ Solo problems become available each Thursday  at noon and the submission window 
 
 Week 1 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** |  [Solo Problem 1](https://www.gradescope.com/courses/355613/assignments/1773149){:target="_blank"} | Solo Problem 1 pdf | Solo Problem 1 Solution
-due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](https://www.gradescope.com/courses/355613/assignments/1773158){:target="_blank"} | Solo Problem 2 pdf | Solo Problem 2 Solution
+due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** |  [Solo Problem 1](https://www.gradescope.com/courses/355613/assignments/1773149){:target="_blank"} | [Solo Problem 1 pdf](https://drive.google.com/file/d/1m6Ushwem6wO0iUnYwWGVhVsLE5enOhgk/view?usp=sharing){:target="_blank"} | [Solo Problem 1 Solution](https://drive.google.com/file/d/1QRVZetERnJqwP3ZSRExVn3_VQ8WujTPI/view?usp=sharing){:target="_blank"}
+due by Sun Jan 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](https://www.gradescope.com/courses/355613/assignments/1773158){:target="_blank"} | [Solo Problem 2 pdf](https://drive.google.com/file/d/1O2IDtGuLajR0eR9GS4wfMtOvG51TL0ka/view?usp=sharing){:target="_blank"} | [Solo Problem 2 Solution](https://drive.google.com/file/d/1gTcrfJCAXuZ2y9vzjias0ZjIkbnLvJzC/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-<!---
 
-[Solo Problem 1 pdf](https://drive.google.com/file/d/1m6Ushwem6wO0iUnYwWGVhVsLE5enOhgk/view?usp=sharing){:target="_blank"}
-
-[Solo Problem 1 Solution](https://drive.google.com/file/d/1QRVZetERnJqwP3ZSRExVn3_VQ8WujTPI/view?usp=sharing){:target="_blank"}
-
-[Solo Problem 2](https://drive.google.com/file/d/1O2IDtGuLajR0eR9GS4wfMtOvG51TL0ka/view?usp=sharing){:target="_blank"}
-
-[Solo Problem 2 Solution](https://drive.google.com/file/d/1gTcrfJCAXuZ2y9vzjias0ZjIkbnLvJzC/view?usp=sharing){:target="_blank"}
 
 ### Week 2
 [Week 2 Solo Problem Coversheet is available here](https://drive.google.com/file/d/15DJvr4yiZfnuzSvuQDGt5WR7-r45F_vi/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
 
 
-Week 2 | Gradescope Link | Solution | 
+Week 2 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Jan 30 at noon <br> **Time limit: 30 minutes** | [Solo Problem 3](){:target="_blank"} | [Solo Problem 3 Solution](https://drive.google.com/file/d/1XiBvnmWlbQzryOkfszsHqPjKYU6USzAH/view?usp=sharing){:target="_blank"}
-due by Sun Jan 30 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](){:target="_blank"}
+due by Sun Jan 30 at noon <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/355613/assignments/1773144){:target="_blank"} | |
+due by Sun Jan 30 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/355613/assignments/1773145){:target="_blank"} | |
 
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
+
+
+<!--
+
+[Solo Problem 3 pdf](https://drive.google.com/file/d/110yjrTicoNZrMyLj4ZQq8rAOTzX-JiP8/view?usp=sharing){:target="_blank"}
+
+[Solo Problem 3 Solution](https://drive.google.com/file/d/1XiBvnmWlbQzryOkfszsHqPjKYU6USzAH/view?usp=sharing){:target="_blank"}
+
+[Solo Problem 4 pdf](https://drive.google.com/file/d/1kssGdJs6eKH_XXqNAaQxuAnev5kfqPaH/view?usp=sharing){:target="_blank"}
+
+[Solo Problem 4 Solution](https://drive.google.com/file/d/1HMTYEWCARstyFPrJ1ucQ3PEJJJdUIlCU/view?usp=sharing){:target="_blank"}
+
 
 ### Week 3
 [Week 3 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1Z_6zCQILDlg1IhV-bIXxSMqWe0A-t69O/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
