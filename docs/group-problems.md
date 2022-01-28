@@ -46,17 +46,24 @@ Tuesday Jan 25 | [Group Problem 5](https://www.gradescope.com/courses/355613/ass
 Thursday Jan 27 | [Group Problem 7](https://www.gradescope.com/courses/355613/assignments/1773137){:target="_blank"} <br> [Group Problem 8](https://www.gradescope.com/courses/355613/assignments/1773146){:target="_blank"} | [gp7.pdf](https://drive.google.com/file/d/1S353a9z79xf7Tg4WDrq9hd6kzSRFwM6N/view?usp=sharing){:target="_blank"} <br> [gp8.pdf](https://drive.google.com/file/d/1z7UVwaBp-kBscsdSwegJdq9ysBiu89_t/view?usp=sharing){:target="_blank"} | [Group Problem 7 Solution](https://drive.google.com/file/d/1v_3G9pFVELPH46e4G-SD7OlWG0A0nGxK/view?usp=sharing){:target="_blank"} <br> [Group Problem 8 Solution](https://drive.google.com/file/d/133YNbwtB2oUVnBzgHKvElNajxOtuCgSE/view?usp=sharing){:target="_blank"}
 
 
-<!--
 
 
 <br>
 
 Week 3 |  |  | |
+Date | Problem pdf | Solution
 ---| --- | -- | -- |
-Tuesday Feb 1 | [Group Problem 9](https://drive.google.com/file/d/1ya4OlHRL85EAEb-YbjuwOeinfiRWBKxt/view?usp=sharing){:target="_blank"} | [Group Problem 10](https://drive.google.com/file/d/1i0KWfR96KW55Xw0DF02Zs-0PfdAKo7fW/view?usp=sharing){:target="_blank"} | [Group Problem 9 Solution](https://drive.google.com/file/d/1f6SO0_BLnHQBnB1GLD11PuOjMSz7FJbG/view?usp=sharing){:target="_blank"} <br> [Group Problem 10 Solution](https://drive.google.com/file/d/1NMJDQKI7rZsVkY83eVSo-5QclzAx58Ht/view?usp=sharing){:target="_blank"}
-Thursday Feb 3 | [Group Problem 11](https://drive.google.com/file/d/1o0QS6h5xlfjPwI0mOQspDVZtLonjK4vR/view?usp=sharing){:target="_blank"} | [Group Problem 12](https://drive.google.com/file/d/1Qmfv_FD9w2BBjGIfDuRNAEwFU6OImrVs/view?usp=sharing){:target="_blank"} | [Group Problem 11 Solution](https://drive.google.com/file/d/1mikBtmi5oGAGsTXF1AVZGBllnchN813a/view?usp=sharing){:target="_blank"} <br> [Group Problem 12 Solution](https://drive.google.com/file/d/1aGW-ZUKFrhTLR7ANoA5e-jwuICjhQyqw/view?usp=sharing){:target="_blank"}
+Tuesday Feb 1 | (https://drive.google.com/file/d/1ya4OlHRL85EAEb-YbjuwOeinfiRWBKxt/view?usp=sharing){:target="_blank"} <br> [Group Problem 10](https://drive.google.com/file/d/1i0KWfR96KW55Xw0DF02Zs-0PfdAKo7fW/view?usp=sharing){:target="_blank"}   | 
+Thursday Feb 3 | [Group Problem 11](https://drive.google.com/file/d/1o0QS6h5xlfjPwI0mOQspDVZtLonjK4vR/view?usp=sharing){:target="_blank"} <br> [Group Problem 12](https://drive.google.com/file/d/1Qmfv_FD9w2BBjGIfDuRNAEwFU6OImrVs/view?usp=sharing){:target="_blank"}  |
 
 <br>
+
+
+<!--
+
+[Group Problem 9 Solution](https://drive.google.com/file/d/1f6SO0_BLnHQBnB1GLD11PuOjMSz7FJbG/view?usp=sharing){:target="_blank"} <br> [Group Problem 10 Solution](https://drive.google.com/file/d/1NMJDQKI7rZsVkY83eVSo-5QclzAx58Ht/view?usp=sharing){:target="_blank"}
+
+ [Group Problem 11 Solution](https://drive.google.com/file/d/1mikBtmi5oGAGsTXF1AVZGBllnchN813a/view?usp=sharing){:target="_blank"} <br> [Group Problem 12 Solution](https://drive.google.com/file/d/1aGW-ZUKFrhTLR7ANoA5e-jwuICjhQyqw/view?usp=sharing){:target="_blank"}
 
 Week 4 |  |  | |
 ---| --- | -- | -- |
