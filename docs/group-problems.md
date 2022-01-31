@@ -3,32 +3,35 @@
 
 [Jump to this week's problems](#bottom)
 
-During scheduled class time, 8:10 am - 9:25 am on Tuesdays and Thursdays, you will be assigned into a group of 3 students to complete two Group Problems. One member of each group will submit a good copy of their group's solutions on Gradescope before 10am. You will receive a score for completing the problems and feedback from a grader. The score is based largely on a good-faith effort by your group (including starting from first principles, drawing clear diagram(s) and justifying your work), not on getting the correct answer. Group problems are worth 10% of your total grade. 
+During scheduled class time, 8:10 am - 9:25 am on Tuesdays and Thursdays, you will be assigned into a group of 2-3 students to complete two Group Problems. One member of each group will submit a good paper copy of their group’s solutions to the baskets (one per problem) at the front of the room. You will receive a score for completing the problems and feedback from a grader. The score is based largely on a good-faith effort by your group (including starting from first principles, drawing clear diagram(s) and justifying your work), not on getting the correct answer. Group problems are worth 10% of your total grade.
 
-### In-class logistics
+#### In-class logistics
 
-Please arrive on time. This will help us sort out the group logistics. 
+Please arrive on time. This will help us sort out the group logistics.
 
-For the Group Problems, our aim is to not make this feel like a stressful, rushed time together. Although your group might not get through both problems, you will get the majority of the credit for submitting a good-faith effort. Be sure to draw picture(s) and state principle(s) you use.
+Please look up [your randomly assigned group number here](https://drive.google.com/file/d/1u8ChWUjeR3QJve0LVpJU369qoZTu30hb/view?usp=sharing){:target="_blank"}. Locations for the group numbers are
 
-Start by downloading the template for the Group Problems on Gradescope (linked below).
+Groups 1-13  Shanahan B442
+Groups 14-23  Shanahan B450
+Groups 24-29  Shanahan B454
+
+![Room Layout](images/Room-Layout-Group-Numbers.png)
+
+
+For the Group Problems, our aim is to not make this feel like a stressful, rushed time together. Although your group might not get through both problems, you will get the majority of the credit for submitting a good-faith effort. Be sure to start by drawing picture(s) and state principle(s) you use.
+
+The group tables will be indicated with a numbered red Solo Cup. Each table will have printouts of both problems to use for your final submission. Be sure to bring scratch paper or a tablet to work on; your group can also use a nearby whiteboard to collaborate.
 
 **When you get together with your group**, decide as a group how you are going to collaborate:
+any style preferences (e.g. talking every step through together, or taking 5 minutes alone and then discussing) – be communicative, flexible, and helpful
 
--  what technology will you group use (see [this helpful guide for collaborating online](ways-to-collaborate-on-group-problems){:target="_blank"} for suggestions) 
--  any style preferences (e.g. talking every step through together, or taking 5 minutes alone and then discussing) -- **be communicative, flexible, and helpful** 
-- Decide who will formally write up each problem for submission (one submission per problem per group)
-    
-**If your group needs help:**
-    - During the first two weeks: "Ask the host for help" through Zoom
-    - In person: raise your hand; the Grutors and Professors will be on the lookout
+Decide who will formally write up each problem for submission (one submission per problem per group)
 
-**At 9:15 am**, whatever you have, start upload process:
-+ To upload On Gradescope 
-    - Submit then "Add Group Members" - [see Gradescope Help on Group Submissions](https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members){:target="_blank"} - if you do not add group members, no one gets credit (including you!)
-+ Graded on a "good-faith" effort -- whatever you submit you will receive feedback on, so there's incentive for you to try your best.
+**If your group needs help**: Use your Solo Cup to indicate that your group needs help: **open side up** means your group would like an instructor or grutor to check in.
 
-Solutions for the group problems are made available at noon. We strongly recommend that you check your answers and understanding of these group problems (and any grader feedback) before attempting the "Timed Solo Problems" at the end of each week. 
+Solutions for the group problems are made available at noon. We strongly recommend that you check your answers and understanding of these group problems (and any grader feedback) before attempting the “Solo Problems” at the end of each week.
+
+
 
 
 Week 1 |  |  | |
@@ -53,7 +56,7 @@ Thursday Jan 27 | [Group Problem 7](https://www.gradescope.com/courses/355613/as
 Week 3 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
-Tuesday Feb 1 | (https://drive.google.com/file/d/1ya4OlHRL85EAEb-YbjuwOeinfiRWBKxt/view?usp=sharing){:target="_blank"} <br> [Group Problem 10](https://drive.google.com/file/d/1i0KWfR96KW55Xw0DF02Zs-0PfdAKo7fW/view?usp=sharing){:target="_blank"}   | 
+Tuesday Feb 1 | [Group Problem 9](https://drive.google.com/file/d/1ya4OlHRL85EAEb-YbjuwOeinfiRWBKxt/view?usp=sharing){:target="_blank"} <br> [Group Problem 10](https://drive.google.com/file/d/1i0KWfR96KW55Xw0DF02Zs-0PfdAKo7fW/view?usp=sharing){:target="_blank"}   | 
 Thursday Feb 3 | [Group Problem 11](https://drive.google.com/file/d/1o0QS6h5xlfjPwI0mOQspDVZtLonjK4vR/view?usp=sharing){:target="_blank"} <br> [Group Problem 12](https://drive.google.com/file/d/1Qmfv_FD9w2BBjGIfDuRNAEwFU6OImrVs/view?usp=sharing){:target="_blank"}  |
 
 <br>
