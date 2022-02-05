@@ -28,6 +28,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Waves
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1UruXC73QfYQuKJ2M-lJaxwANj9Ycm006/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1UruXC73QfYQuKJ2M-lJaxwANj9Ycm006/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -51,6 +54,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Wave Equation
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/16qHr0hh_1D3cqrJcvn_9imf2aHlHlrO6/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/16qHr0hh_1D3cqrJcvn_9imf2aHlHlrO6/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -73,6 +79,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Sinusoidal Waves
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1oDLoi7PCHQyzz5-E0VSpxlDfPWpqdOAc/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1oDLoi7PCHQyzz5-E0VSpxlDfPWpqdOAc/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -95,6 +104,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Superposition
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1VrqPsDJ_ds-8jqd7rQLesXGirgEyCIbE/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1VrqPsDJ_ds-8jqd7rQLesXGirgEyCIbE/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -117,6 +129,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Sound Waves
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1N1dfMzzRDIKiZBmZNKJuzJvFZOP31bUF/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1N1dfMzzRDIKiZBmZNKJuzJvFZOP31bUF/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

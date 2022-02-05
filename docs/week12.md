@@ -28,6 +28,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Simple Harmonic Motion
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1mlF6ymMLznvbj3JUaK79sx0tjXJMTAgt/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1mlF6ymMLznvbj3JUaK79sx0tjXJMTAgt/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -51,6 +54,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. SHO Equation Solutions
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/17eMl4QG9WElnetvTXA4jWO_3vJgC_69p/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/17eMl4QG9WElnetvTXA4jWO_3vJgC_69p/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -73,6 +79,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Solving Strategies
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1EtiibiCR9JbuBkw05QgVYpvhGsusbRbj/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1EtiibiCR9JbuBkw05QgVYpvhGsusbRbj/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -95,6 +104,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Pendulum Examples
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1clJAmfVdhlsJOuNdqdLiEMvSlCgRhPms/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1clJAmfVdhlsJOuNdqdLiEMvSlCgRhPms/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -117,6 +129,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Molecular Binding
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/15NdB6K3wga0HPHk_oLlKUPybS9-wzwJE/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/15NdB6K3wga0HPHk_oLlKUPybS9-wzwJE/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

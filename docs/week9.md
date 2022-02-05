@@ -28,6 +28,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Kepler's Laws
 Tuesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1C5HHAPyp6XxsOkiB-WJeY4oa6bQ2ujYK/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1C5HHAPyp6XxsOkiB-WJeY4oa6bQ2ujYK/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -51,6 +54,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Rotational Kinematics
 Tuesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1PUEt8ybYsk8OvXeLYQh3U7aObBYmlvnL/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1PUEt8ybYsk8OvXeLYQh3U7aObBYmlvnL/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -73,6 +79,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Rotational Dynamics
 Tuesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1BKFWwmF7yr5NGZPQX62ZfluZTHHv-2kx/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1BKFWwmF7yr5NGZPQX62ZfluZTHHv-2kx/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -95,6 +104,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Rotational Energy and Rolling
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1N4-_aU9cHYWRlc0q8Y0C42muUTjssWSL/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1N4-_aU9cHYWRlc0q8Y0C42muUTjssWSL/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -117,6 +129,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Rotational Work
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1NG_u44YDaeshi9PPyvdADHQlc1iMYadn/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1NG_u44YDaeshi9PPyvdADHQlc1iMYadn/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

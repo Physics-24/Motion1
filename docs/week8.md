@@ -28,6 +28,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Angular Velocity
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1J1ZB5j2PM0A8kGejD6GGq3yQ8_fSYEYl/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1J1ZB5j2PM0A8kGejD6GGq3yQ8_fSYEYl/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -50,6 +53,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Angular Momentum
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1iucbUfQjkkkxM15OmepezRNZ7FmtfTcc/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1iucbUfQjkkkxM15OmepezRNZ7FmtfTcc/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -71,6 +77,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Moment of Inertia
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1Gi0JtH6cuY8az4FDbl5_Gv9CI-bIoKRU/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1Gi0JtH6cuY8az4FDbl5_Gv9CI-bIoKRU/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -92,6 +101,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Torque
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1Alufd8qOeX-d6JPxPDORW0f82abIWEoR/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1Alufd8qOeX-d6JPxPDORW0f82abIWEoR/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -113,6 +125,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Statics
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/15zajIU-awPHHfb5E_AmrSG_F6AkZBd1z/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/15zajIU-awPHHfb5E_AmrSG_F6AkZBd1z/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

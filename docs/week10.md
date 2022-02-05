@@ -28,6 +28,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Vector Directions
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1pklmgWn6I5G2rEywouM9lF6jGRXphOSH/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1pklmgWn6I5G2rEywouM9lF6jGRXphOSH/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -51,6 +54,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Cross Product Torque
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1vppgSKPmlhfLOrUyZJhcw0eVK-0HlAdL/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1vppgSKPmlhfLOrUyZJhcw0eVK-0HlAdL/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -73,6 +79,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Tree Felling Example
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1wuC3JI6IDClQPqDiTfFkHeL-B582vGPZ/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1wuC3JI6IDClQPqDiTfFkHeL-B582vGPZ/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -95,6 +104,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Point Mass L
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1tHTh0HI_0S7MdwQo8WppSt96SpscfnWV/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1tHTh0HI_0S7MdwQo8WppSt96SpscfnWV/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -117,6 +129,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Spin Orbital L
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/17Ju7s3d8vQwo-BMMwAoJjgl6PKgUC2Dx/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/17Ju7s3d8vQwo-BMMwAoJjgl6PKgUC2Dx/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

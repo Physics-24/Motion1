@@ -22,6 +22,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Beats
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/18TfrtfhEPl02lFeuDRMxxHBLPyRxpQSC/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/18TfrtfhEPl02lFeuDRMxxHBLPyRxpQSC/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -45,6 +48,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Interference
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1ywpJJU9qa4tdFeJh18kj2AETz757g9tz/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1ywpJJU9qa4tdFeJh18kj2AETz757g9tz/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

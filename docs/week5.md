@@ -28,6 +28,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Kinetic Energy and Gravitational Potential Energy
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1BcIBzVHIW7p-mMzjfcrldQO8LS0-E1kG/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1BcIBzVHIW7p-mMzjfcrldQO8LS0-E1kG/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -48,6 +51,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Solving Combined Energy and Force Problems
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1iVaXa9D1TPaWerGobzfc02CRUg3FDHiZ/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1iVaXa9D1TPaWerGobzfc02CRUg3FDHiZ/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -67,6 +73,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Spring Potential Energy
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1ys8Zi0SwcCKa0EjeXWxVVaxuI8C-5egt/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1ys8Zi0SwcCKa0EjeXWxVVaxuI8C-5egt/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -86,6 +95,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Power and the Work-Energy Theorem
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1V1nud2eq1ms6EEOt4nq07GRf6dBn10hP/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1V1nud2eq1ms6EEOt4nq07GRf6dBn10hP/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -105,6 +117,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Calculating Work
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1qwSyekYiKOxEuxVpEXz-bYFelNdRjuKI/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1qwSyekYiKOxEuxVpEXz-bYFelNdRjuKI/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

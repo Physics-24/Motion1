@@ -27,6 +27,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Internal Forces
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1UODM-v0NpbfhP_xtju3hGbfFiz79zixP/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1UODM-v0NpbfhP_xtju3hGbfFiz79zixP/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -47,6 +50,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Static Friction
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/14BWv0JC7q3ZW9ixxG9t43oZYihsean_W/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/14BWv0JC7q3ZW9ixxG9t43oZYihsean_W/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -66,6 +72,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Kinetic Friction
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1DP0-zqHsg9H_MHdaSzIfJr1rMj5X4qjv/preview){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1DP0-zqHsg9H_MHdaSzIfJr1rMj5X4qjv/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -85,6 +94,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Drag
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1uMFQRLCpJLB_wGFWrkBFKHAQJP397z1i/preview){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1uMFQRLCpJLB_wGFWrkBFKHAQJP397z1i/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

@@ -28,6 +28,9 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Rolling Torque
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1kMnKTrcZRgmducJUr7MrCSJd_ze8H456/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1kMnKTrcZRgmducJUr7MrCSJd_ze8H456/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -51,6 +54,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Disk Example
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1OIF7SsQtBj1WygJE9KOro6NFhgmpsMZb/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1OIF7SsQtBj1WygJE9KOro6NFhgmpsMZb/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -73,6 +79,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Conserved Quantities
 Monday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1qWSGJS6LhCZLt213yQWbglmc8RgNDPiW/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1qWSGJS6LhCZLt213yQWbglmc8RgNDPiW/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -95,6 +104,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. No Pivot Example
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1J9WizPM4gs3iS5LRsh3lV1J7R4piKSBf/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1J9WizPM4gs3iS5LRsh3lV1J7R4piKSBf/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
@@ -117,6 +129,9 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Gyroscopes
 Wednesday
+
+##### ([open video in new tab](https://drive.google.com/file/d/1viuBkT3N2gTXyaDagqLoypCttPT-J9G-/view){:target="_blank"})
+
 <iframe src="https://drive.google.com/file/d/1viuBkT3N2gTXyaDagqLoypCttPT-J9G-/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
