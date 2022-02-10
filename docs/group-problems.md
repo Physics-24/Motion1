@@ -70,18 +70,12 @@ Week 4 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
 Tuesday Feb 8 | [Group Problem 13](https://drive.google.com/file/d/1WQVeO0rbck5EWg9JOXkNIFqidSw8r-8N/view?usp=sharing){:target="_blank"} <br> [Group Problem 14](https://drive.google.com/file/d/1-QPrgqKdaXFVB1QdEthroQ7fJ5JxPDVe/view?usp=sharing){:target="_blank"} | [Group Problem 13 Solution](https://drive.google.com/file/d/1J0r91dicnw3q7YXPPbsH6wdSjRH4bNB-/view?usp=sharing){:target="_blank"} <br> [Group Problem 14 Solution](https://drive.google.com/file/d/1uNONj1e0RDg2jn1cOwZRyA_KSg5XLyzw/view?usp=sharing){:target="_blank"}
-Thursday Feb 10 | [Group Problem 15](https://drive.google.com/file/d/1bwYO0nrePg8P6hh4V_G8xiZYOK4BMHfv/view?usp=sharing){:target="_blank"} <br> [Group Problem 16](https://drive.google.com/file/d/1hAcEvh4GPKV0rh8avT6UsczUW7XzNQJN/view?usp=sharing){:target="_blank"} | 
-
+Thursday Feb 10 | [Group Problem 15](https://drive.google.com/file/d/1bwYO0nrePg8P6hh4V_G8xiZYOK4BMHfv/view?usp=sharing){:target="_blank"} <br> [Group Problem 16](https://drive.google.com/file/d/1hAcEvh4GPKV0rh8avT6UsczUW7XzNQJN/view?usp=sharing){:target="_blank"} | [Group Problem 15 Solution](https://drive.google.com/file/d/19QBPn6hlxOa1qeDAclcD56EBGK-H7MqW/view?usp=sharing){:target="_blank"} <br> [Group Problem 16 Solution](https://drive.google.com/file/d/1jyQrwxf27aSEUeV8IDfyVnRiymkRKlDk/view?usp=sharing){:target="_blank"}
 
 
 <br>
 
 <!--
-
-
-
-[Group Problem 15 Solution](https://drive.google.com/file/d/19QBPn6hlxOa1qeDAclcD56EBGK-H7MqW/view?usp=sharing){:target="_blank"} <br> [Group Problem 16 Solution](https://drive.google.com/file/d/1jyQrwxf27aSEUeV8IDfyVnRiymkRKlDk/view?usp=sharing){:target="_blank"}
-
 Week 5 |  |  | |
 ---| --- | -- | -- |
 Tuesday Feb 15 | [Group Problem 17](https://drive.google.com/file/d/1cQodH9A9KpzTZaTPb8c8OulnvO_1JRzb/view?usp=sharing){:target="_blank"} | [Group Problem 18](https://drive.google.com/file/d/1AvzY23_CSu6jgFtLfdZ444DTD1EvkJ2u/view?usp=sharing){:target="_blank"} | [Group Problem 17 Solution](https://drive.google.com/file/d/1qfTVqxvynXnl2nxwN--QnsXf_zWHkuXz/view?usp=sharing){:target="_blank"} <br> [Group Problem 18 Solution](https://drive.google.com/file/d/1gsEHGY5Ie4yNex6Vz6_5z3Cj8PFbnO5F/view?usp=sharing){:target="_blank"}
