@@ -54,7 +54,6 @@ Wednesday Feb 16 | [Recitation Set 10](https://drive.google.com/file/d/1YFk1uyxa
 
 <br>
 
-<!--
 
 
 Week 6 |  |  | |
@@ -64,11 +63,12 @@ Wednesday Feb 23 | [Recitation Set 12](https://drive.google.com/file/d/1UTuR0Xgh
 
 <br> 
 
+<!--
 #### Week 7
 
-[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/11v_7ZVS57LuMORivv3bpw4O9_dpQNGPc/view?usp=sharing){:target="_blank"}
+[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
 
-Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 4 by 5pm
+Our midterm exam (75 minutes long) will take place on Thursday March 3. The exam will take place in-person in the usual Group Problem rooms of the Shan basement.
 
 <br>
 

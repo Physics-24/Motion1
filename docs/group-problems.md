@@ -98,11 +98,11 @@ Thursday Feb 24 | [Group Problem 23](https://drive.google.com/file/d/1qoZskMKJ6e
 #### Week 7
 
 Tuesday Mar 1 - Q&A about review (no group problems to submit)
-[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/11v_7ZVS57LuMORivv3bpw4O9_dpQNGPc/view?usp=sharing){:target="_blank"}
+[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
 
 Thursday Mar 3 - **No class** - write your midterm during this time if you'd like
 
-Our midterm exam (120 minutes long) will be released Wednesday afternoon and is due Friday March 4 by 5pm.
+Our midterm exam (75 minutes long) will take place in-person on Thursday March 3 8:10-9:25 am in our usual Group Problem location. 
 
 <br>
 
