@@ -79,14 +79,14 @@ Week 5 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
 Tuesday Feb 15 | [Group Problem 17](https://drive.google.com/file/d/1cQodH9A9KpzTZaTPb8c8OulnvO_1JRzb/view?usp=sharing){:target="_blank"} <br> [Group Problem 18](https://drive.google.com/file/d/1AvzY23_CSu6jgFtLfdZ444DTD1EvkJ2u/view?usp=sharing){:target="_blank"} | [Group Problem 17 Solution](https://drive.google.com/file/d/1qfTVqxvynXnl2nxwN--QnsXf_zWHkuXz/view?usp=sharing){:target="_blank"} <br> [Group Problem 18 Solution](https://drive.google.com/file/d/1gsEHGY5Ie4yNex6Vz6_5z3Cj8PFbnO5F/view?usp=sharing){:target="_blank"}
-Thursday Feb 17 | [Group Problem 19](https://drive.google.com/file/d/1hggfYZm4sSiSWsTaWLZ3efP6qpujrLdc/view?usp=sharing){:target="_blank"} <br> [Group Problem 20](https://drive.google.com/file/d/15E3hH0VDL48Kr-kkn7zyuBDeYC0sburk/view?usp=sharing){:target="_blank"} | 
+Thursday Feb 17 | [Group Problem 19](https://drive.google.com/file/d/1hggfYZm4sSiSWsTaWLZ3efP6qpujrLdc/view?usp=sharing){:target="_blank"} <br> [Group Problem 20](https://drive.google.com/file/d/15E3hH0VDL48Kr-kkn7zyuBDeYC0sburk/view?usp=sharing){:target="_blank"} | [Group Problem 19 Solution](https://drive.google.com/file/d/19O0T38Ia9DphJMR3YJZZO8J_LDe9CmLV/view?usp=sharing){:target="_blank"} <br> [Group Problem 20 Solution](https://drive.google.com/file/d/1IDKCtxWRj5TSgyAkZeUKK8v9P_c6b3fg/view?usp=sharing){:target="_blank"}
 
 <br>
 
 <!--
 
 
-[Group Problem 19 Solution](https://drive.google.com/file/d/19O0T38Ia9DphJMR3YJZZO8J_LDe9CmLV/view?usp=sharing){:target="_blank"} <br> [Group Problem 20 Solution](https://drive.google.com/file/d/1IDKCtxWRj5TSgyAkZeUKK8v9P_c6b3fg/view?usp=sharing){:target="_blank"}
+
 
 Week 6 |  |  | |
 ---| --- | -- | -- |
