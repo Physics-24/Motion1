@@ -4,18 +4,20 @@
 
 This week there is no new content. There are no videos, no miniquestions, no group problems, no solo problems. Our focus is on practicing and reviewing for the midterm exam.
 
-Our midterm exam (75 minutes long) will take place during class on Thursday . 
+Our midterm exam (75 minutes long) will take place during class on Thursday, March 5 at 8:10-9:25 am. 
 
 Although there is nothing else to hand in, we are still meeting during our usual recitation times. Instead of the usual 3 problems in each recitation and 2 problems in each group problem session, we are releasing a 7-problem combined review set (see below). This review set includes the same cover sheet you will receive on your midterm. On Monday your recitation instructor will make some recommendations for how to most effectively use your time this week and outline their plan for Monday/Wednesday recitation.
 
 ## Reivew Problem Set
 
-[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/11v_7ZVS57LuMORivv3bpw4O9_dpQNGPc/view?usp=sharing){:target="_blank"}
+[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
 
 ## Review Problem Set Solutions
 
+Solutions will be release on Tuesday, March 1.
+<!-- 
 [midterm-review-problems-solutions.pdf](https://drive.google.com/file/d/1bO_5UoOzuRihI3SCaaZKkjAbzPnQZR_i/view?usp=sharing){:target="_blank"}
-
+>
 
 ## List of Topics
 
