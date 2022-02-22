@@ -87,7 +87,7 @@ due by Sun Feb 13 at noon <br> **Time limit: 30 minutes** | [Solo Problem 8](htt
 
 
 Week 5 | Gradescope Link | Problem pdf | Solution | 
----| --- | -- | --- |
+---| --- | -- | 
 due by Sun Feb 20 at noon <br> **Time limit: 30 minutes** | [Solo Problem 9](https://www.gradescope.com/courses/355613/assignments/1773127){:target="_blank"} | [Solo Problem 9 pdf](https://drive.google.com/file/d/1mFUZklmp8pzRpHbR0lALKJPuisZacbit/view?usp=sharing){:target="_blank"} | [Solo Problem 9 Solution](https://drive.google.com/file/d/1FJFpTSXM4NuuicVAAIHdanu7z4-maCl_/view?usp=sharing){:target="_blank"}
 due by Sun Feb 20 at noon <br> **Time limit: 30 minutes** | [Solo Problem 10](https://www.gradescope.com/courses/355613/assignments/1773126){:target="_blank"} | [Solo Problem 10 pdf](https://drive.google.com/file/d/1LCQaf2OyJJo_IRKNj_N2t-75KryT6zDJ/view?usp=sharing){:target="_blank"} | [Solo Problem 10 Solution](https://drive.google.com/file/d/19wTwmUBKoNkYYnBVlcyhFcQfnp8swJHR/view?usp=sharing){:target="_blank"}
 <br>
@@ -99,7 +99,7 @@ due by Sun Feb 20 at noon <br> **Time limit: 30 minutes** | [Solo Problem 10](ht
 **There is only one solo problem this week**
 
 Week 6 | Gradescope Link | Problem pdf | Solution | 
----| --- | -- | --- |
+---| --- | -- | 
 due by Sun Feb 27 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://www.gradescope.com/courses/355613/assignments/1773120){:target="_blank"} | |
 
 
