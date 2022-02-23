@@ -86,7 +86,7 @@ Thursday Feb 17 | [Group Problem 19](https://drive.google.com/file/d/1hggfYZm4sS
 Week 6 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
-Tuesday Feb 22 | [Group Problem 21](https://drive.google.com/file/d/11bJPTliy8JdwRdJjm8lCSXzB7ceH4XI8/view?usp=sharing){:target="_blank"} <br> [Group Problem 22](https://drive.google.com/file/d/1_Iy6sLWqae-NSI3slZb0woKSABJ31cCM/view?usp=sharing){:target="_blank"} | [Group Problem 21 Solution](https://drive.google.com/file/d/1hDXLlsbNZ0B2vRkDWAiufn0BbOfa0dg-/view?usp=sharing){:target="_blank"} <br> [Group Problem 22 Solution](https://drive.google.com/file/d/1viK_0_yALy-Y2KUhGRw48O0KxgderS0z/view?usp=sharing){:target="_blank"}
+Tuesday Feb 22 | [Group Problem 21](https://drive.google.com/file/d/11bJPTliy8JdwRdJjm8lCSXzB7ceH4XI8/view?usp=sharing){:target="_blank"} <br> [Group Problem 22](https://drive.google.com/file/d/1_Iy6sLWqae-NSI3slZb0woKSABJ31cCM/view?usp=sharing){:target="_blank"} | [Group Problem 21 Solution](https://drive.google.com/file/d/1fkcaocnOOUMzQtzF58C7YrjRCVpiSBPU/view?usp=sharing){:target="_blank"} <br> [Group Problem 22 Solution](https://drive.google.com/file/d/1viK_0_yALy-Y2KUhGRw48O0KxgderS0z/view?usp=sharing){:target="_blank"}
 Thursday Feb 24 | [Group Problem 23](https://drive.google.com/file/d/1qoZskMKJ6eLm712awEEFXT0hoEzw9Chn/view?usp=sharing){:target="_blank"} <br> [Group Problem 24](https://drive.google.com/file/d/1iv22_bZTX2chWmSdQBgO-sMH9BTHO83L/view?usp=sharing){:target="_blank"} | 
 
 <br>
