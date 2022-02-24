@@ -63,7 +63,6 @@ Wednesday Feb 23 | [Recitation Set 12](https://drive.google.com/file/d/1UTuR0Xgh
 
 <br> 
 
-<!--
 #### Week 7
 
 [midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
@@ -72,6 +71,7 @@ Our midterm exam (75 minutes long) will take place on Thursday March 3. The exam
 
 <br>
 
+<!--
 Week 8 |  |  | |
 ---| --- | -- | -- |
 Monday Mar 7 | [Recitation Set 15](https://drive.google.com/file/d/1P9JvZ-4GkkFyLPkDYdLdLEtBrwmGEkPK/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1YQhKCVFZ6sMBwILlqioekA-s6aYwlhkZ/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1WQqdf4CTD1NYKHg2AE-x7PMjipr5aWJn/view?usp=sharing){:target="_blank"} 
