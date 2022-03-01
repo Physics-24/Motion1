@@ -14,10 +14,7 @@ Although there is nothing else to hand in, we are still meeting during our usual
 
 ## Review Problem Set Solutions
 
-Solutions will be release on Tuesday, March 1.
-<!-- 
 [midterm-review-problems-solutions.pdf](https://drive.google.com/file/d/1G9Dlzkf0MsfrXQhN0cZx1sxJ5Pqt_ayC/view?usp=sharing){:target="_blank"}
--->
 
 ## List of Topics
 

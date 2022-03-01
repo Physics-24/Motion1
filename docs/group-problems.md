@@ -98,6 +98,8 @@ Thursday Feb 24 | [Group Problem 23](https://drive.google.com/file/d/1qoZskMKJ6e
 Tuesday Mar 1 - Q&A about review (no group problems to submit)
 [midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
 
+[midterm-review-problems-solutions.pdf](https://drive.google.com/file/d/1G9Dlzkf0MsfrXQhN0cZx1sxJ5Pqt_ayC/view?usp=sharing){:target="_blank"}
+
 Thursday Mar 3 - *Midterm Exam**
 
 Our midterm exam (75 minutes long) will take place in-person on Thursday March 3 8:10-9:25 am in our usual Group Problem location. 
