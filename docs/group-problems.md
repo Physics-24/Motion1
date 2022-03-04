@@ -9,7 +9,7 @@ During scheduled class time, 8:10 am - 9:25 am on Tuesdays and Thursdays, you wi
 
 Please arrive on time. This will help us sort out the group logistics.
 
-Please look up [your randomly assigned group number here](https://drive.google.com/file/d/1u8ChWUjeR3QJve0LVpJU369qoZTu30hb/view?usp=sharing){:target="_blank"}. Locations for the group numbers are:
+Please look up [your assigned group number here](https://drive.google.com/file/d/1Cchoi_8i1Y2V-IIaKVr5VBkjPJjUKjd8/view?usp=sharing){:target="_blank"} (updated Week 8). Locations for the group numbers are:
 
 Groups 1-13  Shanahan B442
 
