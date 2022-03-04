@@ -111,7 +111,7 @@ Week 8 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
 Tuesday Mar 8 | [Group Problem 25](https://drive.google.com/file/d/1LxAibcrORHLaIxKbrLhS1XFbagW0za7j/view?usp=sharing){:target="_blank"} <br> [Group Problem 26](https://drive.google.com/file/d/1pIH87qY4_doposrfSeXnGqJxC9K8xYPd/view?usp=sharing){:target="_blank"} | 
-Thursday Mar 10 | [Group Problem 27](https://drive.google.com/file/d/1s48fnwMfp7p6dRAgR5rDRT2hlPE2IPuD/view?usp=sharing){:target="_blank"} | [Group Problem 28](https://drive.google.com/file/d/1jcBbbe5tOiSHMRaQpsYiuxmC9CLu4TmX/view?usp=sharing){:target="_blank"} | 
+Thursday Mar 10 | [Group Problem 27](https://drive.google.com/file/d/1s48fnwMfp7p6dRAgR5rDRT2hlPE2IPuD/view?usp=sharing){:target="_blank"} <br> [Group Problem 28](https://drive.google.com/file/d/1jcBbbe5tOiSHMRaQpsYiuxmC9CLu4TmX/view?usp=sharing){:target="_blank"} | 
 
 
 <!--
