@@ -60,12 +60,8 @@ due by Sun Feb 6 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](http
 
 
 <br>
-
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
-
-
-
 
 
 ### Week 4
@@ -81,6 +77,7 @@ due by Sun Feb 13 at noon <br> **Time limit: 30 minutes** | [Solo Problem 8](htt
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
+
 ### Week 5
 [Week 5 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1dSxEcksBtU-Wc5oZHTwv3ctt62eYyLGO/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
 
@@ -91,6 +88,8 @@ due by Sun Feb 20 at noon <br> **Time limit: 30 minutes** | [Solo Problem 9](htt
 due by Sun Feb 20 at noon <br> **Time limit: 30 minutes** | [Solo Problem 10](https://www.gradescope.com/courses/355613/assignments/1773126){:target="_blank"} | [Solo Problem 10 pdf](https://drive.google.com/file/d/1LCQaf2OyJJo_IRKNj_N2t-75KryT6zDJ/view?usp=sharing){:target="_blank"} | [Solo Problem 10 Solution](https://drive.google.com/file/d/19wTwmUBKoNkYYnBVlcyhFcQfnp8swJHR/view?usp=sharing){:target="_blank"}
 
 
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
 
@@ -103,14 +102,9 @@ Week 6 | Gradescope Link | Problem pdf | Solution |
 ---| --- | -- | 
 due by Sun Feb 27 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://www.gradescope.com/courses/355613/assignments/1773120){:target="_blank"} | [Solo Problem 11 pdf](https://drive.google.com/file/d/14yC9j8hVsf89TwjVXXu1vfddkUx41eXx/view?usp=sharing){:target="_blank"} | [Solo Problem 11 Solution](https://drive.google.com/file/d/1WXxrypkXSXMfudddVMpL-NbCmVHrbUGm/view?usp=sharing){:target="_blank"}
 
-
 <br>
-
-
-
-<!--
-
-
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
 
 
 ### Week 8
@@ -118,9 +112,14 @@ due by Sun Feb 27 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://ww
 
 Week 8 | Gradescope Link | Solution | 
 ---| --- | -- | 
-due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](){:target="_blank"} | [Solo Problem 12 Solution](https://drive.google.com/file/d/1bZO7_cc16mbntvdeoW_u8nfiD7xskmWg/view?usp=sharing){:target="_blank"}
-due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](){:target="_blank"} | [Solo Problem 13 Solution](https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
+due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](https://www.gradescope.com/courses/355613/assignments/1773115){:target="_blank"} | [Solo Problem 12 pdf] | [Solo Problem 12 Solution]
 
+due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](https://www.gradescope.com/courses/355613/assignments/1773110){:target="_blank"} | [Solo Problem 13 pdf] | [Solo Problem 13 Solution]
+
+
+<!--
+(https://drive.google.com/file/d/1bZO7_cc16mbntvdeoW_u8nfiD7xskmWg/view?usp=sharing){:target="_blank"}
+(https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
 
 <br>
 
