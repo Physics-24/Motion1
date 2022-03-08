@@ -110,7 +110,7 @@ due by Sun Feb 27 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://ww
 ### Week 8
 [Week 8 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1CBac_c2nq0pcAwscZ3vVfe74XQij7WMy/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
 
-Week 8 | Gradescope Link | Solution | 
+Week 8 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
 due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](https://www.gradescope.com/courses/355613/assignments/1773115){:target="_blank"} | [Solo Problem 12 pdf] | [Solo Problem 12 Solution]
 
