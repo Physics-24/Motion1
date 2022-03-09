@@ -1,6 +1,6 @@
 # Midterm Information
 
-Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.gle/AGzc2xnbV3xRkt4Q6){:target="_blank"}
+[Solutions](){:target="_blank"}
 
 # Final Exam Information
 
