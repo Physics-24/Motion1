@@ -111,13 +111,10 @@ Week 8 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
 Tuesday Mar 8 | [Group Problem 25](https://drive.google.com/file/d/1LxAibcrORHLaIxKbrLhS1XFbagW0za7j/view?usp=sharing){:target="_blank"} <br> [Group Problem 26](https://drive.google.com/file/d/1pIH87qY4_doposrfSeXnGqJxC9K8xYPd/view?usp=sharing){:target="_blank"} | [Group Problem 25 Solution](https://drive.google.com/file/d/12s2rDDjmBZxowxyhnNdP4ojkveAf6A8d/view?usp=sharing){:target="_blank"} <br> [Group Problem 26 Solution](https://drive.google.com/file/d/1XqHNooY5CJ1h4o-37pyxdBRB0TJrTena/view?usp=sharing){:target="_blank"}
-Thursday Mar 10 | [Group Problem 27](https://drive.google.com/file/d/1s48fnwMfp7p6dRAgR5rDRT2hlPE2IPuD/view?usp=sharing){:target="_blank"} <br> [Group Problem 28](https://drive.google.com/file/d/1jcBbbe5tOiSHMRaQpsYiuxmC9CLu4TmX/view?usp=sharing){:target="_blank"} | 
+Thursday Mar 10 | [Group Problem 27](https://drive.google.com/file/d/1s48fnwMfp7p6dRAgR5rDRT2hlPE2IPuD/view?usp=sharing){:target="_blank"} <br> [Group Problem 28](https://drive.google.com/file/d/1jcBbbe5tOiSHMRaQpsYiuxmC9CLu4TmX/view?usp=sharing){:target="_blank"} | [Group Problem 27 Solution](https://drive.google.com/file/d/17d5ixK3BxzuGdzBib93ZKyjEBUV3OI2C/view?usp=sharing){:target="_blank"} <br> [Group Problem 28 Solution](https://drive.google.com/file/d/1KJaoTEbnSOJcrNnootuvcWhw-71n4Cfj/view?usp=sharing){:target="_blank"}
 
 
 <!--
-
-[Group Problem 27 Solution](https://drive.google.com/file/d/17d5ixK3BxzuGdzBib93ZKyjEBUV3OI2C/view?usp=sharing){:target="_blank"} <br> [Group Problem 28 Solution](https://drive.google.com/file/d/1KJaoTEbnSOJcrNnootuvcWhw-71n4Cfj/view?usp=sharing){:target="_blank"}
-
 
 <br>
 
