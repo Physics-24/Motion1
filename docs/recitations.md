@@ -73,6 +73,7 @@ Wednesday Feb 23 | [Recitation Set 12](https://drive.google.com/file/d/1UTuR0Xgh
 Our midterm exam (75 minutes long) will take place on Thursday March 3. The exam will take place in-person in the usual Group Problem rooms of the Shan basement.
 
 <br>
+
 Week 8 |  |  | |
 ---| --- | -- | -- |
 Monday Mar 7 | [Recitation Set 15](https://drive.google.com/file/d/1P9JvZ-4GkkFyLPkDYdLdLEtBrwmGEkPK/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1YQhKCVFZ6sMBwILlqioekA-s6aYwlhkZ/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1WQqdf4CTD1NYKHg2AE-x7PMjipr5aWJn/view?usp=sharing){:target="_blank"} 
@@ -80,7 +81,6 @@ Wednesday Mar 9 | [Recitation Set 16](https://drive.google.com/file/d/1lOQup6uEs
 
 <br>
 
-<!--
 Week 9 |  |  | |
 ---| --- | -- | -- |
 Monday Mar 21 | [Recitation Set 17](https://drive.google.com/file/d/1TLGlZeVpDV5AXDMcPR3W6wQvRWxoisD7/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1qqOt7n36gHgSOcW30BCkOd8b-nUlbVWB/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/18dBnUyyX1l2nLEKlUvhZoudjDOQFJUgE/view?usp=sharing){:target="_blank"} 
@@ -88,6 +88,8 @@ Wednesday Mar 23 | [Recitation Set 18](https://drive.google.com/file/d/1PqjmiZjX
 
 
 <br>
+
+<!--
 
 Week 10 |  |  | |
 ---| --- | -- | -- |
