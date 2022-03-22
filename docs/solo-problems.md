@@ -116,18 +116,22 @@ due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](htt
 due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](https://www.gradescope.com/courses/355613/assignments/1773110){:target="_blank"} | [Solo Problem 13 pdf](https://drive.google.com/file/d/1WBqGcBmLjSP6IW1DYnCuMk9ZYGI3XlaU/view?usp=sharing){:target="_blank"} | [Solo Problem 13 Solution](https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
 
 
-<!--
 
 <br>
 
 ### Week 9
 [Week 9 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1vvhs6GHJlH0rCXjiuy3yPY2aE4NlzWkS/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
 
-Week 9 | Gradescope Link | Solution | 
+Week 9 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 14](){:target="_blank"} | [Solo Problem 14 Solution](https://drive.google.com/file/d/1LLoCcSchFlBOm2vfOgSopBXWKBYpTDHv/view?usp=sharing){:target="_blank"}
-due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](){:target="_blank"} | [Solo Problem 15 Solution](https://drive.google.com/file/d/1PtKz7L07uetzA-D9iV9B95SdYVEUueVv/view?usp=sharing){:target="_blank"}
+due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 14](https://www.gradescope.com/courses/355613/assignments/1773108){:target="_blank"} | [Solo Problem 14 pdf] | [Solo Problem 14 Solution]
+due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](https://www.gradescope.com/courses/355613/assignments/1773089){:target="_blank"} | [Solo Problem 15 pdf] | [Solo Problem 14 Solution]
 
+
+<!--
+
+[Solo Problem 14 Solution](https://drive.google.com/file/d/1LLoCcSchFlBOm2vfOgSopBXWKBYpTDHv/view?usp=sharing){:target="_blank"}
+[Solo Problem 14 Solution](https://drive.google.com/file/d/1PtKz7L07uetzA-D9iV9B95SdYVEUueVv/view?usp=sharing){:target="_blank"}
 
 <br>
 
