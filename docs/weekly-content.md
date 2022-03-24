@@ -17,7 +17,7 @@ Dates                               | Topics
 [Week 8 <br>  Mar 6 - Mar 12](week8) |  Angular velocity, angular momentum, moment of inertia, torque
 Spring Break <br>  Mar 13 - Mar 19 | Nothing due, nothing to do
 [Week 9 <br>  Mar 20 - Mar 26](week9) |  Kepler's Laws, rotational kinematics, rotational dynamics, rotational energy and rolling, rotational work
-Week 10 <br> Mar 27 - Apr 2 | Rotational vectors, spin and orbital angular momentum
+[Week 10 <br> Mar 27 - Apr 2](week10) | Rotational vectors, spin and orbital angular momentum
 Week 11 <br> Apr 3 - Apr 9 | Rolling torque, conserved quantities, gyroscopes
 Week 12 <br> Apr 10 - Apr 16 | Simple harmonic motion, oscillating systems
 Week 13 <br> Apr 17 - Apr 23 | Waves, superposition, sound waves 
