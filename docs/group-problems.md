@@ -122,16 +122,16 @@ Week 9  |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
 Tuesday Mar 22 | [Group Problem 29](https://drive.google.com/file/d/1I40wfxrrpvjGGUhmqApgZuSrkzAfM-cy/view?usp=sharing){:target="_blank"} <br> [Group Problem 30](https://drive.google.com/file/d/1qSBXzsLdXmsr6w4oKQpBr4RlsuvV4hXT/view?usp=sharing){:target="_blank"} | [Group Problem 29 Solution](https://drive.google.com/file/d/1jryVJ66BPLZvzBgAl6B_ZfU3ntSaf-Y4/view?usp=sharing){:target="_blank"} <br> [Group Problem 30 Solution](https://drive.google.com/file/d/1zggkHkrPTkJXNWFatmMCC0XpbXVWWaxK/view?usp=sharing){:target="_blank"}
-Thursday Mar 24 | [Group Problem 31](https://drive.google.com/file/d/1659QWqIGFqJZAe1X5KvvctiATfnp4pLU/view?usp=sharing){:target="_blank"} <br> [Group Problem 32](https://drive.google.com/file/d/1IbsGN3vhSon9Ixlau9IL5SSeYwNomfkz/view?usp=sharing){:target="_blank"} | 
+Thursday Mar 24 | [Group Problem 31](https://drive.google.com/file/d/1659QWqIGFqJZAe1X5KvvctiATfnp4pLU/view?usp=sharing){:target="_blank"} <br> [Group Problem 32](https://drive.google.com/file/d/1IbsGN3vhSon9Ixlau9IL5SSeYwNomfkz/view?usp=sharing){:target="_blank"} | [Group Problem 31 Solution](https://drive.google.com/file/d/1xWv3lMm2V98Q-13ax_ATRmh3p0LAbbiX/view?usp=sharing){:target="_blank"} <br> [Group Problem 32 Solution](https://drive.google.com/file/d/1DZFwhYkOFJkX6wEEDJ3BpKhZUOvYmyfp/view?usp=sharing){:target="_blank"}
 
 
 <br>
 
 <!--
 
-[Group Problem 29 Solution](https://drive.google.com/file/d/1jryVJ66BPLZvzBgAl6B_ZfU3ntSaf-Y4/view?usp=sharing){:target="_blank"} <br> [Group Problem 30 Solution](https://drive.google.com/file/d/1zggkHkrPTkJXNWFatmMCC0XpbXVWWaxK/view?usp=sharing){:target="_blank"}
 
-[Group Problem 31 Solution](https://drive.google.com/file/d/1xWv3lMm2V98Q-13ax_ATRmh3p0LAbbiX/view?usp=sharing){:target="_blank"} <br> [Group Problem 32 Solution](https://drive.google.com/file/d/1DZFwhYkOFJkX6wEEDJ3BpKhZUOvYmyfp/view?usp=sharing){:target="_blank"}
+
+
 
 
 Week 10 |  |  | |
