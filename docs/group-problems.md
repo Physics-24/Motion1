@@ -131,6 +131,7 @@ Thursday Mar 24 | [Group Problem 31](https://drive.google.com/file/d/1659QWqIGFq
 
 Week 10  |  |  | |
 Date | Problem pdf | Solution
+---| --- | -- | -- |
 Tuesday Mar 29 | [Group Problem 33](https://drive.google.com/file/d/1EsOmyF1Tf-8kQa323b4hQbsY58HoT9SO/view?usp=sharing){:target="_blank"} <br> [Group Problem 34](https://drive.google.com/file/d/1uMXkV8wVN7Ee07EM4uVOuEKoYhlb9JMs/view?usp=sharing){:target="_blank"} | 
 Thursday Mar 31 | [Group Problem 35](https://drive.google.com/file/d/1kHK9qNR-GFaWsQ_iQx8BYAXtj5LiBE8f/view?usp=sharing){:target="_blank"} <br> [Group Problem 36](https://drive.google.com/file/d/128YnfYIFLsN0BKPan4LFYeZDROd1Zlvt/view?usp=sharing){:target="_blank"} | 
 
