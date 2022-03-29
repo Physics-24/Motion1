@@ -124,16 +124,14 @@ due by Fri Mar 11 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](htt
 
 Week 9 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 14](https://www.gradescope.com/courses/355613/assignments/1773108){:target="_blank"} | [Solo Problem 14 pdf] | [Solo Problem 14 Solution]
-due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](https://www.gradescope.com/courses/355613/assignments/1773089){:target="_blank"} | [Solo Problem 15 pdf] | [Solo Problem 14 Solution]
+due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 14](https://www.gradescope.com/courses/355613/assignments/1773108){:target="_blank"} | [Solo Problem 14 pdf](https://drive.google.com/file/d/1O7TzQ6So4B6N6fCqC7VTxhkb791Zer5f/view?usp=sharing){:target="_blank"} | [Solo Problem 14 Solution](https://drive.google.com/file/d/1LLoCcSchFlBOm2vfOgSopBXWKBYpTDHv/view?usp=sharing){:target="_blank"}
+due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](https://www.gradescope.com/courses/355613/assignments/1773089){:target="_blank"} | [Solo Problem 15 pdf](https://drive.google.com/file/d/1r6OzoHWnKJiyi4TgZMPHtVbh_y7hkPem/view?usp=sharing){:target="_blank"} | [Solo Problem 15 Solution](https://drive.google.com/file/d/1PtKz7L07uetzA-D9iV9B95SdYVEUueVv/view?usp=sharing){:target="_blank"}
+
+
+<br>
 
 
 <!--
-
-[Solo Problem 14 Solution](https://drive.google.com/file/d/1LLoCcSchFlBOm2vfOgSopBXWKBYpTDHv/view?usp=sharing){:target="_blank"}
-[Solo Problem 14 Solution](https://drive.google.com/file/d/1PtKz7L07uetzA-D9iV9B95SdYVEUueVv/view?usp=sharing){:target="_blank"}
-
-<br>
 
 ### Week 10
 [Week 10 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1OqDfoaoR8Zl8UQzV933lcT1TAfsnsqiu/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
