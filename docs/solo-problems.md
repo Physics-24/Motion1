@@ -136,8 +136,8 @@ due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](ht
 
 Week 10 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 16](https://www.gradescope.com/courses/355613/assignments/1773098){:target="_blank"} | [Solo Problem 17] | [Solo Problem 16 Solution]
-due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](https://www.gradescope.com/courses/355613/assignments/1773096){:target="_blank"} | [Solo Problem 17] | [Solo Problem 17 Solution]
+due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 16](https://www.gradescope.com/courses/355613/assignments/1773098){:target="_blank"} | [Solo Problem 16 pdf] | [Solo Problem 16 Solution]
+due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](https://www.gradescope.com/courses/355613/assignments/1773096){:target="_blank"} | [Solo Problem 17 pdf] | [Solo Problem 17 Solution]
 
 <!--
 
