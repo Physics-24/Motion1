@@ -150,8 +150,8 @@ due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](htt
 
 Week 11 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](){:target="_blank"} | [Solo Problem 18 pdf] | [Solo Problem 18 Solution]
-due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](){:target="_blank"} | [Solo Problem 19 pdf] | [Solo Problem 19 Solution]
+due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](https://www.gradescope.com/courses/355613/assignments/1773086){:target="_blank"} | [Solo Problem 18 pdf] | [Solo Problem 18 Solution]
+due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](https://www.gradescope.com/courses/355613/assignments/1773084){:target="_blank"} | [Solo Problem 19 pdf] | [Solo Problem 19 Solution]
 
 
 <!--
