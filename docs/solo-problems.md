@@ -150,12 +150,14 @@ due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](htt
 
 Week 11 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](){:target="_blank"} | [Solo Problem 18 pdf]| [Solo Problem 18 Solution]
-due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](){:target="_blank"} | [Solo Problem 19 pdf]| [Solo Problem 19 Solution]
+due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](){:target="_blank"} | [Solo Problem 18 pdf] | [Solo Problem 18 Solution]
+due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](){:target="_blank"} | [Solo Problem 19 pdf] | [Solo Problem 19 Solution]
 
 
 <!--
 
+[Solo Problem 18 pdf](https://drive.google.com/file/d/1u9s6mwVEkLX64PwPxjACjjOI46CTnv9d/view?usp=sharing){:target="_blank"}
+[Solo Problem 19 pdf](https://drive.google.com/file/d/1FyIPpEBsUk9yBpT_GrGdQaU7cHWd5zlT/view?usp=sharing){:target="_blank"}
 [Solo Problem 18 Solution](https://drive.google.com/file/d/1lLoUq5aD39Cc8YUiHBG3XP9XSjqodKeC/view){:target="_blank"}
 [Solo Problem 19 Solution](https://drive.google.com/file/d/1r-Y-9_GNwfDXAeJgYfgTUP3hXMutLYeK/view?usp=sharing){:target="_blank"}
 
