@@ -140,18 +140,24 @@ due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 16](htt
 due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](https://www.gradescope.com/courses/355613/assignments/1773096){:target="_blank"} | [Solo Problem 17 pdf](https://drive.google.com/file/d/1KXy3HT4pxfDeQJUeRLD_abqNh_hpU17q/view?usp=sharing){:target="_blank"} | [Solo Problem 17 Solution](https://drive.google.com/file/d/1wlmX7Q0S7IxHe4XaRbRu78W11SAdQhjx/view?usp=sharing){:target="_blank"}
 
 <br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
 
 
-
-<!--
 
 ### Week 11
 [Week 11 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1pLStecU2KaKLdWZSi49pGjwTUVzkuLtI/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
 
 Week 11 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](){:target="_blank"} | [Solo Problem 18 pdf]| [Solo Problem 18 Solution](https://drive.google.com/file/d/1lLoUq5aD39Cc8YUiHBG3XP9XSjqodKeC/view){:target="_blank"}
-due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](){:target="_blank"} | [Solo Problem 19 pdf]| [Solo Problem 19 Solution](https://drive.google.com/file/d/1r-Y-9_GNwfDXAeJgYfgTUP3hXMutLYeK/view?usp=sharing){:target="_blank"}
+due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](){:target="_blank"} | [Solo Problem 18 pdf]| [Solo Problem 18 Solution]
+due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](){:target="_blank"} | [Solo Problem 19 pdf]| [Solo Problem 19 Solution]
+
+
+<!--
+
+[Solo Problem 18 Solution](https://drive.google.com/file/d/1lLoUq5aD39Cc8YUiHBG3XP9XSjqodKeC/view){:target="_blank"}
+[Solo Problem 19 Solution](https://drive.google.com/file/d/1r-Y-9_GNwfDXAeJgYfgTUP3hXMutLYeK/view?usp=sharing){:target="_blank"}
 
 <br>
 
