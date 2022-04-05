@@ -136,17 +136,14 @@ due by Sun Mar 27 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](ht
 
 Week 10 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 16](https://www.gradescope.com/courses/355613/assignments/1773098){:target="_blank"} | [Solo Problem 16 pdf] | [Solo Problem 16 Solution]
-due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](https://www.gradescope.com/courses/355613/assignments/1773096){:target="_blank"} | [Solo Problem 17 pdf] | [Solo Problem 17 Solution]
-
-<!--
-
-[Solo Problem 16 pdf](https://drive.google.com/file/d/1M3DEk1goPrzb8eZd5Q9mfqvVcwfSJzX8/view?usp=sharing){:target="_blank"}
-[Solo Problem 17 pdf](https://drive.google.com/file/d/1KXy3HT4pxfDeQJUeRLD_abqNh_hpU17q/view?usp=sharing){:target="_blank"}
-[Solo Problem 16 Solution](https://drive.google.com/file/d/1_rK6RmXb3-R2KCK9LkfhVhl-nrdTncWv/view?usp=sharing){:target="_blank"}
-[Solo Problem 17 Solution](https://drive.google.com/file/d/1wlmX7Q0S7IxHe4XaRbRu78W11SAdQhjx/view?usp=sharing){:target="_blank"}
+due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 16](https://www.gradescope.com/courses/355613/assignments/1773098){:target="_blank"} | [Solo Problem 16 pdf](https://drive.google.com/file/d/1M3DEk1goPrzb8eZd5Q9mfqvVcwfSJzX8/view?usp=sharing){:target="_blank"} | [Solo Problem 16 Solution](https://drive.google.com/file/d/1_rK6RmXb3-R2KCK9LkfhVhl-nrdTncWv/view?usp=sharing){:target="_blank"}
+due by Sun Apr 3 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](https://www.gradescope.com/courses/355613/assignments/1773096){:target="_blank"} | [Solo Problem 17 pdf](https://drive.google.com/file/d/1KXy3HT4pxfDeQJUeRLD_abqNh_hpU17q/view?usp=sharing){:target="_blank"} | [Solo Problem 17 Solution](https://drive.google.com/file/d/1wlmX7Q0S7IxHe4XaRbRu78W11SAdQhjx/view?usp=sharing){:target="_blank"}
 
 <br>
+
+
+
+<!--
 
 ### Week 11
 [Week 11 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1pLStecU2KaKLdWZSi49pGjwTUVzkuLtI/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems.
