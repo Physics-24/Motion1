@@ -149,7 +149,7 @@ Thursday Apr 7 | [Group Problem W11Th](https://drive.google.com/file/d/1nmaCX153
 
 Week 12 |  |  | |
 ---| --- | -- | -- |
-Tuesday Apr 12 | [Group Problem 39](https://drive.google.com/file/d/1-fhLxGHGg2U3sgNayY22aMorqvqecg3l/view?usp=sharing){:target="_blank"} <br> [Group Problem 40](https://drive.google.com/file/d/1-z9-5DcyPiviH0VfmcmnLl1TDAUHGkWL/view?usp=sharing){:target="_blank"} | [Group Problem 39 Solution](){:target="_blank"} <br> [Group Problem 40 Solution](){:target="_blank"}
+Tuesday Apr 12 | [Group Problem 39](https://drive.google.com/file/d/1-fhLxGHGg2U3sgNayY22aMorqvqecg3l/view?usp=sharing){:target="_blank"} <br> [Group Problem 40](https://drive.google.com/file/d/1-z9-5DcyPiviH0VfmcmnLl1TDAUHGkWL/view?usp=sharing){:target="_blank"} | [Group Problem 39 Solution](https://drive.google.com/file/d/1sBG2w228qwYxVRw5csm_wrtPZERbhhDe/view?usp=sharing){:target="_blank"} <br> [Group Problem 40 Solution](https://drive.google.com/file/d/1LEt5xFV382MPsHEfoorPmkyMo25rlNGs/view?usp=sharing){:target="_blank"}
 Thursday Apr 14 | [Group Problem 41](https://drive.google.com/file/d/1cP-rZXSjnDXWk1T0QcgwpwAFoi40dGYi/view?usp=sharing){:target="_blank"} <br> [Group Problem 42](https://drive.google.com/file/d/1Lmrf_hSzvqNItBJULkaV-CHuygVA3vGW/view?usp=sharing){:target="_blank"} | [Group Problem 41 Solution](){:target="_blank"} <br> [Group Problem 42 Solution](){:target="_blank"}
 
 <br>
