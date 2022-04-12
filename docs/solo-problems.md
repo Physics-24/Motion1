@@ -162,8 +162,8 @@ due by Sun Apr 10 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](ht
 
 Week 12 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 17 at noon <br> **Time limit: 30 minutes** | [Solo Problem 20](){:target="_blank"} | [Solo Problem 20 pdf]| [Solo Problem 20 Solution]
-due by Sun Apr 17 at noon <br> **Time limit: 30 minutes** | [Solo Problem 21](){:target="_blank"} | [Solo Problem 21 pdf]| [Solo Problem 21 Solution]
+due by Sun Apr 17 at noon <br> **Time limit: 30 minutes** | [Solo Problem 20](https://www.gradescope.com/courses/355613/assignments/1773073){:target="_blank"} | [Solo Problem 20 pdf]| [Solo Problem 20 Solution]
+due by Sun Apr 17 at noon <br> **Time limit: 30 minutes** | [Solo Problem 21](https://www.gradescope.com/courses/355613/assignments/1773072){:target="_blank"} | [Solo Problem 21 pdf]| [Solo Problem 21 Solution]
 
 
 
