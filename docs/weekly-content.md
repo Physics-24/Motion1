@@ -20,7 +20,7 @@ Spring Break <br>  Mar 13 - Mar 19 | Nothing due, nothing to do
 [Week 10 <br> Mar 27 - Apr 2](week10) | Rotational vectors, spin and orbital angular momentum
 [Week 11 <br> Apr 3 - Apr 9](week11) | Rolling torque, conserved quantities, gyroscopes
 [Week 12 <br> Apr 10 - Apr 16](week12) | Simple harmonic motion, oscillating systems
-Week 13 <br> Apr 17 - Apr 23 | Waves, superposition, sound waves 
+[Week 13 <br> Apr 17 - Apr 23](week13) | Waves, superposition, sound waves 
 Week 14 <br> Apr 24 - Apr 30 | Beats, interference
 
 <br>
