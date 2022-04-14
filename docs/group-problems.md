@@ -44,16 +44,15 @@ Thursday Jan 20 | [Group Problem 3](https://www.gradescope.com/courses/355613/as
 
 <br>
 
+
 Week 2 |  |  | |
 Date | Gradescope Links | Problem pdf | Solution
 ---| --- | -- | -- |
 Tuesday Jan 25 | [Group Problem 5](https://www.gradescope.com/courses/355613/assignments/1773148){:target="_blank"} <br> [Group Problem 6](https://www.gradescope.com/courses/355613/assignments/1773147){:target="_blank"} | [gp5.pdf](https://drive.google.com/file/d/1jGuThA--fAfWR1PRNz_AI-bAExFpjeAn/view?usp=sharing){:target="_blank"} <br> [gp6.pdf](https://drive.google.com/file/d/1vD9M35fXHuo9_G_Alo2TzI8M2UoLPWnJ/view?usp=sharing){:target="_blank"} | [Group Problem 5 Solution](https://drive.google.com/file/d/1pT3pCp1VotaccHJWXGUgJ4Ern2F0WB7c/view?usp=sharing){:target="_blank"} <br> [Group Problem 6 Solution](https://drive.google.com/file/d/1bsmVRAQjdCjEgpgbKSxZ0-BvYVc4axBA/view?usp=sharing){:target="_blank"} 
 Thursday Jan 27 | [Group Problem 7](https://www.gradescope.com/courses/355613/assignments/1773137){:target="_blank"} <br> [Group Problem 8](https://www.gradescope.com/courses/355613/assignments/1773146){:target="_blank"} | [gp7.pdf](https://drive.google.com/file/d/1S353a9z79xf7Tg4WDrq9hd6kzSRFwM6N/view?usp=sharing){:target="_blank"} <br> [gp8.pdf](https://drive.google.com/file/d/1z7UVwaBp-kBscsdSwegJdq9ysBiu89_t/view?usp=sharing){:target="_blank"} | [Group Problem 7 Solution](https://drive.google.com/file/d/1v_3G9pFVELPH46e4G-SD7OlWG0A0nGxK/view?usp=sharing){:target="_blank"} <br> [Group Problem 8 Solution](https://drive.google.com/file/d/133YNbwtB2oUVnBzgHKvElNajxOtuCgSE/view?usp=sharing){:target="_blank"}
 
-
-
-
 <br>
+
 
 Week 3 |  |  | |
 Date | Problem pdf | Solution
@@ -61,9 +60,7 @@ Date | Problem pdf | Solution
 Tuesday Feb 1 | [Group Problem 9](https://drive.google.com/file/d/1ya4OlHRL85EAEb-YbjuwOeinfiRWBKxt/view?usp=sharing){:target="_blank"} <br> [Group Problem 10](https://drive.google.com/file/d/1i0KWfR96KW55Xw0DF02Zs-0PfdAKo7fW/view?usp=sharing){:target="_blank"}   | [Group Problem 9 Solution](https://drive.google.com/file/d/1f6SO0_BLnHQBnB1GLD11PuOjMSz7FJbG/view?usp=sharing){:target="_blank"} <br> [Group Problem 10 Solution](https://drive.google.com/file/d/1NMJDQKI7rZsVkY83eVSo-5QclzAx58Ht/view?usp=sharing){:target="_blank"}
 Thursday Feb 3 | [Group Problem 11](https://drive.google.com/file/d/1o0QS6h5xlfjPwI0mOQspDVZtLonjK4vR/view?usp=sharing){:target="_blank"} <br> [Group Problem 12](https://drive.google.com/file/d/1Qmfv_FD9w2BBjGIfDuRNAEwFU6OImrVs/view?usp=sharing){:target="_blank"}  | [Group Problem 11 Solution](https://drive.google.com/file/d/1mikBtmi5oGAGsTXF1AVZGBllnchN813a/view?usp=sharing){:target="_blank"} <br> [Group Problem 12 Solution](https://drive.google.com/file/d/1aGW-ZUKFrhTLR7ANoA5e-jwuICjhQyqw/view?usp=sharing){:target="_blank"}
 
-
 <br>
-
 
 
 Week 4 |  |  | |
@@ -72,8 +69,8 @@ Date | Problem pdf | Solution
 Tuesday Feb 8 | [Group Problem 13](https://drive.google.com/file/d/1WQVeO0rbck5EWg9JOXkNIFqidSw8r-8N/view?usp=sharing){:target="_blank"} <br> [Group Problem 14](https://drive.google.com/file/d/1-QPrgqKdaXFVB1QdEthroQ7fJ5JxPDVe/view?usp=sharing){:target="_blank"} | [Group Problem 13 Solution](https://drive.google.com/file/d/1J0r91dicnw3q7YXPPbsH6wdSjRH4bNB-/view?usp=sharing){:target="_blank"} <br> [Group Problem 14 Solution](https://drive.google.com/file/d/1uNONj1e0RDg2jn1cOwZRyA_KSg5XLyzw/view?usp=sharing){:target="_blank"}
 Thursday Feb 10 | [Group Problem 15](https://drive.google.com/file/d/1bwYO0nrePg8P6hh4V_G8xiZYOK4BMHfv/view?usp=sharing){:target="_blank"} <br> [Group Problem 16](https://drive.google.com/file/d/1hAcEvh4GPKV0rh8avT6UsczUW7XzNQJN/view?usp=sharing){:target="_blank"} | [Group Problem 15 Solution](https://drive.google.com/file/d/19QBPn6hlxOa1qeDAclcD56EBGK-H7MqW/view?usp=sharing){:target="_blank"} <br> [Group Problem 16 Solution](https://drive.google.com/file/d/1jyQrwxf27aSEUeV8IDfyVnRiymkRKlDk/view?usp=sharing){:target="_blank"}
 
-
 <br>
+
 
 Week 5 |  |  | |
 Date | Problem pdf | Solution
@@ -83,6 +80,7 @@ Thursday Feb 17 | [Group Problem 19](https://drive.google.com/file/d/1hggfYZm4sS
 
 <br>
 
+
 Week 6 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
@@ -90,7 +88,6 @@ Tuesday Feb 22 | [Group Problem 21](https://drive.google.com/file/d/11bJPTliy8Jd
 Thursday Feb 24 | [Group Problem 23](https://drive.google.com/file/d/1qoZskMKJ6eLm712awEEFXT0hoEzw9Chn/view?usp=sharing){:target="_blank"} <br> [Group Problem 24](https://drive.google.com/file/d/1iv22_bZTX2chWmSdQBgO-sMH9BTHO83L/view?usp=sharing){:target="_blank"} | [Group Problem 23 Solution](https://drive.google.com/file/d/1PlRxMitgPERFS7gnHDykBbMU3JOLdYqi/view?usp=sharing){:target="_blank"} <br> [Group Problem 24 Solution](https://drive.google.com/file/d/1xGIjrboajjGf239c83VTylP2O0AnvguM/view?usp=sharing){:target="_blank"}
 
 <br>
-
 
 
 #### Week 7
@@ -107,7 +104,6 @@ Our midterm exam (75 minutes long) will take place in-person on Thursday March 3
 <br>
 
 
-
 Week 8 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
@@ -115,7 +111,6 @@ Tuesday Mar 8 | [Group Problem 25](https://drive.google.com/file/d/1LxAibcrORHLa
 Thursday Mar 10 | [Group Problem 27](https://drive.google.com/file/d/1s48fnwMfp7p6dRAgR5rDRT2hlPE2IPuD/view?usp=sharing){:target="_blank"} <br> [Group Problem 28](https://drive.google.com/file/d/1jcBbbe5tOiSHMRaQpsYiuxmC9CLu4TmX/view?usp=sharing){:target="_blank"} | [Group Problem 27 Solution](https://drive.google.com/file/d/17d5ixK3BxzuGdzBib93ZKyjEBUV3OI2C/view?usp=sharing){:target="_blank"} <br> [Group Problem 28 Solution](https://drive.google.com/file/d/1KJaoTEbnSOJcrNnootuvcWhw-71n4Cfj/view?usp=sharing){:target="_blank"}
 
 <br>
-
 
 
 Week 9  |  |  | |
@@ -127,7 +122,6 @@ Thursday Mar 24 | [Group Problem 31](https://drive.google.com/file/d/1659QWqIGFq
 <br>
 
 
-
 Week 10  |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
@@ -135,7 +129,6 @@ Tuesday Mar 29 | [Group Problem 33](https://drive.google.com/file/d/1EsOmyF1Tf-8
 Thursday Mar 31 | [Group Problem 35](https://drive.google.com/file/d/1kHK9qNR-GFaWsQ_iQx8BYAXtj5LiBE8f/view?usp=sharing){:target="_blank"} <br> [Group Problem 36](https://drive.google.com/file/d/128YnfYIFLsN0BKPan4LFYeZDROd1Zlvt/view?usp=sharing){:target="_blank"} | [Group Problem 35 Solution](https://drive.google.com/file/d/1E-dwzn0AV__y7ZiCxGNjGKi6CIgmV2-L/view?usp=sharing){:target="_blank"} <br> [Group Problem 36 Solution](https://drive.google.com/file/d/1bY3x-KV8lfiLBqdNgPH2BRmOg8hx2fWH/view?usp=sharing){:target="_blank"}
 
 <br>
-
 
 
 Week 11 |  |  | |
@@ -146,21 +139,22 @@ Thursday Apr 7 | [Group Problem W11Th](https://drive.google.com/file/d/1nmaCX153
 <br>
 
 
-
-Week 12 |  |  | |
----| --- | -- | -- |
-Tuesday Apr 12 | [Group Problem 39](https://drive.google.com/file/d/1-fhLxGHGg2U3sgNayY22aMorqvqecg3l/view?usp=sharing){:target="_blank"} <br> [Group Problem 40](https://drive.google.com/file/d/1-z9-5DcyPiviH0VfmcmnLl1TDAUHGkWL/view?usp=sharing){:target="_blank"} | [Group Problem 39 Solution](https://drive.google.com/file/d/1sBG2w228qwYxVRw5csm_wrtPZERbhhDe/view?usp=sharing){:target="_blank"} <br> [Group Problem 40 Solution](https://drive.google.com/file/d/1LEt5xFV382MPsHEfoorPmkyMo25rlNGs/view?usp=sharing){:target="_blank"}
-Thursday Apr 14 | [Group Problem 41](https://drive.google.com/file/d/1cP-rZXSjnDXWk1T0QcgwpwAFoi40dGYi/view?usp=sharing){:target="_blank"} <br> [Group Problem 42](https://drive.google.com/file/d/1Lmrf_hSzvqNItBJULkaV-CHuygVA3vGW/view?usp=sharing){:target="_blank"} | [Group Problem 41 Solution](){:target="_blank"} <br> [Group Problem 42 Solution](){:target="_blank"}
-
-<br>
-
-<!--
-
 Week 12 |  |  | |
 ---| --- | -- | -- |
 Tuesday Apr 12 | [Group Problem 39](https://drive.google.com/file/d/1-fhLxGHGg2U3sgNayY22aMorqvqecg3l/view?usp=sharing){:target="_blank"} <br> [Group Problem 40](https://drive.google.com/file/d/1-z9-5DcyPiviH0VfmcmnLl1TDAUHGkWL/view?usp=sharing){:target="_blank"} | [Group Problem 39 Solution](https://drive.google.com/file/d/1sBG2w228qwYxVRw5csm_wrtPZERbhhDe/view?usp=sharing){:target="_blank"} <br> [Group Problem 40 Solution](https://drive.google.com/file/d/1LEt5xFV382MPsHEfoorPmkyMo25rlNGs/view?usp=sharing){:target="_blank"}
 Thursday Apr 14 | [Group Problem 41](https://drive.google.com/file/d/1cP-rZXSjnDXWk1T0QcgwpwAFoi40dGYi/view?usp=sharing){:target="_blank"} <br> [Group Problem 42](https://drive.google.com/file/d/1Lmrf_hSzvqNItBJULkaV-CHuygVA3vGW/view?usp=sharing){:target="_blank"} | [Group Problem 41 Solution](https://drive.google.com/file/d/1m84B7LBGLxg1bOPLBjd6ko9LmDjOjPPu/view?usp=sharing){:target="_blank"} <br> [Group Problem 42 Solution](https://drive.google.com/file/d/1tgQR82-88kP02XVFRo3YHLxfHbAzeKOE/view?usp=sharing){:target="_blank"}
 
+<br>
+
+
+Week 13 |  |  | |
+---| --- | -- | -- |
+Tuesday Apr 19 | [Group Problem 43](https://drive.google.com/file/d/1Z2o14QkHioo3SqT9mre3WPmCPy-3FYag/view?usp=sharing){:target="_blank"} <br> [Group Problem 44](https://drive.google.com/file/d/1R4bEThJPY5ktTcotfAHfdHjkuRmfHvIb/view?usp=sharing){:target="_blank"} | [Group Problem 43 Solution] <br> [Group Problem 44 Solution]
+Thursday Apr 21 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPumCF6j7XwQaWPzJSYESsC8YH/view?usp=sharing){:target="_blank"} <br> [Group Problem 46](https://drive.google.com/file/d/1ysR-b5vvhaMzA4BD_QfH6DfxpNLXozpb/view?usp=sharing){:target="_blank"} | [Group Problem 45 Solution] <br> [Group Problem 46 Solution]
+
+
+
+<!--
 
 
 
@@ -168,6 +162,11 @@ Week 13 |  |  | |
 ---| --- | -- | -- |
 Tuesday Apr 19 | [Group Problem 43](https://drive.google.com/file/d/1Z2o14QkHioo3SqT9mre3WPmCPy-3FYag/view?usp=sharing){:target="_blank"} <br> [Group Problem 44](https://drive.google.com/file/d/1R4bEThJPY5ktTcotfAHfdHjkuRmfHvIb/view?usp=sharing){:target="_blank"} | [Group Problem 43 Solution](https://drive.google.com/file/d/1WRAQacIzuDDkKsOEFZBGw6FF9k1OPT86/view?usp=sharing){:target="_blank"} <br> [Group Problem 44 Solution](https://drive.google.com/file/d/149khstjgmPuh5Tvr6-BGMb9G_ngM5Jma/view?usp=sharing){:target="_blank"}
 Thursday Apr 21 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPumCF6j7XwQaWPzJSYESsC8YH/view?usp=sharing){:target="_blank"} <br> [Group Problem 46](https://drive.google.com/file/d/1ysR-b5vvhaMzA4BD_QfH6DfxpNLXozpb/view?usp=sharing){:target="_blank"} | [Group Problem 45 Solution](https://drive.google.com/file/d/1GsGNr1_G482jazbwkf_3vnHZRIGzxEQP/view?usp=sharing){:target="_blank"} <br> [Group Problem 46 Solution](https://drive.google.com/file/d/12JnNG0v29uRMlEi3XmvFHeFOYLt7oAwT/view?usp=sharing){:target="_blank"}
+
+Week 14 |  |  | |
+---| --- | -- | -- |
+Tuesday Apr 26 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2JrEicBsAkSl5aU_9t1qSS/view?usp=sharing){:target="_blank"} | [Group Problem 47 Solution](https://drive.google.com/file/d/1O-Q5cPezBRaKjqqBi5MO7B-7v7KS1SJl/view?usp=sharing){:target="_blank"}
+Thursday Apr 28 | No Group Problems
 
 -->
 
