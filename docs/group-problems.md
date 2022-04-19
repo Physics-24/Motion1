@@ -149,14 +149,12 @@ Thursday Apr 14 | [Group Problem 41](https://drive.google.com/file/d/1cP-rZXSjnD
 
 Week 13 |  |  | |
 ---| --- | -- | -- |
-Tuesday Apr 19 | [Group Problem 43](https://drive.google.com/file/d/1Z2o14QkHioo3SqT9mre3WPmCPy-3FYag/view?usp=sharing){:target="_blank"} <br> [Group Problem 44](https://drive.google.com/file/d/1R4bEThJPY5ktTcotfAHfdHjkuRmfHvIb/view?usp=sharing){:target="_blank"} | [Group Problem 43 Solution] <br> [Group Problem 44 Solution]
+Tuesday Apr 19 | [Group Problem 43](https://drive.google.com/file/d/1Z2o14QkHioo3SqT9mre3WPmCPy-3FYag/view?usp=sharing){:target="_blank"} <br> [Group Problem 44](https://drive.google.com/file/d/1R4bEThJPY5ktTcotfAHfdHjkuRmfHvIb/view?usp=sharing){:target="_blank"} | [Group Problem 43 Solution](https://drive.google.com/file/d/1WRAQacIzuDDkKsOEFZBGw6FF9k1OPT86/view?usp=sharing){:target="_blank"} <br> [Group Problem 44 Solution](https://drive.google.com/file/d/149khstjgmPuh5Tvr6-BGMb9G_ngM5Jma/view?usp=sharing){:target="_blank"}
 Thursday Apr 21 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPumCF6j7XwQaWPzJSYESsC8YH/view?usp=sharing){:target="_blank"} <br> [Group Problem 46](https://drive.google.com/file/d/1ysR-b5vvhaMzA4BD_QfH6DfxpNLXozpb/view?usp=sharing){:target="_blank"} | [Group Problem 45 Solution] <br> [Group Problem 46 Solution]
 
 
 
 <!--
-
-
 
 Week 13 |  |  | |
 ---| --- | -- | -- |
