@@ -150,21 +150,19 @@ Thursday Apr 14 | [Group Problem 41](https://drive.google.com/file/d/1cP-rZXSjnD
 Week 13 |  |  | |
 ---| --- | -- | -- |
 Tuesday Apr 19 | [Group Problem 43](https://drive.google.com/file/d/1Z2o14QkHioo3SqT9mre3WPmCPy-3FYag/view?usp=sharing){:target="_blank"} <br> [Group Problem 44](https://drive.google.com/file/d/1R4bEThJPY5ktTcotfAHfdHjkuRmfHvIb/view?usp=sharing){:target="_blank"} | [Group Problem 43 Solution](https://drive.google.com/file/d/1WRAQacIzuDDkKsOEFZBGw6FF9k1OPT86/view?usp=sharing){:target="_blank"} <br> [Group Problem 44 Solution](https://drive.google.com/file/d/149khstjgmPuh5Tvr6-BGMb9G_ngM5Jma/view?usp=sharing){:target="_blank"}
-Thursday Apr 21 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPumCF6j7XwQaWPzJSYESsC8YH/view?usp=sharing){:target="_blank"} <br> [Group Problem 46](https://drive.google.com/file/d/1ysR-b5vvhaMzA4BD_QfH6DfxpNLXozpb/view?usp=sharing){:target="_blank"} | [Group Problem 45 Solution] <br> [Group Problem 46 Solution]
-
-
-
-<!--
-
-Week 13 |  |  | |
----| --- | -- | -- |
-Tuesday Apr 19 | [Group Problem 43](https://drive.google.com/file/d/1Z2o14QkHioo3SqT9mre3WPmCPy-3FYag/view?usp=sharing){:target="_blank"} <br> [Group Problem 44](https://drive.google.com/file/d/1R4bEThJPY5ktTcotfAHfdHjkuRmfHvIb/view?usp=sharing){:target="_blank"} | [Group Problem 43 Solution](https://drive.google.com/file/d/1WRAQacIzuDDkKsOEFZBGw6FF9k1OPT86/view?usp=sharing){:target="_blank"} <br> [Group Problem 44 Solution](https://drive.google.com/file/d/149khstjgmPuh5Tvr6-BGMb9G_ngM5Jma/view?usp=sharing){:target="_blank"}
 Thursday Apr 21 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPumCF6j7XwQaWPzJSYESsC8YH/view?usp=sharing){:target="_blank"} <br> [Group Problem 46](https://drive.google.com/file/d/1ysR-b5vvhaMzA4BD_QfH6DfxpNLXozpb/view?usp=sharing){:target="_blank"} | [Group Problem 45 Solution](https://drive.google.com/file/d/1GsGNr1_G482jazbwkf_3vnHZRIGzxEQP/view?usp=sharing){:target="_blank"} <br> [Group Problem 46 Solution](https://drive.google.com/file/d/12JnNG0v29uRMlEi3XmvFHeFOYLt7oAwT/view?usp=sharing){:target="_blank"}
+
+<br>
+
 
 Week 14 |  |  | |
 ---| --- | -- | -- |
-Tuesday Apr 26 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2JrEicBsAkSl5aU_9t1qSS/view?usp=sharing){:target="_blank"} | [Group Problem 47 Solution](https://drive.google.com/file/d/1O-Q5cPezBRaKjqqBi5MO7B-7v7KS1SJl/view?usp=sharing){:target="_blank"}
-Thursday Apr 28 | No Group Problems
+Tuesday Apr 26 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2JrEicBsAkSl5aU_9t1qSS/view?usp=sharing){:target="_blank"} | [Group Problem 47 Solution]
+Thursday Apr 28 | No Group Problems - Final Lecture in Galileo
+
+<!--
+
+[Group Problem 47 Solution](https://drive.google.com/file/d/1O-Q5cPezBRaKjqqBi5MO7B-7v7KS1SJl/view?usp=sharing){:target="_blank"}
 
 -->
 
