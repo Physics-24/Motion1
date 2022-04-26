@@ -157,12 +157,10 @@ Thursday Apr 21 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPum
 
 Week 14 |  |  | |
 ---| --- | -- | -- |
-Tuesday Apr 26 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2JrEicBsAkSl5aU_9t1qSS/view?usp=sharing){:target="_blank"} | [Group Problem 47 Solution]
+Tuesday Apr 26 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2JrEicBsAkSl5aU_9t1qSS/view?usp=sharing){:target="_blank"} | [Group Problem 47 Solution](https://drive.google.com/file/d/1O-Q5cPezBRaKjqqBi5MO7B-7v7KS1SJl/view?usp=sharing){:target="_blank"}
 Thursday Apr 28 | No Group Problems - Final Lecture in Galileo
 
 <!--
-
-[Group Problem 47 Solution](https://drive.google.com/file/d/1O-Q5cPezBRaKjqqBi5MO7B-7v7KS1SJl/view?usp=sharing){:target="_blank"}
 
 -->
 

@@ -173,7 +173,7 @@ due by Sun Apr 17 at noon <br> **Time limit: 30 minutes** | [Solo Problem 21](ht
 Week 13 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
 due by Sun Apr 24 at noon <br> **Time limit: 30 minutes** | [Solo Problem 22](https://www.gradescope.com/courses/355613/assignments/1773062){:target="_blank"} | [Solo Problem 22 pdf]  [Solo Problem 22 Solution] 
-due by Sun Apr 24 at noon <br> **Time limit: 30 minutes** | [Solo Problem 23](https://www.gradescope.com/courses/355613/assignments/1773060){:target="_blank"} | [Solo Problem 23 pdf] [Solo Problem 23 Solution] 
+due by Sun Apr 24 at noon <br> **Time limit: 30 minutes** | [Solo Problem 23](https://www.gradescope.com/courses/355613/assignments/1773060){:target="_blank"} | [Solo Problem 23 pdf] [Solo Problem 23 Solution]
 
 <!--
 
