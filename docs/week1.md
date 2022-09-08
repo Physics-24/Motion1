@@ -14,19 +14,14 @@ This week is all about "describing motion", which is also called kinematics. Eve
 - [Week 1: Jan 18 - Jan 22](#week-1-jan-18---jan-22)
   - [Topics](#topics)
     - [1. Representing Position as a Vector](#1-representing-position-as-a-vector)
-        - [(open video in new tab{:target="_blank"})](#open-video-in-new-tabtarget_blank)
       - [Miniquestion 1: Representing position as a vector (due Wed 8am)](#miniquestion-1-representing-position-as-a-vector-due-wed-8am)
     - [2. Relative Position and Velocity](#2-relative-position-and-velocity)
-        - [(open video in new tab{:target="_blank"})](#open-video-in-new-tabtarget_blank-1)
       - [Miniquestion 2: Relative Position and Velocity (due Wed 8am)](#miniquestion-2-relative-position-and-velocity-due-wed-8am)
     - [3. Position, Velocity, and Acceleration](#3-position-velocity-and-acceleration)
-        - [(open video in new tab{:target="_blank"})](#open-video-in-new-tabtarget_blank-2)
       - [Miniquestion 3: Position, Velocity, and Acceleration (due Wed 8am)](#miniquestion-3-position-velocity-and-acceleration-due-wed-8am)
     - [4. Constant Acceleration Motion](#4-constant-acceleration-motion)
-        - [(open video in new tab{:target="_blank"})](#open-video-in-new-tabtarget_blank-3)
       - [Miniquestion 4: Constant Acceleration Motion? (due Wed 8am)](#miniquestion-4-constant-acceleration-motion-due-wed-8am)
     - [5. Uniform Circular Motion](#5-uniform-circular-motion)
-        - [(open video in new tab{:target="_blank"})](#open-video-in-new-tabtarget_blank-4)
       - [Miniquestion 5: Uniform Circular Motion (due Wed 8am)](#miniquestion-5-uniform-circular-motion-due-wed-8am)
   - [Optional Readings and Extra Problems](#optional-readings-and-extra-problems)
 
@@ -38,7 +33,7 @@ Full textbook readings and optional extra problems available at the [bottom of t
 
 ### 1. Representing Position as a Vector
 
-##### ([open video in new tab](https://drive.google.com/file/d/1tpGrI5lH5fsEzOdhocwK8UvpbXoaqbb9/view){:target="_blank"})
+([open video in new tab](https://drive.google.com/file/d/1tpGrI5lH5fsEzOdhocwK8UvpbXoaqbb9/view){:target="_blank"})
 
 <iframe src="https://drive.google.com/file/d/1tpGrI5lH5fsEzOdhocwK8UvpbXoaqbb9/preview" width="640" height="480" allowfullscreen>
 </iframe>
@@ -63,7 +58,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 2. Relative Position and Velocity
 
-##### ([open video in new tab](https://drive.google.com/file/d/19K374tGj_L2QkoXp9VlfkUzSSHv5nmxf/view){:target="_blank"})
+([open video in new tab](https://drive.google.com/file/d/19K374tGj_L2QkoXp9VlfkUzSSHv5nmxf/view){:target="_blank"})
 
 <iframe src="https://drive.google.com/file/d/19K374tGj_L2QkoXp9VlfkUzSSHv5nmxf/preview" width="640" height="480" allowfullscreen>
 </iframe>
@@ -89,7 +84,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 3. Position, Velocity, and Acceleration 
 
-##### ([open video in new tab](https://drive.google.com/file/d/1_U3ekLf3m8BhGZwtpZClzS6gIYjsTTDV/view){:target="_blank"})
+([open video in new tab](https://drive.google.com/file/d/1_U3ekLf3m8BhGZwtpZClzS6gIYjsTTDV/view){:target="_blank"})
 
 <iframe src="https://drive.google.com/file/d/1_U3ekLf3m8BhGZwtpZClzS6gIYjsTTDV/preview" width="640" height="480" allowfullscreen>
 </iframe>
@@ -112,7 +107,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 4. Constant Acceleration Motion
 
-##### ([open video in new tab](https://drive.google.com/file/d/1hyJEDiWCRIZdxgHRKExTUtwEsfNU02cG/view){:target="_blank"})
+([open video in new tab](https://drive.google.com/file/d/1hyJEDiWCRIZdxgHRKExTUtwEsfNU02cG/view){:target="_blank"})
 
 
 <iframe src="https://drive.google.com/file/d/1hyJEDiWCRIZdxgHRKExTUtwEsfNU02cG/preview" width="640" height="480" allowfullscreen>
@@ -142,7 +137,7 @@ Recommended: [*Click here to open the miniquestion in a new tab*](https://forms.
 
 ### 5. Uniform Circular Motion
 
-##### ([open video in new tab](https://drive.google.com/file/d/1l95wYplIZ4uO4JoUrukjKc8MsOqZr1_n/view){:target="_blank"})
+([open video in new tab](https://drive.google.com/file/d/1l95wYplIZ4uO4JoUrukjKc8MsOqZr1_n/view){:target="_blank"})
 
 <iframe src="https://drive.google.com/file/d/1l95wYplIZ4uO4JoUrukjKc8MsOqZr1_n/preview" width="640" height="480" allowfullscreen>
 </iframe>
