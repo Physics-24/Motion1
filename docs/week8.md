@@ -1,10 +1,10 @@
-# Week 8: Mar 6 - Mar 12
+# Week 8: Mar 5 - Mar 11
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday March 7 at 8am**
+**The miniquestions for topics 1-3 on this page are due on Monday March 6 at 8am**
 
-**The miniquestions for topics 4-5 on this page are due on Wednesday March 9 at 8am**
+**The miniquestions for topics 4-5 on this page are due on Wednesday March 8 at 8am**
 
 <br>
 

@@ -1,8 +1,8 @@
-# Week 14: Apr 24 - Apr 30
+# Week 14: Apr 23 - Apr 29
 
 <br>
 
-**The miniquestions for all topics on this page are due on Monday April 25 at 8am**
+**The miniquestions for all topics on this page are due on Monday April 24 at 8am**
 
 <br>
 

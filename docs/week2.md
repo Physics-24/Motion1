@@ -1,8 +1,8 @@
-# Week 2: Jan 23 - Jan 29
+# Week 2: Jan 22 - Jan 28
 
 <br>
 
-**The miniquestions for topics 1-3 on this page are due on Monday January 24 8am. The miniquestions for topics 4-5 are due on Wednesday January 26 8am**
+**The miniquestions for topics 1-3 on this page are due on Monday January 23 8am. The miniquestions for topics 4-5 are due on Wednesday January 25 8am**
 
 
 <br>

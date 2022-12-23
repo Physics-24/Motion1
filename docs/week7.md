@@ -1,10 +1,10 @@
-# Week 7: Feb 27 - Mar 5
+# Week 7: Feb 26 - Mar 4
 
 <br>
 
 This week there is no new content. There are no videos, no miniquestions, no group problems, no solo problems. Our focus is on practicing and reviewing for the midterm exam.
 
-Our midterm exam (75 minutes long) will take place during class on Thursday, March 3 at 8:10-9:25 am. 
+Our midterm exam (75 minutes long) will take place during class on Thursday, March 2 at 8:10-9:25 am or 9:35-10:50 am. 
 
 Although there is nothing else to hand in, we are still meeting during our usual recitation times. Instead of the usual 3 problems in each recitation and 2 problems in each group problem session, we are releasing a 7-problem combined review set (see below). This review set includes the same cover sheet you will receive on your midterm. On Monday your recitation instructor will make some recommendations for how to most effectively use your time this week and outline their plan for Monday/Wednesday recitation.
 

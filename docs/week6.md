@@ -1,10 +1,10 @@
-# Week 6: Feb 20 - Feb 26
+# Week 6: Feb 19 - Feb 25
 
 <br>
 
-**The miniquestions for topics 1-2 on this page are due on Monday February 21 at  8am**
+**The miniquestions for topics 1-2 on this page are due on Monday February 20 at  8am**
 
-**The miniquestions for topics 3-4 on this page are due on Wednesday February 23 at  8am**
+**The miniquestions for topics 3-4 on this page are due on Wednesday February 22 at  8am**
 
 <br>
 

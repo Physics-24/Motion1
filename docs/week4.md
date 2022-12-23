@@ -1,10 +1,10 @@
-# Week 4: Feb 6 - Feb 12
+# Week 4: Feb 5 - Feb 11
 
 <br>
 
-**The miniquestions for topics 1-2 on this page are due on Monday February 7 at  8am**
+**The miniquestions for topics 1-2 on this page are due on Monday February 6 at  8am**
 
-**The miniquestions for topics 3-4 on this page are due on Wednesday February 9 at  8am**
+**The miniquestions for topics 3-4 on this page are due on Wednesday February 8 at  8am**
 
 <br>
 

@@ -1,8 +1,8 @@
-# Week 1: Jan 18 - Jan 22
+# Week 1: Jan 17 - Jan 21
 
 <br>
 
-Normally, the miniquestions are due Mondays at  8am. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 19 at  8am.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
+Normally, the miniquestions are due Mondays at  8am. But because this is the first week, **the miniquestions for all of the topics on this page are due on Wednesday January 18 at  8am.** If possible, please complete them as early as you can to make the most of your in-class time this week. Remember that the miniquestions are graded on completeness, not on whether you got the correct answer right away.
 
 
 <br>
@@ -11,7 +11,7 @@ This week is all about "describing motion", which is also called kinematics. Eve
 
 ## Topics
 
-- [Week 1: Jan 18 - Jan 22](#week-1-jan-18---jan-22)
+- [Week 1: Jan 17 - Jan 21](#week-1-jan-18---jan-22)
   - [Topics](#topics)
     - [1. Representing Position as a Vector](#1-representing-position-as-a-vector)
       - [Miniquestion 1: Representing position as a vector (due Wed 8am)](#miniquestion-1-representing-position-as-a-vector-due-wed-8am)
