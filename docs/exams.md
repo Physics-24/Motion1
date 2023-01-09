@@ -2,7 +2,7 @@
 
 The midterm will take place on Thursday March 2 during your usual Group Problem session. The midterm is in-person, 75 minutes long, and closed book.
 
-[Solutions](https://drive.google.com/file/d/1UTvv65Jj1V-73Fjk_riI9znyQxFVA8WS/view?usp=sharing){:target="_blank"}
+More information will be posted here the week before the midterm.
 
 # Final Exam Information
 
