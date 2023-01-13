@@ -25,9 +25,8 @@ Groups 34-39  Shanahan B470
 
 Groups 40-44  Shanahan B445
 
-![Shan Basement Map](images/Shan-Basement-Map-with-Group-Numbers.png)
 
-
+<img src = "images/Shan-Basement-Map-with-Group-Numbers.png" width="300">
 
 For the Group Problems, our aim is to not make this feel like a stressful, rushed time together. Although your group might not get through both problems, you will get the majority of the credit for submitting a good-faith effort. Be sure to start by drawing picture(s) and state principle(s) you use.
 
@@ -51,7 +50,13 @@ Date | Problem pdf | Solution
 Tuesday Jan 17 | No Group Problem 1 (numbering starts at 2) <br> [Group Problem 2](https://drive.google.com/file/d/150GK8kMKj-nW0JFEfg_7qhF1wu-S2HvT/view?usp=sharing){:target="_blank"} |  <br> [Group Problem 2 Solution](https://drive.google.com/file/d/1wMvtgtCFFPMW2Td142Mw43AW_ZhDNaOp/view?usp=sharing){:target="_blank"}
 Thursday Jan 19 | [Group Problem 3](https://drive.google.com/file/d/1mpcpCSFff_FwHOLNXrbLMYhVxw5O0XBr/view?usp=sharing){:target="_blank"} <br> [Group Problem 4](https://drive.google.com/file/d/1A0wUGSVsDJfGAwVw_MnUF1h4ZGTIi1Ep/view?usp=sharing){:target="_blank"} | [Group Problem 3 Solution](https://drive.google.com/file/d/1rUiqba4vR9Y6KQS8RXi84l60mfe9uW_O/view?usp=sharing){:target="_blank"}  <br> [Group Problem 4 Solution](https://drive.google.com/file/d/1dUjvrohkQyOV-ebmqzJgMr89PW2mTWsS/view?usp=sharing){:target="_blank"}
 
+
+
 <br>
+
+
+<a id="bottom"></a>
+<!-- 
 
 
 Week 2 |  |  | |
@@ -169,7 +174,6 @@ Week 14 |  |  | |
 Tuesday Apr 25 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2JrEicBsAkSl5aU_9t1qSS/view?usp=sharing){:target="_blank"} | [Group Problem 47 Solution](https://drive.google.com/file/d/1O-Q5cPezBRaKjqqBi5MO7B-7v7KS1SJl/view?usp=sharing){:target="_blank"}
 Thursday Apr 27 | No Group Problems - Final Lecture in Galileo
 
-<!--
 
 -->
 
@@ -182,4 +186,3 @@ Thursday Apr 27 | No Group Problems - Final Lecture in Galileo
 
 
 
-<a id="bottom"></a>
