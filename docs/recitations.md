@@ -15,8 +15,8 @@ Recitation participation is synchronous and mandatory. Recitation participation 
 
 Week 1 |  |  | |
 ---| --- | -- | -- |
-Monday Jan 18 | No Recitation Set 1 - No Class | | 
-Wednesday Jan 20 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1ofRIcHLF43nx0xS75Ss0TZncuyFsgcNq/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1HxrleH_kah0-HNlh0ASkXJ1GV0Psegdu/view?usp=sharing){:target="_blank"}
+Monday Jan 16 | No Recitation Set 1 - No Class | | 
+Wednesday Jan 18 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view?usp=sharing){:target="_blank"} | [Answers](https://drive.google.com/file/d/1ofRIcHLF43nx0xS75Ss0TZncuyFsgcNq/view?usp=sharing){:target="_blank"} | [Solutions](https://drive.google.com/file/d/1HxrleH_kah0-HNlh0ASkXJ1GV0Psegdu/view?usp=sharing){:target="_blank"}
 
 <br>
 
