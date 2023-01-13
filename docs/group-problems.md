@@ -15,15 +15,13 @@ Please look up [your assigned group number here](https://drive.google.com/file/d
 
 -->
 
-Groups 1-13  Shanahan B442
-
-Groups 14-25  Shanahan B450
-
-Groups 26-33  Shanahan B454
-
-Groups 34-39  Shanahan B470
-
-Groups 40-44  Shanahan B445
+Group # | Location
+-------| -------
+Groups 1-13 | Shanahan B442
+Groups 14-25 | Shanahan B450
+Groups 26-33 | Shanahan B454
+Groups 34-39 | Shanahan B470
+Groups 40-44 | Shanahan B445
 
 
 <img src = "images/Shan-Basement-Map-with-Group-Numbers.png" width="300">
