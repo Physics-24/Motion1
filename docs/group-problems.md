@@ -24,7 +24,7 @@ Groups 34-39 | Shanahan B470
 Groups 40-44 | Shanahan B445
 
 
-<img src = "images/Shan-Basement-Map-with-Group-Numbers.png" width="300">
+<img src = "images/Shan-Basement-Map-with-Group-Numbers.png" width="400">
 
 For the Group Problems, our aim is to not make this feel like a stressful, rushed time together. Although your group might not get through both problems, you will get the majority of the credit for submitting a good-faith effort. Be sure to start by drawing picture(s) and state principle(s) you use.
 
@@ -53,7 +53,7 @@ Thursday Jan 19 | [Group Problem 3](https://drive.google.com/file/d/1mpcpCSFff_F
 <br>
 
 
-<a id="bottom"></a>
+
 <!-- 
 
 
@@ -182,5 +182,6 @@ Thursday Apr 27 | No Group Problems - Final Lecture in Galileo
 <br>
 
 
+<a id="bottom"></a>
 
 
