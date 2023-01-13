@@ -6,12 +6,6 @@ More information will be posted here the week before the midterm.
 
 # Final Exam Information
 
-[Coversheet](https://drive.google.com/file/d/1P6F5ePCtOBI0ckA_Vlk06jILPojLgjR6/view?usp=sharing){:target="_blank"}
-
-The Ph24 final exam is TBA.
+The Ph24 final exam will take place in-person during exam week (time TBA, so don't make travel arrangements yet). 
 
 The final is closed book, closed notes and other resources; no calculators are allowed.
-
-The final will take place in TBA.
-
-Please arrive 5 minutes early to find a seat and get settled.
