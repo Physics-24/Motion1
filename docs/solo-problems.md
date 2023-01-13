@@ -11,7 +11,7 @@ Solo problems become available each Thursday at noon and the submission window c
 
 <br>
 
-
+<!--
 
 ### Week 1
 
@@ -19,8 +19,8 @@ Solo problems become available each Thursday at noon and the submission window c
 
 Week 1 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Jan 22 at noon <br> **Time limit: 30 minutes** |  [Solo Problem 1](https://www.gradescope.com/courses/355613/assignments/1773149){:target="_blank"} | [Solo Problem 1 pdf](https://drive.google.com/file/d/1m6Ushwem6wO0iUnYwWGVhVsLE5enOhgk/view?usp=sharing){:target="_blank"} | [Solo Problem 1 Solution](https://drive.google.com/file/d/1QRVZetERnJqwP3ZSRExVn3_VQ8WujTPI/view?usp=sharing){:target="_blank"}
-due by Sun Jan 22 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](https://www.gradescope.com/courses/355613/assignments/1773158){:target="_blank"} | [Solo Problem 2 pdf](https://drive.google.com/file/d/1O2IDtGuLajR0eR9GS4wfMtOvG51TL0ka/view?usp=sharing){:target="_blank"} | [Solo Problem 2 Solution](https://drive.google.com/file/d/1gTcrfJCAXuZ2y9vzjias0ZjIkbnLvJzC/view?usp=sharing){:target="_blank"}
+due by Sun Jan 22 at noon <br> **Time limit: 30 minutes** |  [Solo Problem 1](){:target="_blank"} | [Solo Problem 1 pdf](https://drive.google.com/file/d/1m6Ushwem6wO0iUnYwWGVhVsLE5enOhgk/view?usp=sharing){:target="_blank"} | [Solo Problem 1 Solution](https://drive.google.com/file/d/1QRVZetERnJqwP3ZSRExVn3_VQ8WujTPI/view?usp=sharing){:target="_blank"}
+due by Sun Jan 22 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](){:target="_blank"} | [Solo Problem 2 pdf](https://drive.google.com/file/d/1O2IDtGuLajR0eR9GS4wfMtOvG51TL0ka/view?usp=sharing){:target="_blank"} | [Solo Problem 2 Solution](https://drive.google.com/file/d/1gTcrfJCAXuZ2y9vzjias0ZjIkbnLvJzC/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -34,9 +34,9 @@ due by Sun Jan 22 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](htt
 
 Week 2 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/355613/assignments/1773144){:target="_blank"} | [Solo Problem 3 pdf](https://drive.google.com/file/d/110yjrTicoNZrMyLj4ZQq8rAOTzX-JiP8/view?usp=sharing){:target="_blank"} | [Solo Problem 3 Solution](https://drive.google.com/file/d/1XiBvnmWlbQzryOkfszsHqPjKYU6USzAH/view?usp=sharing){:target="_blank"}
+due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 3](){:target="_blank"} | [Solo Problem 3 pdf](https://drive.google.com/file/d/110yjrTicoNZrMyLj4ZQq8rAOTzX-JiP8/view?usp=sharing){:target="_blank"} | [Solo Problem 3 Solution](https://drive.google.com/file/d/1XiBvnmWlbQzryOkfszsHqPjKYU6USzAH/view?usp=sharing){:target="_blank"}
 
-due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/355613/assignments/1773145){:target="_blank"} | [Solo Problem 4 pdf](https://drive.google.com/file/d/1kssGdJs6eKH_XXqNAaQxuAnev5kfqPaH/view?usp=sharing){:target="_blank"} | [Solo Problem 4 Solution](https://drive.google.com/file/d/1HMTYEWCARstyFPrJ1ucQ3PEJJJdUIlCU/view?usp=sharing){:target="_blank"}
+due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](){:target="_blank"} | [Solo Problem 4 pdf](https://drive.google.com/file/d/1kssGdJs6eKH_XXqNAaQxuAnev5kfqPaH/view?usp=sharing){:target="_blank"} | [Solo Problem 4 Solution](https://drive.google.com/file/d/1HMTYEWCARstyFPrJ1ucQ3PEJJJdUIlCU/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -50,9 +50,9 @@ due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](htt
 
 Week 3 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 5](https://www.gradescope.com/courses/355613/assignments/1773139){:target="_blank"} |  [Solo Problem 5 pdf](https://drive.google.com/file/d/1vGWfVP1vPsa5a8K5cr3vUtlfKmf_lK0Q/view?usp=sharing){:target="_blank"} | [Solo Problem 5 Solution](https://drive.google.com/file/d/1Y0Lw2Aa9cbP2aO66OUJdi55iLyEqZPMc/view?usp=sharing){:target="_blank"}
+due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 5](){:target="_blank"} |  [Solo Problem 5 pdf](https://drive.google.com/file/d/1vGWfVP1vPsa5a8K5cr3vUtlfKmf_lK0Q/view?usp=sharing){:target="_blank"} | [Solo Problem 5 Solution](https://drive.google.com/file/d/1Y0Lw2Aa9cbP2aO66OUJdi55iLyEqZPMc/view?usp=sharing){:target="_blank"}
 
-due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](https://www.gradescope.com/courses/355613/assignments/1773138){:target="_blank"} | [Solo Problem 6 pdf](https://drive.google.com/file/d/11lWoRld_pKjfuFTAIWgAL5E6h9XASsfh/view?usp=sharing){:target="_blank"} | [Solo Problem 6 Solution](https://drive.google.com/file/d/1xi7DOzJJQEN1W_rDwFkJKbt97Ib85SRS/view?usp=sharing){:target="_blank"}
+due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](){:target="_blank"} | [Solo Problem 6 pdf](https://drive.google.com/file/d/11lWoRld_pKjfuFTAIWgAL5E6h9XASsfh/view?usp=sharing){:target="_blank"} | [Solo Problem 6 Solution](https://drive.google.com/file/d/1xi7DOzJJQEN1W_rDwFkJKbt97Ib85SRS/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -65,8 +65,8 @@ due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](http
 
 Week 4 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 7](https://www.gradescope.com/courses/355613/assignments/1773134){:target="_blank"} | [Solo Problem 7 pdf](https://drive.google.com/file/d/1JB3l6I_vqQ9qg4ZskYpiSvxYdNvzLxu4/view?usp=sharing){:target="_blank"} | [Solo Problem 7 Solution](https://drive.google.com/file/d/1bv28z6vuSHhDCjRFlhy0Kg7OK5Ro3uhv/view?usp=sharing){:target="_blank"}
-due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 8](https://www.gradescope.com/courses/355613/assignments/1773133){:target="_blank"} | [Solo Problem 8 pdf](https://drive.google.com/file/d/1iLe7sQllKntrxwHFkxOulMEraHXgmO73/view?usp=sharing){:target="_blank"} | [Solo Problem 8 Solution](https://drive.google.com/file/d/1HM-NYxcGdtlYUisdMOqxtta2w1FMfqu5/view?usp=sharing){:target="_blank"}
+due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 7](){:target="_blank"} | [Solo Problem 7 pdf](https://drive.google.com/file/d/1JB3l6I_vqQ9qg4ZskYpiSvxYdNvzLxu4/view?usp=sharing){:target="_blank"} | [Solo Problem 7 Solution](https://drive.google.com/file/d/1bv28z6vuSHhDCjRFlhy0Kg7OK5Ro3uhv/view?usp=sharing){:target="_blank"}
+due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 8](){:target="_blank"} | [Solo Problem 8 pdf](https://drive.google.com/file/d/1iLe7sQllKntrxwHFkxOulMEraHXgmO73/view?usp=sharing){:target="_blank"} | [Solo Problem 8 Solution](https://drive.google.com/file/d/1HM-NYxcGdtlYUisdMOqxtta2w1FMfqu5/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -79,8 +79,8 @@ due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 8](htt
 
 Week 5 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Feb 19 at noon <br> **Time limit: 30 minutes** | [Solo Problem 9](https://www.gradescope.com/courses/355613/assignments/1773127){:target="_blank"} | [Solo Problem 9 pdf](https://drive.google.com/file/d/1mFUZklmp8pzRpHbR0lALKJPuisZacbit/view?usp=sharing){:target="_blank"} | [Solo Problem 9 Solution](https://drive.google.com/file/d/1FJFpTSXM4NuuicVAAIHdanu7z4-maCl_/view?usp=sharing){:target="_blank"}
-due by Sun Feb 19 at noon <br> **Time limit: 30 minutes** | [Solo Problem 10](https://www.gradescope.com/courses/355613/assignments/1773126){:target="_blank"} | [Solo Problem 10 pdf](https://drive.google.com/file/d/1LCQaf2OyJJo_IRKNj_N2t-75KryT6zDJ/view?usp=sharing){:target="_blank"} | [Solo Problem 10 Solution](https://drive.google.com/file/d/19wTwmUBKoNkYYnBVlcyhFcQfnp8swJHR/view?usp=sharing){:target="_blank"}
+due by Sun Feb 19 at noon <br> **Time limit: 30 minutes** | [Solo Problem 9](){:target="_blank"} | [Solo Problem 9 pdf](https://drive.google.com/file/d/1mFUZklmp8pzRpHbR0lALKJPuisZacbit/view?usp=sharing){:target="_blank"} | [Solo Problem 9 Solution](https://drive.google.com/file/d/1FJFpTSXM4NuuicVAAIHdanu7z4-maCl_/view?usp=sharing){:target="_blank"}
+due by Sun Feb 19 at noon <br> **Time limit: 30 minutes** | [Solo Problem 10](){:target="_blank"} | [Solo Problem 10 pdf](https://drive.google.com/file/d/1LCQaf2OyJJo_IRKNj_N2t-75KryT6zDJ/view?usp=sharing){:target="_blank"} | [Solo Problem 10 Solution](https://drive.google.com/file/d/19wTwmUBKoNkYYnBVlcyhFcQfnp8swJHR/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -95,7 +95,7 @@ due by Sun Feb 19 at noon <br> **Time limit: 30 minutes** | [Solo Problem 10](ht
 
 Week 6 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Feb 26 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://www.gradescope.com/courses/355613/assignments/1773120){:target="_blank"} | [Solo Problem 11 pdf](https://drive.google.com/file/d/14yC9j8hVsf89TwjVXXu1vfddkUx41eXx/view?usp=sharing){:target="_blank"} | [Solo Problem 11 Solution](https://drive.google.com/file/d/1WXxrypkXSXMfudddVMpL-NbCmVHrbUGm/view?usp=sharing){:target="_blank"}
+due by Sun Feb 26 <br> **Time limit: 30 minutes** | [Solo Problem 11](){:target="_blank"} | [Solo Problem 11 pdf](https://drive.google.com/file/d/14yC9j8hVsf89TwjVXXu1vfddkUx41eXx/view?usp=sharing){:target="_blank"} | [Solo Problem 11 Solution](https://drive.google.com/file/d/1WXxrypkXSXMfudddVMpL-NbCmVHrbUGm/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -108,8 +108,8 @@ due by Sun Feb 26 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://ww
 
 Week 8 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](https://www.gradescope.com/courses/355613/assignments/1773115){:target="_blank"} | [Solo Problem 12 pdf](https://drive.google.com/file/d/19Mgi5vCGdBohikdp7M5dbdMq7lqQ8Fa6/view?usp=sharing){:target="_blank"} | [Solo Problem 12 Solution](https://drive.google.com/file/d/1bZO7_cc16mbntvdeoW_u8nfiD7xskmWg/view?usp=sharing){:target="_blank"}
-due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](https://www.gradescope.com/courses/355613/assignments/1773110){:target="_blank"} | [Solo Problem 13 pdf](https://drive.google.com/file/d/1WBqGcBmLjSP6IW1DYnCuMk9ZYGI3XlaU/view?usp=sharing){:target="_blank"} | [Solo Problem 13 Solution](https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
+due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](){:target="_blank"} | [Solo Problem 12 pdf](https://drive.google.com/file/d/19Mgi5vCGdBohikdp7M5dbdMq7lqQ8Fa6/view?usp=sharing){:target="_blank"} | [Solo Problem 12 Solution](https://drive.google.com/file/d/1bZO7_cc16mbntvdeoW_u8nfiD7xskmWg/view?usp=sharing){:target="_blank"}
+due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](){:target="_blank"} | [Solo Problem 13 pdf](https://drive.google.com/file/d/1WBqGcBmLjSP6IW1DYnCuMk9ZYGI3XlaU/view?usp=sharing){:target="_blank"} | [Solo Problem 13 Solution](https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -122,8 +122,8 @@ due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](htt
 
 Week 9 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Mar 26 at noon <br> **Time limit: 30 minutes** | [Solo Problem 14](https://www.gradescope.com/courses/355613/assignments/1773108){:target="_blank"} | [Solo Problem 14 pdf](https://drive.google.com/file/d/1O7TzQ6So4B6N6fCqC7VTxhkb791Zer5f/view?usp=sharing){:target="_blank"} | [Solo Problem 14 Solution](https://drive.google.com/file/d/1LLoCcSchFlBOm2vfOgSopBXWKBYpTDHv/view?usp=sharing){:target="_blank"}
-due by Sun Mar 26 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](https://www.gradescope.com/courses/355613/assignments/1773089){:target="_blank"} | [Solo Problem 15 pdf](https://drive.google.com/file/d/1r6OzoHWnKJiyi4TgZMPHtVbh_y7hkPem/view?usp=sharing){:target="_blank"} | [Solo Problem 15 Solution](https://drive.google.com/file/d/1PtKz7L07uetzA-D9iV9B95SdYVEUueVv/view?usp=sharing){:target="_blank"}
+due by Sun Mar 26 at noon <br> **Time limit: 30 minutes** | [Solo Problem 14](){:target="_blank"} | [Solo Problem 14 pdf](https://drive.google.com/file/d/1O7TzQ6So4B6N6fCqC7VTxhkb791Zer5f/view?usp=sharing){:target="_blank"} | [Solo Problem 14 Solution](https://drive.google.com/file/d/1LLoCcSchFlBOm2vfOgSopBXWKBYpTDHv/view?usp=sharing){:target="_blank"}
+due by Sun Mar 26 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](){:target="_blank"} | [Solo Problem 15 pdf](https://drive.google.com/file/d/1r6OzoHWnKJiyi4TgZMPHtVbh_y7hkPem/view?usp=sharing){:target="_blank"} | [Solo Problem 15 Solution](https://drive.google.com/file/d/1PtKz7L07uetzA-D9iV9B95SdYVEUueVv/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -136,8 +136,8 @@ due by Sun Mar 26 at noon <br> **Time limit: 30 minutes** | [Solo Problem 15](ht
 
 Week 10 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 2 at noon <br> **Time limit: 30 minutes** | [Solo Problem 16](https://www.gradescope.com/courses/355613/assignments/1773098){:target="_blank"} | [Solo Problem 16 pdf](https://drive.google.com/file/d/1M3DEk1goPrzb8eZd5Q9mfqvVcwfSJzX8/view?usp=sharing){:target="_blank"} | [Solo Problem 16 Solution](https://drive.google.com/file/d/1_rK6RmXb3-R2KCK9LkfhVhl-nrdTncWv/view?usp=sharing){:target="_blank"}
-due by Sun Apr 2 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](https://www.gradescope.com/courses/355613/assignments/1773096){:target="_blank"} | [Solo Problem 17 pdf](https://drive.google.com/file/d/1KXy3HT4pxfDeQJUeRLD_abqNh_hpU17q/view?usp=sharing){:target="_blank"} | [Solo Problem 17 Solution](https://drive.google.com/file/d/1wlmX7Q0S7IxHe4XaRbRu78W11SAdQhjx/view?usp=sharing){:target="_blank"}
+due by Sun Apr 2 at noon <br> **Time limit: 30 minutes** | [Solo Problem 16](){:target="_blank"} | [Solo Problem 16 pdf](https://drive.google.com/file/d/1M3DEk1goPrzb8eZd5Q9mfqvVcwfSJzX8/view?usp=sharing){:target="_blank"} | [Solo Problem 16 Solution](https://drive.google.com/file/d/1_rK6RmXb3-R2KCK9LkfhVhl-nrdTncWv/view?usp=sharing){:target="_blank"}
+due by Sun Apr 2 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](){:target="_blank"} | [Solo Problem 17 pdf](https://drive.google.com/file/d/1KXy3HT4pxfDeQJUeRLD_abqNh_hpU17q/view?usp=sharing){:target="_blank"} | [Solo Problem 17 Solution](https://drive.google.com/file/d/1wlmX7Q0S7IxHe4XaRbRu78W11SAdQhjx/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -150,8 +150,8 @@ due by Sun Apr 2 at noon <br> **Time limit: 30 minutes** | [Solo Problem 17](htt
 
 Week 11 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 9 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](https://www.gradescope.com/courses/355613/assignments/1773086){:target="_blank"} | [Solo Problem 18 pdf](https://drive.google.com/file/d/1u9s6mwVEkLX64PwPxjACjjOI46CTnv9d/view?usp=sharing){:target="_blank"} | [Solo Problem 18 Solution](https://drive.google.com/file/d/1lLoUq5aD39Cc8YUiHBG3XP9XSjqodKeC/view){:target="_blank"}
-due by Sun Apr 9 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](https://www.gradescope.com/courses/355613/assignments/1773084){:target="_blank"} | [Solo Problem 19 pdf](https://drive.google.com/file/d/1FyIPpEBsUk9yBpT_GrGdQaU7cHWd5zlT/view?usp=sharing){:target="_blank"} | [Solo Problem 19 Solution](https://drive.google.com/file/d/1r-Y-9_GNwfDXAeJgYfgTUP3hXMutLYeK/view?usp=sharing){:target="_blank"}
+due by Sun Apr 9 at noon <br> **Time limit: 30 minutes** | [Solo Problem 18](){:target="_blank"} | [Solo Problem 18 pdf](https://drive.google.com/file/d/1u9s6mwVEkLX64PwPxjACjjOI46CTnv9d/view?usp=sharing){:target="_blank"} | [Solo Problem 18 Solution](https://drive.google.com/file/d/1lLoUq5aD39Cc8YUiHBG3XP9XSjqodKeC/view){:target="_blank"}
+due by Sun Apr 9 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](){:target="_blank"} | [Solo Problem 19 pdf](https://drive.google.com/file/d/1FyIPpEBsUk9yBpT_GrGdQaU7cHWd5zlT/view?usp=sharing){:target="_blank"} | [Solo Problem 19 Solution](https://drive.google.com/file/d/1r-Y-9_GNwfDXAeJgYfgTUP3hXMutLYeK/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -165,8 +165,8 @@ due by Sun Apr 9 at noon <br> **Time limit: 30 minutes** | [Solo Problem 19](htt
 
 Week 12 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 16 at noon <br> **Time limit: 30 minutes** | [Solo Problem 20](https://www.gradescope.com/courses/355613/assignments/1773073){:target="_blank"} | [Solo Problem 20 pdf](https://drive.google.com/file/d/1JQxNXNSxro0HkCFaVCUlVReTpud3lz23/view?usp=sharing){:target="_blank"} [Solo Problem 20 Solution](https://drive.google.com/file/d/1GdSVh3cfQgeGh89QLvFmvHJVOcXkQgHr/view?usp=sharing){:target="_blank"}
-due by Sun Apr 16 at noon <br> **Time limit: 30 minutes** | [Solo Problem 21](https://www.gradescope.com/courses/355613/assignments/1773072){:target="_blank"} | [Solo Problem 21 pdf](https://drive.google.com/file/d/1280JNr6kRmETXpZ1L4kZISzu_w97Hv3U/view?usp=sharing){:target="_blank"}| [Solo Problem 21 Solution](https://drive.google.com/file/d/1G7_Zli12Z6RhV9FkG-cLoUSX8d-tjnK9/view?usp=sharing){:target="_blank"}
+due by Sun Apr 16 at noon <br> **Time limit: 30 minutes** | [Solo Problem 20](){:target="_blank"} | [Solo Problem 20 pdf](https://drive.google.com/file/d/1JQxNXNSxro0HkCFaVCUlVReTpud3lz23/view?usp=sharing){:target="_blank"} [Solo Problem 20 Solution](https://drive.google.com/file/d/1GdSVh3cfQgeGh89QLvFmvHJVOcXkQgHr/view?usp=sharing){:target="_blank"}
+due by Sun Apr 16 at noon <br> **Time limit: 30 minutes** | [Solo Problem 21](){:target="_blank"} | [Solo Problem 21 pdf](https://drive.google.com/file/d/1280JNr6kRmETXpZ1L4kZISzu_w97Hv3U/view?usp=sharing){:target="_blank"}| [Solo Problem 21 Solution](https://drive.google.com/file/d/1G7_Zli12Z6RhV9FkG-cLoUSX8d-tjnK9/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -179,10 +179,10 @@ due by Sun Apr 16 at noon <br> **Time limit: 30 minutes** | [Solo Problem 21](ht
 
 Week 13 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Apr 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 22](https://www.gradescope.com/courses/355613/assignments/1773062){:target="_blank"} | [Solo Problem 22 pdf](https://drive.google.com/file/d/1MMSq14sV-EKV_UicAlzyJcA7X0Ac51AA/view?usp=sharing){:target="_blank"}  [Solo Problem 22 Solution](https://drive.google.com/file/d/1OiJxGzEdQyRVln3i9xKzmSIALgIZEUly/view?usp=sharing){:target="_blank"}
-due by Sun Apr 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 23](https://www.gradescope.com/courses/355613/assignments/1773060){:target="_blank"} | [Solo Problem 23 pdf](https://drive.google.com/file/d/1qXffTDKMko_eJ_yEWsQmQ7jGQ0wB5_1n/view?usp=sharing){:target="_blank"} [Solo Problem 23 Solution](https://drive.google.com/file/d/1iM6Y1p8vuEnCgpPjuMycAOIjn4RIdBit/view?usp=sharing){:target="_blank"}
+due by Sun Apr 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 22](){:target="_blank"} | [Solo Problem 22 pdf](https://drive.google.com/file/d/1MMSq14sV-EKV_UicAlzyJcA7X0Ac51AA/view?usp=sharing){:target="_blank"}  [Solo Problem 22 Solution](https://drive.google.com/file/d/1OiJxGzEdQyRVln3i9xKzmSIALgIZEUly/view?usp=sharing){:target="_blank"}
+due by Sun Apr 23 at noon <br> **Time limit: 30 minutes** | [Solo Problem 23](){:target="_blank"} | [Solo Problem 23 pdf](https://drive.google.com/file/d/1qXffTDKMko_eJ_yEWsQmQ7jGQ0wB5_1n/view?usp=sharing){:target="_blank"} [Solo Problem 23 Solution](https://drive.google.com/file/d/1iM6Y1p8vuEnCgpPjuMycAOIjn4RIdBit/view?usp=sharing){:target="_blank"}
 
-<!--
+
 -->
 
 <br>
