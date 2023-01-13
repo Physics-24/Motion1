@@ -8,6 +8,7 @@ Each week, follow the links below to the content and miniquestions that are assi
 Dates                               | Topics
 ----------------------------------- | --------------------------------------------------
 [Week 1 <br> Jan 17 - Jan 21](week1) |Vectors, kinematics, circular motion
+
 <a id="bottom"></a>
 <!--
 [Week 2 <br> Jan 22 - Jan 28](week2) |  Newton's laws, center-of-mass, conservation of momentum
