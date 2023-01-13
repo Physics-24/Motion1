@@ -9,7 +9,7 @@ Dates                               | Topics
 ----------------------------------- | --------------------------------------------------
 [Week 1 <br> Jan 17 - Jan 21](week1) |Vectors, kinematics, circular motion
 
-<a id="bottom"></a>
+
 
 <!--
 
@@ -38,3 +38,4 @@ Spring Break <br>  Mar 12 - Mar 18 | Nothing due, nothing to do
 
 
 
+<a id="bottom"></a>
