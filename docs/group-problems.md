@@ -20,7 +20,7 @@ Location: Shan basement
 Your specific groups and room # for Week 1-3 will be announced on Monday January 16. 
 
 To help us create productive and happy groups, please fill out this Google Form:
-[Group Problem Preferences Form](https://forms.gle/vzyrZ5mEVzcDExau8){target="_blank"}
+[Group Problem Preferences Form](https://forms.gle/vzyrZ5mEVzcDExau8){:target="_blank"}
 
 
 Group # | Location
