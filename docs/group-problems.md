@@ -13,15 +13,21 @@ Please arrive on time. This will help us sort out the group logistics.
 
 Please look up [your assigned group number here](https://drive.google.com/file/d/1Cchoi_8i1Y2V-IIaKVr5VBkjPJjUKjd8/view?usp=sharing){:target="_blank"} (updated Week 8). Locations for the group numbers are:
 
+-->
+
 Groups 1-13  Shanahan B442
 
-Groups 14-23  Shanahan B450
+Groups 14-25  Shanahan B450
 
-Groups 24-29  Shanahan B454
+Groups 26-33  Shanahan B454
 
-![Room Layout](images/Room-Layout-Group-Numbers.png)
+Groups 34-39  Shanahan B470
 
--->
+Groups 40-44  Shanahan B445
+
+![Shan Basement Map](images/Shan-Basement-Map-with-Group-Numbers.png)
+
+
 
 For the Group Problems, our aim is to not make this feel like a stressful, rushed time together. Although your group might not get through both problems, you will get the majority of the credit for submitting a good-faith effort. Be sure to start by drawing picture(s) and state principle(s) you use.
 
