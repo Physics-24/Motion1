@@ -3,7 +3,7 @@
 
 [Jump to this week's problems](#bottom)
 
-Recitation participation is worth 5% of your overall grade.  Talk to your recitation section instructor about their expectations for the participation grade. If there is a day you cannot attend recitation, please get in contact with your section instructor to let them know. If you have special circumstances (e.g. timezone issues, family responsibilities) which require you to frequently not attend recitation at your scheduled time, please email Prof. Ilton. 
+Recitation participation is worth 5% of your overall grade.  Talk to your recitation section instructor about their expectations for the participation grade. If there is a day you cannot attend recitation, please get in contact with your section instructor to let them know. 
 
 <br>
 
