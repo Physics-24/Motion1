@@ -9,19 +9,16 @@ During your scheduled class time, 8:10am-9:25am or 9:35-10:50am on Tuesdays and 
 
 Please arrive on time. This will help us sort out the group logistics.
 
-<!-- 
-
-Please look up [your assigned group number here](https://drive.google.com/file/d/1Cchoi_8i1Y2V-IIaKVr5VBkjPJjUKjd8/view?usp=sharing){:target="_blank"} (updated Week 8). Locations for the group numbers are:
-
--->
-
 Location: Shan basement
 
-Your specific groups and room # for Week 1-3 will be announced on Monday January 16. 
+Please look up your assigned group number for weeks 1-3 here:
+[Section 1 Tu/Th 8:10am Groups](){:target="_blank"}
+[Section 2 Tu/Th 9:35am Groups](){:target="_blank"}
 
-To help us create productive and happy groups, please fill out this Google Form:
+
+<!-- To help us create productive and happy groups, please fill out this Google Form:
 [Group Problem Preferences Form](https://forms.gle/vzyrZ5mEVzcDExau8){:target="_blank"}
-
+-->
 
 Group # | Location
 -------| -------
