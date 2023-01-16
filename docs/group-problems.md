@@ -12,8 +12,8 @@ Please arrive on time. This will help us sort out the group logistics.
 Location: Shan basement
 
 Please look up your assigned group number for weeks 1-3 here:
-[Section 1 Tu/Th 8:10am Groups](){:target="_blank"}
-[Section 2 Tu/Th 9:35am Groups](){:target="_blank"}
+[Section 1 Tu/Th 8:10am Groups](https://drive.google.com/file/d/10hrba1k_aFGxrnaQkCdIOfWRmxXUEvtO/view?usp=sharing){:target="_blank"}
+[Section 2 Tu/Th 9:35am Groups](https://drive.google.com/file/d/10sufiYEQhjelRbQ652gh0RHJGj6AjL3Y/view?usp=sharing){:target="_blank"}
 
 
 <!-- To help us create productive and happy groups, please fill out this Google Form:
