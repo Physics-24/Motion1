@@ -50,7 +50,7 @@ Solutions for the group problems are made available at noon. We strongly recomme
 Week 1 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
-Tuesday Jan 17 | [Group Problem Intro Slides](https://docs.google.com/presentation/d/10JbN6rmbFt8YhAQL7U9CPqg-JGGssmm2/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} <br> No Group Problem 1 (starts at 2) <br> [Group Problem 2](https://drive.google.com/file/d/150GK8kMKj-nW0JFEfg_7qhF1wu-S2HvT/view?usp=sharing){:target="_blank"} |  <br> [Group Problem 2 Solution](https://drive.google.com/file/d/1wMvtgtCFFPMW2Td142Mw43AW_ZhDNaOp/view?usp=sharing){:target="_blank"}
+Tuesday Jan 17 | [Group Problem Intro Slides](https://drive.google.com/file/d/10OjiIT7_Nc_7PoRvqtmeZ3Q5z-xxtDem/view?usp=share_link){:target="_blank"} <br> No Group Problem 1 (starts at 2) <br> [Group Problem 2](https://drive.google.com/file/d/150GK8kMKj-nW0JFEfg_7qhF1wu-S2HvT/view?usp=sharing){:target="_blank"} |  <br> [Group Problem 2 Solution](https://drive.google.com/file/d/1wMvtgtCFFPMW2Td142Mw43AW_ZhDNaOp/view?usp=sharing){:target="_blank"}
 Thursday Jan 19 | [Group Problem 3](https://drive.google.com/file/d/1mpcpCSFff_FwHOLNXrbLMYhVxw5O0XBr/view?usp=sharing){:target="_blank"} <br> [Group Problem 4](https://drive.google.com/file/d/1A0wUGSVsDJfGAwVw_MnUF1h4ZGTIi1Ep/view?usp=sharing){:target="_blank"} | [Group Problem 3 Solution](https://drive.google.com/file/d/1rUiqba4vR9Y6KQS8RXi84l60mfe9uW_O/view?usp=sharing){:target="_blank"}  <br> [Group Problem 4 Solution](https://drive.google.com/file/d/1dUjvrohkQyOV-ebmqzJgMr89PW2mTWsS/view?usp=sharing){:target="_blank"}
 
 
