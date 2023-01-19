@@ -19,7 +19,7 @@ Wednesday Jan 18 | [Recitation Set 2](https://drive.google.com/file/d/1gRbEpzYTa
 <br>
 
 
-<!--
+
 
 
 Week 2 |  |  | |
@@ -30,6 +30,7 @@ Wednesday Jan 25 | [Recitation Set 4](https://drive.google.com/file/d/1UT3yUP0hO
 <br>
 
 
+<!--
 
 Week 3 |  |  | |
 ---| --- | -- | -- |

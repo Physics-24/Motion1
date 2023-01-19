@@ -59,7 +59,7 @@ Thursday Jan 19 | [Group Problem 3](https://drive.google.com/file/d/1mpcpCSFff_F
 
 
 
-<!-- 
+
 
 
 Week 2 |  |  | |
@@ -69,6 +69,8 @@ Tuesday Jan 24 | [Group Problem 5](https://drive.google.com/file/d/1jGuThA--fAfW
 Thursday Jan 26 | [Group Problem 7](https://drive.google.com/file/d/1S353a9z79xf7Tg4WDrq9hd6kzSRFwM6N/view?usp=sharing){:target="_blank"} <br> [Group Problem 8](https://drive.google.com/file/d/1z7UVwaBp-kBscsdSwegJdq9ysBiu89_t/view?usp=sharing){:target="_blank"} | [Group Problem 7 Solution](https://drive.google.com/file/d/1v_3G9pFVELPH46e4G-SD7OlWG0A0nGxK/view?usp=sharing){:target="_blank"} <br> [Group Problem 8 Solution](https://drive.google.com/file/d/133YNbwtB2oUVnBzgHKvElNajxOtuCgSE/view?usp=sharing){:target="_blank"}
 
 <br>
+
+<!-- 
 
 
 Week 3 |  |  | |
