@@ -36,7 +36,6 @@ due by Sun Jan 22 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](htt
 Week 2 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
 due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/486677/assignments/2551176){:target="_blank"} |  |
-
 due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/486677/assignments/2551177){:target="_blank"} |  |
 
 <br>
