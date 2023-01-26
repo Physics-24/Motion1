@@ -70,17 +70,22 @@ Thursday Jan 26 | [Group Problem 7](https://drive.google.com/file/d/1S353a9z79xf
 
 <br>
 
-<!-- 
+
 
 
 Week 3 |  |  | |
 Date | Problem pdf | Solution
 ---| --- | -- | -- |
-Tuesday Jan 31 | [Group Problem 9](https://drive.google.com/file/d/1ya4OlHRL85EAEb-YbjuwOeinfiRWBKxt/view?usp=sharing){:target="_blank"} <br> [Group Problem 10](https://drive.google.com/file/d/1i0KWfR96KW55Xw0DF02Zs-0PfdAKo7fW/view?usp=sharing){:target="_blank"}   | [Group Problem 9 Solution](https://drive.google.com/file/d/1f6SO0_BLnHQBnB1GLD11PuOjMSz7FJbG/view?usp=sharing){:target="_blank"} <br> [Group Problem 10 Solution](https://drive.google.com/file/d/1NMJDQKI7rZsVkY83eVSo-5QclzAx58Ht/view?usp=sharing){:target="_blank"}
-Thursday Feb 2 | [Group Problem 11](https://drive.google.com/file/d/1o0QS6h5xlfjPwI0mOQspDVZtLonjK4vR/view?usp=sharing){:target="_blank"} <br> [Group Problem 12](https://drive.google.com/file/d/1Qmfv_FD9w2BBjGIfDuRNAEwFU6OImrVs/view?usp=sharing){:target="_blank"}  | [Group Problem 11 Solution](https://drive.google.com/file/d/1mikBtmi5oGAGsTXF1AVZGBllnchN813a/view?usp=sharing){:target="_blank"} <br> [Group Problem 12 Solution](https://drive.google.com/file/d/1aGW-ZUKFrhTLR7ANoA5e-jwuICjhQyqw/view?usp=sharing){:target="_blank"}
+Tuesday Jan 31 | [Group Problem 9](https://drive.google.com/file/d/1ya4OlHRL85EAEb-YbjuwOeinfiRWBKxt/view?usp=sharing){:target="_blank"} <br> [Group Problem 10](https://drive.google.com/file/d/1i0KWfR96KW55Xw0DF02Zs-0PfdAKo7fW/view?usp=sharing){:target="_blank"}   | 
+Thursday Feb 2 | [Group Problem 11](https://drive.google.com/file/d/1o0QS6h5xlfjPwI0mOQspDVZtLonjK4vR/view?usp=sharing){:target="_blank"} <br> [Group Problem 12](https://drive.google.com/file/d/1Qmfv_FD9w2BBjGIfDuRNAEwFU6OImrVs/view?usp=sharing){:target="_blank"}  | 
 
 <br>
 
+<!-- [Group Problem 9 Solution](https://drive.google.com/file/d/1f6SO0_BLnHQBnB1GLD11PuOjMSz7FJbG/view?usp=sharing){:target="_blank"} <br> [Group Problem 10 Solution](https://drive.google.com/file/d/1NMJDQKI7rZsVkY83eVSo-5QclzAx58Ht/view?usp=sharing){:target="_blank"} -->
+
+<!-- [Group Problem 11 Solution](https://drive.google.com/file/d/1mikBtmi5oGAGsTXF1AVZGBllnchN813a/view?usp=sharing){:target="_blank"} <br> [Group Problem 12 Solution](https://drive.google.com/file/d/1aGW-ZUKFrhTLR7ANoA5e-jwuICjhQyqw/view?usp=sharing){:target="_blank"} -->
+
+<!-- 
 
 Week 4 |  |  | |
 Date | Problem pdf | Solution
