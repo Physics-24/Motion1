@@ -35,8 +35,8 @@ due by Sun Jan 22 at noon <br> **Time limit: 30 minutes** | [Solo Problem 2](htt
 
 Week 2 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/486677/assignments/2551176){:target="_blank"} |  |
-due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/486677/assignments/2551177){:target="_blank"} |  |
+due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 3](https://www.gradescope.com/courses/486677/assignments/2551176){:target="_blank"} | [Solo Problem 3 pdf](https://drive.google.com/file/d/110yjrTicoNZrMyLj4ZQq8rAOTzX-JiP8/view?usp=sharing){:target="_blank"} | [Solo Problem 3 Solution](https://drive.google.com/file/d/1XiBvnmWlbQzryOkfszsHqPjKYU6USzAH/view?usp=sharing){:target="_blank"} 
+due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](https://www.gradescope.com/courses/486677/assignments/2551177){:target="_blank"} | [Solo Problem 4 pdf](https://drive.google.com/file/d/1kssGdJs6eKH_XXqNAaQxuAnev5kfqPaH/view?usp=sharing){:target="_blank"} | [Solo Problem 4 Solution](https://drive.google.com/file/d/1HMTYEWCARstyFPrJ1ucQ3PEJJJdUIlCU/view?usp=sharing){:target="_blank"} 
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -44,10 +44,10 @@ due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](htt
 
 
 
-<!-- [Solo Problem 3 pdf](https://drive.google.com/file/d/110yjrTicoNZrMyLj4ZQq8rAOTzX-JiP8/view?usp=sharing){:target="_blank"} | [Solo Problem 3 Solution](https://drive.google.com/file/d/1XiBvnmWlbQzryOkfszsHqPjKYU6USzAH/view?usp=sharing){:target="_blank"}  -->
+<!--  -->
 
 
-<!-- [Solo Problem 4 pdf](https://drive.google.com/file/d/1kssGdJs6eKH_XXqNAaQxuAnev5kfqPaH/view?usp=sharing){:target="_blank"} | [Solo Problem 4 Solution](https://drive.google.com/file/d/1HMTYEWCARstyFPrJ1ucQ3PEJJJdUIlCU/view?usp=sharing){:target="_blank"} -->
+<!-- -->
 
 
 
