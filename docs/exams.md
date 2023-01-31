@@ -6,6 +6,6 @@ More information will be posted here the week before the midterm.
 
 # Final Exam Information
 
-The Ph24 final exam will take place in-person during exam week (time TBA, so don't make travel arrangements yet). 
+The Ph24 final exam will take place in-person during exam week on Friday May 12, 9am-12pm.
 
 The final is closed book, closed notes and other resources; no calculators are allowed.
