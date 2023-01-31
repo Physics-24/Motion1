@@ -46,7 +46,6 @@ due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](htt
 
 
 
-<!--
 
 ### Week 3
 [Week 3 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1Z_6zCQILDlg1IhV-bIXxSMqWe0A-t69O/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
@@ -68,6 +67,10 @@ due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](http
 
 
 <!-- [Solo Problem 6 pdf](https://drive.google.com/file/d/11lWoRld_pKjfuFTAIWgAL5E6h9XASsfh/view?usp=sharing){:target="_blank"} | [Solo Problem 6 Solution](https://drive.google.com/file/d/1xi7DOzJJQEN1W_rDwFkJKbt97Ib85SRS/view?usp=sharing){:target="_blank"} -->
+
+
+
+<!--
 
 ### Week 4
 [Week 4 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1b6S9SSPuUOUcmZxum_vu6XsVkCHX2fWe/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
