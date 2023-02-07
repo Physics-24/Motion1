@@ -53,8 +53,8 @@ due by Sun Jan 29 at noon <br> **Time limit: 30 minutes** | [Solo Problem 4](htt
 
 Week 3 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 5](https://www.gradescope.com/courses/486677/assignments/2551172){:target="_blank"} |  |
-due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](https://www.gradescope.com/courses/486677/assignments/2551171){:target="_blank"} |  |
+due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 5](https://www.gradescope.com/courses/486677/assignments/2551172){:target="_blank"} |  [Solo Problem 5 pdf](https://drive.google.com/file/d/1vGWfVP1vPsa5a8K5cr3vUtlfKmf_lK0Q/view?usp=sharing){:target="_blank"} | [Solo Problem 5 Solution](https://drive.google.com/file/d/1Y0Lw2Aa9cbP2aO66OUJdi55iLyEqZPMc/view?usp=sharing){:target="_blank"} 
+due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](https://www.gradescope.com/courses/486677/assignments/2551171){:target="_blank"} |  [Solo Problem 6 pdf](https://drive.google.com/file/d/11lWoRld_pKjfuFTAIWgAL5E6h9XASsfh/view?usp=sharing){:target="_blank"} | [Solo Problem 6 Solution](https://drive.google.com/file/d/1xi7DOzJJQEN1W_rDwFkJKbt97Ib85SRS/view?usp=sharing){:target="_blank"}
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -62,28 +62,30 @@ due by Sun Feb 5 at noon <br> **Time limit: 30 minutes** | [Solo Problem 6](http
 
 
 
-<!-- [Solo Problem 5 pdf](https://drive.google.com/file/d/1vGWfVP1vPsa5a8K5cr3vUtlfKmf_lK0Q/view?usp=sharing){:target="_blank"} | [Solo Problem 5 Solution](https://drive.google.com/file/d/1Y0Lw2Aa9cbP2aO66OUJdi55iLyEqZPMc/view?usp=sharing){:target="_blank"}  -->
-
-
-<!-- [Solo Problem 6 pdf](https://drive.google.com/file/d/11lWoRld_pKjfuFTAIWgAL5E6h9XASsfh/view?usp=sharing){:target="_blank"} | [Solo Problem 6 Solution](https://drive.google.com/file/d/1xi7DOzJJQEN1W_rDwFkJKbt97Ib85SRS/view?usp=sharing){:target="_blank"} -->
 
 
 
-<!--
 
 ### Week 4
 [Week 4 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1b6S9SSPuUOUcmZxum_vu6XsVkCHX2fWe/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
 
 Week 4 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 7](https://www.gradescope.com/courses/486677/assignments/2551167){:target="_blank"} | [Solo Problem 7 pdf](https://drive.google.com/file/d/1JB3l6I_vqQ9qg4ZskYpiSvxYdNvzLxu4/view?usp=sharing){:target="_blank"} | [Solo Problem 7 Solution](https://drive.google.com/file/d/1bv28z6vuSHhDCjRFlhy0Kg7OK5Ro3uhv/view?usp=sharing){:target="_blank"}
-due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 8](https://www.gradescope.com/courses/486677/assignments/2551166){:target="_blank"} | [Solo Problem 8 pdf](https://drive.google.com/file/d/1iLe7sQllKntrxwHFkxOulMEraHXgmO73/view?usp=sharing){:target="_blank"} | [Solo Problem 8 Solution](https://drive.google.com/file/d/1HM-NYxcGdtlYUisdMOqxtta2w1FMfqu5/view?usp=sharing){:target="_blank"}
+due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 7](https://www.gradescope.com/courses/486677/assignments/2551167){:target="_blank"} |  |
+due by Sun Feb 12 at noon <br> **Time limit: 30 minutes** | [Solo Problem 8](https://www.gradescope.com/courses/486677/assignments/2551166){:target="_blank"} |  |
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
 
+
+<!--  [Solo Problem 7 pdf](https://drive.google.com/file/d/1JB3l6I_vqQ9qg4ZskYpiSvxYdNvzLxu4/view?usp=sharing){:target="_blank"} | [Solo Problem 7 Solution](https://drive.google.com/file/d/1bv28z6vuSHhDCjRFlhy0Kg7OK5Ro3uhv/view?usp=sharing){:target="_blank"} -->
+
+
+<!--  [Solo Problem 8 pdf](https://drive.google.com/file/d/1iLe7sQllKntrxwHFkxOulMEraHXgmO73/view?usp=sharing){:target="_blank"} | [Solo Problem 8 Solution](https://drive.google.com/file/d/1HM-NYxcGdtlYUisdMOqxtta2w1FMfqu5/view?usp=sharing){:target="_blank"} -->
+
+<!--
 
 ### Week 5
 [Week 5 Solo Problem Coversheet is available here](https://drive.google.com/file/d/1dSxEcksBtU-Wc5oZHTwv3ctt62eYyLGO/view?usp=sharing){:target="_blank"}. You can look at this coversheet beforehand for the formulae you will have during the solo problems. 
