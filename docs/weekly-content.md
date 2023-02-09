@@ -11,16 +11,12 @@ Dates                               | Topics
 [Week 2 <br> Jan 22 - Jan 28](week2) |  Newton's laws, center-of-mass, conservation of momentum
 [Week 3 <br> Jan 29 - Feb 4](week3) |  Isolation diagrams, contact forces, gravity; springs, rods and ropes
 [Week 4 <br>  Feb 5 - Feb 11](week4) |  Internal Forces; Friction and drag
-
-
-
-
-Next week:
-
 [Week 5 <br> Feb 12 - Feb 18](week5) | Conservation of energy, gravitational potential energy, spring potential energy, kinetic energy, work
 
 <!--
 
+
+Next week:
 
 
 [Week 6 <br>  Feb 19 - Feb 25](week6) |  Work-energy theorem, elastic & inelastic collisions
