@@ -102,7 +102,6 @@ Thursday Feb 16 | [Group Problem 19](https://drive.google.com/file/d/1hggfYZm4sS
 
 <br>
 
-<!-- 
 
 
 Week 6 |  |  | |
@@ -113,6 +112,8 @@ Thursday Feb 23 | [Group Problem 23](https://drive.google.com/file/d/1qoZskMKJ6e
 
 <br>
 
+
+<!-- 
 
 #### Week 7
 
