@@ -1,8 +1,10 @@
 # Midterm Information
 
-The midterm will take place on Thursday March 2 during your usual Group Problem session. The midterm is in-person, 75 minutes long, and closed book.
+The midterm is in-person, 75 minutes long, and closed book.
 
-More information will be posted here the week before the midterm.
+The midterm will take place on Thursday March 2 during your usual Thursday Group Problem session time, but note the location is different. **Midterm Location: Galileo Lecture Hall**
+
+Please see the [Week 7 content](week7) for information about studying and review for the midterm.
 
 # Final Exam Information
 
