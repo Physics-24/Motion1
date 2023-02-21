@@ -48,10 +48,10 @@ conservation of center-of-mass position for a system initially at rest | [Solo P
 
 Topic | Example Problem
 ---------|-------------
-isolation diagram approach | [Solo Problem 5](https://drive.google.com/file/d/1T3FU46_0InZY6mmew3s5JN8uTtgcY7qx/view?usp=sharing){:target="_blank}
+isolation diagram approach | [Solo Problem 5](https://drive.google.com/file/d/1T3FU46_0InZY6mmew3s5JN8uTtgcY7qx/view?usp=sharing){:target="_blank"}
 springs | [Solo Problem 6](https://drive.google.com/file/d/1pB58hcM1yxx95eHI3uh3R3piNWboiLQR/view?usp=sharing){:target="_blank"} (bonus circular motion)| 
-ropes, contact forces, gravity | [Recitation Set 5, 8P38](https://drive.google.com/file/d/102-vW3-o7ig-SlSFCaQlh6-7LsOvy4F-/view){:target="_blank} |
-determining acceleration of a massless object | [Recitation Set 6, 8P41](https://drive.google.com/file/d/1DECkLAsUYHk0Qx1sOnGpl9qYtDyNIKtj/view){:target="_blank} | 
+ropes, contact forces, gravity | [Recitation Set 5, 8P38](https://drive.google.com/file/d/102-vW3-o7ig-SlSFCaQlh6-7LsOvy4F-/view){:target="_blank"} |
+determining acceleration of a massless object | [Recitation Set 6, 8P41](https://drive.google.com/file/d/1DECkLAsUYHk0Qx1sOnGpl9qYtDyNIKtj/view){:target="_blank"} | 
 
 #### Week 4 
 
@@ -66,7 +66,7 @@ drag | [Solo Problem 8, 9P36](https://drive.google.com/file/d/1iLe7sQllKntrxwHFk
 
 Topic | Example Problem
 ---------|--------------
-kinetic & gravitation potential energy | [Recitation Set 9, 1st problem](https://drive.google.com/file/d/1bEURF7RNfpozgXe7juMW8LNLUqr96p_h/view){:target="_blank}
+kinetic & gravitation potential energy | [Recitation Set 9, 1st problem](https://drive.google.com/file/d/1bEURF7RNfpozgXe7juMW8LNLUqr96p_h/view){:target="_blank"}
 spring potential energy | [Recitation Set 9, 2nd problem](https://drive.google.com/file/d/1bEURF7RNfpozgXe7juMW8LNLUqr96p_h/view){:target="_blank"}
 combined energy and force problems | [Solo Problem 10, 10P20](https://drive.google.com/file/d/1KMnotHM8q8ADUtX8KE0xs6nZCioJkAJE/view?usp=sharing){:target="_blank"}
 work & energy | [Solo Problem 9, 11P35](https://drive.google.com/file/d/1OA8FOhcWzNHZOXFgqE6w6HXIY0KVMWRb/view?usp=sharing){:target="_blank"}
