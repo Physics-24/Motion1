@@ -8,13 +8,18 @@ Our midterm exam (75 minutes long) will take place during class on Thursday, Mar
 
 **Location: Galileo Lecture Hall**
 
-Although there is nothing else to hand in, we are still meeting during our usual recitation times. Instead of the usual 3 problems in each recitation and 2 problems in each group problem session, we are releasing a 7-problem combined review set (see below). This review set includes the same cover sheet you will receive on your midterm. On Monday your recitation instructor will make some recommendations for how to most effectively use your time this week and outline their plan for Monday/Wednesday recitation.
+Although there is nothing else to hand in, we are still meeting during our usual recitation times. Instead of the usual 3 problems in each recitation and 2 problems in each group problem session, we are releasing a 7-problem combined review set (see below). This review set includes the same cover sheet you will receive on your midterm. On Monday your recitation instructor will make some recommendations for how to most effectively use your time this week and outline their plan for Monday/Wednesday recitation. Come to the group problem session on Tuesday with questions!
 
 ## Reivew Problem Set
 
 [midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
 
 ## Review Problem Set Solutions
+
+Solutions will be released on Tuesday, February 28. 
+
+It is highly recommended that you don't look at the solutions until you are finished making an attempt at each problem. Think about what partial credit might look like on the midterm. Did you draw diagrams? Did you set up the main principles (e.g. Newton's 2nd law; conservation of momentum; conservation of energy)?  
+
 
 [midterm-review-problems-solutions.pdf](https://drive.google.com/file/d/1G9Dlzkf0MsfrXQhN0cZx1sxJ5Pqt_ayC/view?usp=sharing){:target="_blank"}
 
