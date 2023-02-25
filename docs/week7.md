@@ -31,7 +31,8 @@ Below is a list of topics that we covered in the first half of Physics 24. Inclu
 
 Topic | Example Problem
 ---------|----------
-constant acceleration kinematics | [Recitation Set 2, 8P21](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view){:target="_blank"} 
+relative velocity | [Recitation Set 2, 2P7](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view){:target="_blank"} 
+non-constant acceleration kinematics | [Recitation Set 2, 5P10](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view){:target="_blank"} 
 uniform circular motion | [Recitation Set 2, 5P31](https://drive.google.com/file/d/1gRbEpzYTazOfMZ-kyEcU1jzxjM0AjNrz/view){:target="_blank"}
 
 #### Week 2

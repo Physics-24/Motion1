@@ -13,16 +13,13 @@ Dates                               | Topics
 [Week 4 <br>  Feb 5 - Feb 11](week4) |  Internal Forces; Friction and drag
 [Week 5 <br> Feb 12 - Feb 18](week5) | Conservation of energy, gravitational potential energy, spring potential energy, kinetic energy, work
 [Week 6 <br>  Feb 19 - Feb 25](week6) |  Work-energy theorem, elastic & inelastic collisions
-
-Next week:
-
 [Week 7 <br>  Feb 26 - Mar 4](week7) |  Review and midterm prep; Midterm Exam
 
 
 
 <!--
 
-
+Next week:
 
 [Week 8 <br>  Mar 5 - Mar 11](week8) |  Angular velocity, angular momentum, moment of inertia, torque
 Spring Break <br>  Mar 12 - Mar 18 | Nothing due, nothing to do
