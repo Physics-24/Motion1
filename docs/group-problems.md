@@ -113,21 +113,6 @@ Thursday Feb 23 | [Group Problem 23](https://drive.google.com/file/d/1qoZskMKJ6e
 <br>
 
 
-<!-- 
-
-#### Week 7
-
-Tuesday Mar 1 - Q&A about review (no group problems to submit)
-[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
-
-[midterm-review-problems-solutions.pdf](https://drive.google.com/file/d/1G9Dlzkf0MsfrXQhN0cZx1sxJ5Pqt_ayC/view?usp=sharing){:target="_blank"}
-
-Thursday Mar 3 - *Midterm Exam**
-
-Our midterm exam (75 minutes long) will take place in-person on Thursday March 2 8:10-9:25am or 9:35-10:50am in your usual Group Problem location. 
-
-<br>
-
 
 Week 8 |  |  | |
 Date | Problem pdf | Solution
@@ -136,6 +121,9 @@ Tuesday Mar 7 | [Group Problem 25](https://drive.google.com/file/d/1LxAibcrORHLa
 Thursday Mar 9 | [Group Problem 27](https://drive.google.com/file/d/1s48fnwMfp7p6dRAgR5rDRT2hlPE2IPuD/view?usp=sharing){:target="_blank"} <br> [Group Problem 28](https://drive.google.com/file/d/1jcBbbe5tOiSHMRaQpsYiuxmC9CLu4TmX/view?usp=sharing){:target="_blank"} | [Group Problem 27 Solution](https://drive.google.com/file/d/17d5ixK3BxzuGdzBib93ZKyjEBUV3OI2C/view?usp=sharing){:target="_blank"} <br> [Group Problem 28 Solution](https://drive.google.com/file/d/1KJaoTEbnSOJcrNnootuvcWhw-71n4Cfj/view?usp=sharing){:target="_blank"}
 
 <br>
+
+
+<!-- 
 
 
 Week 9  |  |  | |
