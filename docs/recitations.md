@@ -64,22 +64,6 @@ Wednesday Feb 22 | [Recitation Set 12](https://drive.google.com/file/d/1UTuR0Xgh
 <br> 
 
 
-<!--
-
-
-
-#### Week 7
-
-[midterm-reivew-problems-with-coversheet.pdf](https://drive.google.com/file/d/1G9LkXlp58wkSYbxn1LgUSJkcHdBELae9/view?usp=sharing){:target="_blank"}
-
-[midterm-review-problems-solutions.pdf](https://drive.google.com/file/d/1G9Dlzkf0MsfrXQhN0cZx1sxJ5Pqt_ayC/view?usp=sharing){:target="_blank"}
-
-
-Our midterm exam (75 minutes long) will take place on Thursday March 2. The exam will take place in-person in the usual Group Problem rooms of the Shan basement.
-
-<br>
-
-
 
 Week 8 |  |  | |
 ---| --- | -- | -- |
@@ -88,6 +72,7 @@ Wednesday Mar 8 | [Recitation Set 16](https://drive.google.com/file/d/1lOQup6uEs
 
 <br>
 
+<!--
 
 
 Week 9 |  |  | |
