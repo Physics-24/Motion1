@@ -11,14 +11,14 @@ Please arrive on time. This will help us sort out the group logistics.
 
 Location: Shan basement
 
-Please look up your assigned group number for **weeks 4-7** here:
+Please look up your assigned group number for **weeks 8-10** here:
 
-[Section 1 Tu/Th 8:10am Groups](https://drive.google.com/file/d/1JoFhmBaHV0ZorBFbFsGXrBhXtjHinZQJ/view?usp=sharing){:target="_blank"}
+[Section 1 Tu/Th 8:10am Groups](https://drive.google.com/file/d/17hfov0A7KEAgOTam1C6LV0j2vcZw55iY/view?usp=share_link){:target="_blank"}
 
-[Section 2 Tu/Th 9:35am Groups](https://drive.google.com/file/d/1Jx5Mu6BsTxnxNYasi7Rgxubbze2drXqM/view?usp=sharing){:target="_blank"}
+[Section 2 Tu/Th 9:35am Groups](https://drive.google.com/file/d/18Ak8c9ToAe-SkN9KEOTix7lThVcd0XjM/view?usp=share_link){:target="_blank"}
 
 
-To help us create productive and happy groups for Weeks 8-10, please update/fill out this Google Form:
+To help us create productive and happy groups for Weeks 11-14, please update/fill out this Google Form:
 [Group Problem Preferences Form](https://forms.gle/vzyrZ5mEVzcDExau8){:target="_blank"}
 
 
