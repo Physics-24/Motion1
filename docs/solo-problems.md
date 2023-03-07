@@ -111,12 +111,6 @@ due by Sun Feb 26 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://ww
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
-<!-- -->
-
-
-<!--     -->
-
-<!--
 
 
 
@@ -125,13 +119,19 @@ due by Sun Feb 26 <br> **Time limit: 30 minutes** | [Solo Problem 11](https://ww
 
 Week 8 | Gradescope Link | Problem pdf | Solution | 
 ---| --- | -- | 
-due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](https://www.gradescope.com/courses/486677/assignments/2551160){:target="_blank"} | [Solo Problem 12 pdf](https://drive.google.com/file/d/19Mgi5vCGdBohikdp7M5dbdMq7lqQ8Fa6/view?usp=sharing){:target="_blank"} | [Solo Problem 12 Solution](https://drive.google.com/file/d/1bZO7_cc16mbntvdeoW_u8nfiD7xskmWg/view?usp=sharing){:target="_blank"}
-due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](https://www.gradescope.com/courses/486677/assignments/2551159){:target="_blank"} | [Solo Problem 13 pdf](https://drive.google.com/file/d/1WBqGcBmLjSP6IW1DYnCuMk9ZYGI3XlaU/view?usp=sharing){:target="_blank"} | [Solo Problem 13 Solution](https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
-
+due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 12](https://www.gradescope.com/courses/486677/assignments/2551160){:target="_blank"} | | 
+due by Fri Mar 10 at 5pm <br> **Time limit: 30 minutes** | [Solo Problem 13](https://www.gradescope.com/courses/486677/assignments/2551159){:target="_blank"} | |
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
+<!-- | [Solo Problem 12 pdf](https://drive.google.com/file/d/19Mgi5vCGdBohikdp7M5dbdMq7lqQ8Fa6/view?usp=sharing){:target="_blank"} | [Solo Problem 12 Solution](https://drive.google.com/file/d/1bZO7_cc16mbntvdeoW_u8nfiD7xskmWg/view?usp=sharing){:target="_blank"} -->
+
+
+<!--  [Solo Problem 13 pdf](https://drive.google.com/file/d/1WBqGcBmLjSP6IW1DYnCuMk9ZYGI3XlaU/view?usp=sharing){:target="_blank"} | [Solo Problem 13 Solution](https://drive.google.com/file/d/1zpeNzVkl1D-MlOhJ7kI8xix_y6sMOqsd/view?usp=sharing){:target="_blank"}
+   -->
+
+<!--
 
 
 ### Week 9
