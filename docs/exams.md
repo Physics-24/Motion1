@@ -6,6 +6,9 @@ The midterm will take place on Thursday March 2 during your usual Thursday Group
 
 Please see the [Week 7 content](week7) for information about studying and review for the midterm.
 
+The [Midterm Solutions](https://drive.google.com/file/d/1Ozs4860HNJk9Qy3Q8qebdwSDDbhlWdpD/view?usp=sharing){:target="_blank"} are now available.
+
+
 # Final Exam Information
 
 The Ph24 final exam will take place in-person during exam week on Friday May 12, 9am-12pm.
