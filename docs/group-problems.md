@@ -170,7 +170,6 @@ Thursday Apr 20 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPum
 
 <br>
 
-<!-- 
 
 Week 14 |  |  | |
 ---| --- | -- | -- |
@@ -178,6 +177,7 @@ Tuesday Apr 25 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2
 Thursday Apr 27 | No Group Problems - Final Lecture in Galileo
 
 
+<!-- 
 -->
 
 <br>
