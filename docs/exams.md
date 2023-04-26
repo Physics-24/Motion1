@@ -14,3 +14,5 @@ The [Midterm Solutions](https://drive.google.com/file/d/1Ozs4860HNJk9Qy3Q8qebdwS
 The Ph24 final exam will take place in-person during exam week on Friday May 12, 9am-12pm.
 
 The final is closed book, closed notes and other resources; no calculators are allowed.
+
+The formula sheet for the final exam will contain the formulas used on the [last Solo Problem Coversheet (from week 13)](https://drive.google.com/file/d/1vxUe_4qtzRI4TQqTGsE8sLJ5J7Lo4XDW/view?usp=sharing){:target="_blank"}
