@@ -174,7 +174,7 @@ Thursday Apr 20 | [Group Problem 45](https://drive.google.com/file/d/1-2irQurPum
 Week 14 |  |  | |
 ---| --- | -- | -- |
 Tuesday Apr 25 | [Group Problem 47](https://drive.google.com/file/d/1lV0vkyrvoO2JrEicBsAkSl5aU_9t1qSS/view?usp=sharing){:target="_blank"} | [Group Problem 47 Solution](https://drive.google.com/file/d/1O-Q5cPezBRaKjqqBi5MO7B-7v7KS1SJl/view?usp=sharing){:target="_blank"}
-Thursday Apr 27 | No Group Problems - Final Lecture in Galileo
+Thursday Apr 27 | No Group Problems - Final Lecture in Galileo | [Lecture Slides](https://drive.google.com/file/d/1bvh6RgvoQ7LkNti7VmzfITv0EXLaNGPs/view?usp=sharing){:target="_blank"} <br> [Mathematica notebook for Cat in the Hat problem](https://drive.google.com/file/d/1bteWRAzNh1iLfxvrZxLNMLoXgTv-LIpE/view?usp=share_link){:target="_blank"}
 
 
 <!-- 
