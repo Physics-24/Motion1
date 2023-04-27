@@ -71,6 +71,10 @@ Recommended: [*click here to open the miniquestion in a new tab*](https://forms.
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
+A final in-person lecture will take place on Thursday in Galileo during your group problem session. 
+
+[Final Lecture Slides](https://drive.google.com/file/d/1bvh6RgvoQ7LkNti7VmzfITv0EXLaNGPs/view?usp=sharing){:target="_blank"} <br> [Mathematica notebook for Cat in the Hat problem](https://drive.google.com/file/d/1bteWRAzNh1iLfxvrZxLNMLoXgTv-LIpE/view?usp=share_link){:target="_blank"}
+
 ## Optional Readings and Extra Problems
 
 In case you would like a textbook reference for the material presented above, here are links to pdfs of the corresponding sections of the textbook "Motion" by Prof. Tom Helliwell. Note the sections of the book are labeled as "Day 1", "Day 2", etc. in the pdf files. Also provided is a link to extra problems from each section of the book if you would like additional practice. You can check your answers to odd-numbered problems in the back of the book: [answers to odd numbered problems](https://drive.google.com/file/d/1bigFxuodBziViCP_bVSIJRpPI0XdU6Pc/view?usp=sharing){:target="_blank"}
